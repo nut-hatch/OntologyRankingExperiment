@@ -1,0 +1,626 @@
+ [
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "13"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "30"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "9"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "11"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "9"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "26"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Vocabularies"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "14"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "15"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "25"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "11"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "17"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Biology"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "9"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "12"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "13"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "25"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Academy"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "FRBR"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "RDF"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "10"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Travel"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "10"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Government"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "12"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Time"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "8"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "API"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "9"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Tag"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "10"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Support"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "19"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Environment"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "22"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Multimedia"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Events"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "9"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "SPAR"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "SSDesk"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Music"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Press"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Contracts"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Image"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "PLM"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "eBusiness"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Games"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Security"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "IoT"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "21"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Industry"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "25"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Services"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "26"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Health"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        }
+      },
+      {
+        "keyword": {
+          "type": "literal",
+          "value": "Transport"
+        },
+        "cntReused": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        },
+        "cntTotal": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        }
+      }
+    ]

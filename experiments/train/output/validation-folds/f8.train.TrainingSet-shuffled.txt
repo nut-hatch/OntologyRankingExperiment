@@ -1,0 +1,944 @@
+4 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.0 7:4.0 8:0.0 9:6.0 10:16.0 11:0.0 # query=event; ontology=http://pervasive.semanticweb.org/ont/2004/06/event
+1 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.15384616 7:4.0 8:0.0 9:26.0 10:18.0 11:24.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/phen.owl
+1 qid:4 1:0.0 2:0.0 3:0.9014271 4:1.0 5:0.0 6:0.41666666 7:1.0 8:0.0 9:24.0 10:6.0 11:22.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeol.owl
+1 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.041666668 7:0.0 8:0.0 9:24.0 10:0.0 11:22.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/phenReaction.owl
+1 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10869565 7:0.0 8:0.0 9:46.0 10:1.0 11:40.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/phenSystem.owl
+1 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.074074075 7:0.0 8:0.0 9:27.0 10:0.0 11:24.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/phenSystemComplexity.owl
+1 qid:4 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.051136363 7:6.0 8:0.0 9:176.0 10:24.0 11:165.0 # query=event; ontology=http://www.demcare.eu/ontologies/event.owl
+0 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.22857143 7:0.0 8:0.0 9:35.0 10:0.0 11:34.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandFluvial.owl
+0 qid:4 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.033333335 7:2.0 8:0.0 9:90.0 10:9.0 11:42.0 # query=event; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl
+0 qid:4 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.025 7:0.0 8:0.0 9:40.0 10:0.0 11:10.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleBiological.owl
+0 qid:4 1:0.0 2:0.0 3:1.5352968 4:1.0 5:0.0 6:0.032724984 7:0.0 8:0.0 9:14301.0 10:0.0 11:14394.0 # query=event; ontology=http://cavoc.org/aao/ns/2
+0 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:0.0 11:31.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathSolution.owl
+0 qid:4 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033333335 7:0.0 8:0.0 9:30.0 10:0.0 11:29.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/matrEnergy.owl
+0 qid:4 1:0.0 2:0.0 3:1.5492136 4:1.0 5:0.0 6:0.44262296 7:1.0 8:0.0 9:61.0 10:7.0 11:65.0 # query=event; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoPressure.owl
+4 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.010416667 7:0.0 8:0.0 9:96.0 10:0.0 11:22.0 # query=thermometer; ontology=http://a.com/ontology
+3 qid:18 1:0.0 2:20.0 3:0.0 4:1.0 5:0.0 6:0.36915886 7:0.0 8:0.0 9:214.0 10:0.0 11:143.0 # query=thermometer; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+3 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03937008 7:0.0 8:0.0 9:762.0 10:0.0 11:255.0 # query=thermometer; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+3 qid:18 1:0.0 2:4.0 3:0.0 4:0.0 5:0.0068765767 6:0.0 7:0.0 8:0.0 9:28.0 10:0.0 11:0.0 # query=thermometer; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl
+2 qid:18 1:1.0 2:0.0 3:20.980001 4:1.0 5:0.0 6:0.1545239 7:0.0 8:1.0 9:2951.0 10:0.0 11:2963.0 # query=thermometer; ontology=http://elite.polito.it/ontologies/dogont.owl
+2 qid:18 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.087628864 7:0.0 8:0.0 9:194.0 10:0.0 11:84.0 # query=thermometer; ontology=http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl
+2 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:1005.0 10:0.0 11:422.0 # query=thermometer; ontology=http://webmind.dico.unimi.it/CARE/locont.owl
+2 qid:18 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.009803922 7:0.0 8:0.0 9:204.0 10:0.0 11:51.0 # query=thermometer; ontology=http://www.owl-ontologies.com/kamer/patient.owl
+1 qid:18 1:1.0 2:5.0 3:0.0 4:0.0 5:0.0 6:0.09768379 7:0.0 8:0.0 9:993.0 10:0.0 11:39.0 # query=thermometer; ontology=http://paul.staroch.name/thesis/SmartHomeWeather.owl
+1 qid:18 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.26755852 7:0.0 8:0.0 9:299.0 10:0.0 11:41.0 # query=thermometer; ontology=http://vi.uni-klu.ac.at/ontology/DrivingContext.owl
+1 qid:18 1:1.0 2:0.0 3:10.222002 4:1.0 5:0.017690243 6:0.18343496 7:0.0 8:0.0 9:1968.0 10:0.0 11:984.0 # query=thermometer; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl
+1 qid:18 1:1.0 2:0.0 3:13.474576 4:1.0 5:0.0 6:0.38028845 7:0.0 8:0.0 9:2080.0 10:0.0 11:1346.0 # query=thermometer; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl
+0 qid:18 1:1.0 2:0.0 3:8.100222 4:1.0 5:0.009799431 6:0.375 7:0.0 8:0.0 9:184.0 10:0.0 11:10.0 # query=thermometer; ontology=http://elite.polito.it/ontologies/poweront.owl
+0 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04347826 7:0.0 8:0.0 9:23.0 10:0.0 11:22.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.3/human.owl
+0 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10714286 7:0.0 8:0.0 9:28.0 10:0.0 11:29.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl
+0 qid:18 1:1.0 2:1.0 3:0.0 4:1.0 5:0.017690243 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:8.0 # query=thermometer; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-geo
+0 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.23076923 7:0.0 8:0.0 9:13.0 10:0.0 11:14.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.3/propDifference.owl
+0 qid:18 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:1.6885246 7:0.0 8:0.0 9:61.0 10:0.0 11:0.0 # query=thermometer; ontology=http://www.w3.org/ns/sosa
+0 qid:18 1:1.0 2:1.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:2315.0 10:0.0 11:102.0 # query=thermometer; ontology=http://www.owl-ontologies.com/SunMoonLakeOntology.owl
+0 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.02 7:0.0 8:0.0 9:50.0 10:0.0 11:30.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataServiceAnalysis.owl
+0 qid:18 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:62.0 10:0.0 11:18.0 # query=thermometer; ontology=http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl
+0 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.057142857 7:0.0 8:0.0 9:35.0 10:0.0 11:30.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycle.owl
+0 qid:18 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.1369863 7:0.0 8:0.0 9:73.0 10:0.0 11:71.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.0/geolEarthquake.owl
+0 qid:18 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.16981132 7:0.0 8:0.0 9:53.0 10:0.0 11:59.0 # query=thermometer; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergy.owl
+4 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.100370206 6:0.42212188 7:0.35355338 8:0.0 9:443.0 10:86.0 11:393.0 # query=internet of things; ontology=http://purl.oclc.org/NET/ssnx/ssn
+2 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2692307 7:0.0 8:0.0 9:78.0 10:7.0 11:53.0 # query=internet of things; ontology=http://openiot.eu/ontology/ns
+1 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5555556 7:18.384775 8:0.0 9:396.0 10:64.0 11:308.0 # query=internet of things; ontology=http://iot.linkeddata.es/def/core
+1 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.47398844 7:2.4748738 8:0.0 9:173.0 10:3.0 11:141.0 # query=internet of things; ontology=http://iot.linkeddata.es/def/wot
+1 qid:8 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0068765767 6:0.4293478 7:0.0 8:0.0 9:184.0 10:14.0 11:141.0 # query=internet of things; ontology=http://personal.ee.surrey.ac.uk/Personal/Wei.Wang/ontologies/IoT.est.owl
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.023809524 7:0.0 8:0.0 9:42.0 10:0.0 11:7.0 # query=internet of things; ontology=http://portal.bt-hypercat.com/ontologies/bt-hypercat
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2272727 7:0.0 8:0.0 9:22.0 10:0.0 11:2.0 # query=internet of things; ontology=http://portal.bt-hypercat.com/ontologies/hypercat
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2686567 7:0.0 8:0.0 9:134.0 10:20.0 11:124.0 # query=internet of things; ontology=http://purl.oclc.org/NET/UASO/qoi
+1 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.7017543 7:4.596194 8:0.0 9:57.0 10:7.0 11:9.0 # query=internet of things; ontology=http://purl.oclc.org/NET/UNIS/fiware/iot-lite
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5857143 7:0.0 8:0.0 9:70.0 10:2.0 11:24.0 # query=internet of things; ontology=http://purl.oclc.org/NET/UNIS/sao/sao
+1 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.5632353 7:18.738329 8:0.0 9:680.0 10:84.0 11:585.0 # query=internet of things; ontology=http://purl.org/iot/ontology/fiesta-iot
+1 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.6077058 7:15.909903 8:0.0 9:571.0 10:71.0 11:545.0 # query=internet of things; ontology=http://purl.org/iot/vocab/m3-lite
+1 qid:8 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:2.705348 7:35.001785 8:0.0 9:991.0 10:214.0 11:347.0 # query=internet of things; ontology=http://www-usr.inf.ufsm.br/~brunomozza/iotsec
+1 qid:8 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.8319328 7:0.0 8:1.0 9:238.0 10:1.0 11:46.0 # query=internet of things; ontology=http://www.ontologydesignpatterns.org/ont/prisma/ontology.owl
+1 qid:8 1:0.0 2:13.0 3:0.0 4:0.0 5:0.0068765767 6:0.046296295 7:0.35355338 8:0.0 9:324.0 10:2.0 11:26.0 # query=internet of things; ontology=http://www.semanticweb.org/ontologies/2011/7/SA.owl
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.025641026 7:0.0 8:0.0 9:39.0 10:0.0 11:0.0 # query=internet of things; ontology=http://www.surrey.ac.uk/ccsr/IoT-A/EntityModel.owl
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.16 7:0.0 8:0.0 9:25.0 10:0.0 11:1.0 # query=internet of things; ontology=http://www.surrey.ac.uk/ccsr/ontologies/ServiceModel.owl
+1 qid:8 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:1.6885246 7:0.0 8:0.0 9:61.0 10:2.0 11:0.0 # query=internet of things; ontology=http://www.w3.org/ns/sosa
+1 qid:8 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.10215054 7:0.0 8:0.0 9:558.0 10:3.0 11:519.0 # query=internet of things; ontology=http://www.w3.org/ns/ssn
+1 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.17592593 7:1.0606601 8:0.0 9:108.0 10:0.0 11:15.0 # query=internet of things; ontology=http://www.w3c.org/wot/td
+1 qid:8 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.5354839 7:1.767767 8:1.0 9:155.0 10:4.0 11:131.0 # query=internet of things; ontology=https://www.irit.fr/recherches/MELODI/ontologies/IoT-O
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0127222845 6:0.1780822 7:0.0 8:0.0 9:73.0 10:0.0 11:41.0 # query=internet of things; ontology=http://pervasive.semanticweb.org/ont/2004/06/bdi
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03937008 7:0.0 8:0.0 9:762.0 10:6.0 11:255.0 # query=internet of things; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+0 qid:8 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1545239 7:2.1213202 8:1.0 9:2951.0 10:56.0 11:2963.0 # query=internet of things; ontology=http://elite.polito.it/ontologies/dogont.owl
+0 qid:8 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.015873017 7:0.0 8:0.0 9:63.0 10:0.0 11:0.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleTrust.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05 7:0.0 8:0.0 9:20.0 10:0.0 11:18.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycleMaterial.owl
+0 qid:8 1:0.0 2:5.0 3:0.0 4:0.0 5:0.0 6:0.08695652 7:0.0 8:0.0 9:23.0 10:0.0 11:0.0 # query=internet of things; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Service.owl
+0 qid:8 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:0.0 10:0.0 11:0.0 # query=internet of things; ontology=https://www.w3.org/2005/Incubator/ssn/ssnx/meteo/aws
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.75 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=internet of things; ontology=http://pervasive.semanticweb.org/ont/2004/06/policy
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.40462428 7:0.0 8:0.0 9:173.0 10:2.0 11:97.0 # query=internet of things; ontology=http://www.csiro.au/Ontologies/2009/SensorOntology.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1875 7:0.0 8:0.0 9:64.0 10:0.0 11:53.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/phenSolid.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09375 7:0.0 8:0.0 9:32.0 10:4.0 11:36.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/propQuantity.owl
+0 qid:8 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:1.36 7:0.0 8:0.0 9:25.0 10:1.0 11:9.0 # query=internet of things; ontology=http://sensormeasurement.appspot.com/ont/m3/tourism
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:2.0 11:31.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathSolution.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04255319 7:0.0 8:0.0 9:47.0 10:0.0 11:46.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:21.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandProtected.owl
+0 qid:8 1:0.0 2:4.0 3:0.0 4:0.0 5:0.0068765767 6:0.0 7:0.0 8:0.0 9:28.0 10:0.0 11:0.0 # query=internet of things; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:2.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleRepresentative.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25842696 7:0.0 8:0.0 9:712.0 10:0.0 11:284.0 # query=internet of things; ontology=http://www.Smart-Homes-owl-ontologies.com/Person_SH_Ontology.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.44444445 7:0.0 8:0.0 9:27.0 10:5.0 11:25.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl
+0 qid:8 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.15384616 7:0.0 8:0.0 9:13.0 10:0.0 11:9.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/propCategorical.owl
+0 qid:8 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.14814815 7:0.0 8:0.0 9:27.0 10:0.0 11:22.0 # query=internet of things; ontology=http://sweet.jpl.nasa.gov/2.3/matrAerosol.owl
+4 qid:5 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=food; ontology=http://reclamo.inf.um.es/secoman/owl/SupermarketOntology.owl
+4 qid:5 1:1.0 2:2.0 3:3.0595772 4:1.0 5:0.0 6:1.28 7:5.0 8:0.0 9:50.0 10:26.18198 11:15.0 # query=food; ontology=http://sensormeasurement.appspot.com/naturopathy
+2 qid:5 1:1.0 2:1.0 3:1.5385218 4:1.0 5:0.0127222845 6:0.039076377 7:32.0 8:0.0 9:563.0 10:109.778175 11:427.0 # query=food; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/food.owl
+2 qid:5 1:1.0 2:0.0 3:3.1091611 4:1.0 5:0.0068765767 6:0.997936 7:15.0 8:0.0 9:969.0 10:54.54594 11:1019.0 # query=food; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/food_taxonomy.owl
+2 qid:5 1:0.0 2:0.0 3:3.8807125 4:1.0 5:0.0 6:0.3243243 7:13.0 8:1.0 9:37.0 10:46.778175 11:11.0 # query=food; ontology=http://purl.org/foodontology
+1 qid:5 1:0.0 2:8.0 3:1.5969518 4:1.0 5:0.0 6:0.19031142 7:0.0 8:0.0 9:289.0 10:0.0 11:49.0 # query=food; ontology=http://owlrep.eu01.aws.af.cm/fridge
+1 qid:5 1:1.0 2:0.0 3:62.104202 4:1.0 5:0.0 6:0.013139696 7:20.0 8:0.0 9:1446.0 10:65.65685 11:153.0 # query=food; ontology=http://web.tiscali.it/lchkl/ontology/FoodOntology.owl
+0 qid:5 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.75 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=food; ontology=http://pervasive.semanticweb.org/ont/2004/06/policy
+0 qid:5 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.071428575 7:0.0 8:0.0 9:42.0 10:0.0 11:42.0 # query=food; ontology=http://sweet.jpl.nasa.gov/2.3/phenBiol.owl
+0 qid:5 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:43.0 10:0.0 11:18.0 # query=food; ontology=http://www.semanticweb.org/bogdan/ontologies/2013/11/cisis
+0 qid:5 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5928571 7:0.0 8:1.0 9:140.0 10:0.0 11:42.0 # query=food; ontology=http://mmisw.org/ont/mmi/device
+0 qid:5 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09375 7:0.0 8:0.0 9:32.0 10:0.0 11:36.0 # query=food; ontology=http://sweet.jpl.nasa.gov/2.3/propQuantity.owl
+0 qid:5 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.46666667 7:0.0 8:0.0 9:15.0 10:0.35355338 11:14.0 # query=food; ontology=http://sweet.jpl.nasa.gov/2.3/matrMineral.owl
+0 qid:5 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.0 7:0.0 8:0.0 9:6.0 10:0.0 11:0.0 # query=food; ontology=http://pervasive.semanticweb.org/ont/2004/06/event
+4 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.1552795 7:3.0 8:0.0 9:161.0 10:6.0 11:117.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/geo-measurement
+3 qid:11 1:0.0 2:20.0 3:5.415199 4:1.0 5:0.0 6:0.36915886 7:6.0 8:0.0 9:214.0 10:16.0 11:143.0 # query=measurement; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:3.2631578 7:0.0 8:0.0 9:38.0 10:0.0 11:0.0 # query=measurement; ontology=http://aemet.linkeddata.es/describevar.owl
+1 qid:11 1:0.0 2:0.0 3:6.483059 4:1.0 5:0.0 6:0.1521739 7:21.0 8:1.0 9:138.0 10:47.0 11:9.0 # query=measurement; ontology=http://open-multinet.info/ontology/omn-monitoring
+1 qid:11 1:0.0 2:1.0 3:7.244511 4:1.0 5:0.0 6:0.7894737 7:43.0 8:1.0 9:57.0 10:90.0 11:23.0 # query=measurement; ontology=http://open-multinet.info/ontology/omn-monitoring-data
+1 qid:11 1:0.0 2:0.0 3:3.9387887 4:1.0 5:0.0 6:0.6530612 7:8.0 8:1.0 9:49.0 10:19.0 11:11.0 # query=measurement; ontology=http://open-multinet.info/ontology/omn-monitoring-genericconcepts
+1 qid:11 1:0.0 2:0.0 3:1.6530857 4:1.0 5:0.0 6:0.44047618 7:2.0 8:1.0 9:84.0 10:5.0 11:68.0 # query=measurement; ontology=http://open-multinet.info/ontology/omn-monitoring-metric
+1 qid:11 1:0.0 2:1.0 3:5.0242753 4:1.0 5:0.0 6:1.3030303 7:19.0 8:1.0 9:66.0 10:38.0 11:26.0 # query=measurement; ontology=http://open-multinet.info/ontology/omn-monitoring-tool
+1 qid:11 1:1.0 2:0.0 3:11.775754 4:0.0 5:0.0 6:1.1148648 7:7.0 8:0.0 9:296.0 10:57.0 11:249.0 # query=measurement; ontology=http://qudt.org/schema/qudt
+1 qid:11 1:0.0 2:0.0 3:1.5969514 4:1.0 5:0.0 6:0.02631579 7:0.0 8:0.0 9:38.0 10:2.0 11:36.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/prop.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25 7:0.0 8:0.0 9:4.0 10:0.0 11:5.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propBinary.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05263158 7:0.0 8:0.0 9:19.0 10:0.0 11:22.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propCapacity.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.15384616 7:0.0 8:0.0 9:13.0 10:0.0 11:9.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propCategorical.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.022222223 7:0.0 8:0.0 9:45.0 10:0.0 11:51.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propCharge.owl
+1 qid:11 1:0.0 2:0.0 3:2.3436797 4:0.0 5:0.0 6:0.057692308 7:0.0 8:0.0 9:52.0 10:1.0 11:45.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propChemical.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05263158 7:0.0 8:0.0 9:19.0 10:0.0 11:21.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propConductivity.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.06666667 7:0.0 8:0.0 9:15.0 10:0.0 11:14.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propCount.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.23076923 7:0.0 8:0.0 9:13.0 10:0.0 11:14.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propDifference.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.22222222 7:0.0 8:0.0 9:18.0 10:0.0 11:19.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl
+1 qid:11 1:0.0 2:8.0 3:0.0 4:1.0 5:0.0 6:0.3255814 7:0.0 8:0.0 9:43.0 10:0.0 11:12.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propDimensionlessRatio.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.16981132 7:0.0 8:0.0 9:53.0 10:0.0 11:59.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergy.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.23913044 7:0.0 8:0.0 9:46.0 10:1.0 11:43.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+1 qid:11 1:0.0 2:0.0 3:0.76190096 4:1.0 5:0.0 6:0.13793103 7:1.0 8:0.0 9:58.0 10:2.0 11:71.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propFraction.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.02631579 7:0.0 8:0.0 9:38.0 10:0.0 11:33.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propFunction.owl
+1 qid:11 1:0.0 2:0.0 3:0.8267445 4:1.0 5:0.0 6:0.10666667 7:0.0 8:0.0 9:75.0 10:3.0 11:59.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propIndex.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10869565 7:0.0 8:0.0 9:46.0 10:0.0 11:42.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propMass.owl
+1 qid:11 1:0.0 2:0.0 3:1.5557977 4:1.0 5:0.0 6:0.3888889 7:0.0 8:0.0 9:18.0 10:3.0 11:15.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10714286 7:0.0 8:0.0 9:28.0 10:0.0 11:29.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl
+1 qid:11 1:0.0 2:0.0 3:0.77789885 4:1.0 5:0.0 6:0.17021276 7:0.0 8:0.0 9:47.0 10:1.0 11:50.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propPressure.owl
+1 qid:11 1:0.0 2:0.0 3:1.653489 4:1.0 5:0.0 6:0.09375 7:0.0 8:0.0 9:32.0 10:0.0 11:36.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propQuantity.owl
+1 qid:11 1:0.0 2:0.0 3:1.5557977 4:1.0 5:0.0 6:0.17857143 7:0.0 8:0.0 9:28.0 10:2.0 11:33.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propRotation.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10526316 7:0.0 8:0.0 9:19.0 10:2.0 11:19.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpace.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03448276 7:0.0 8:0.0 9:29.0 10:0.0 11:24.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceDirection.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.08163265 7:0.0 8:0.0 9:49.0 10:2.0 11:50.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.18421052 7:0.0 8:0.0 9:38.0 10:3.0 11:40.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.06666667 7:0.0 8:0.0 9:15.0 10:0.0 11:13.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceLocation.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11764706 7:0.0 8:0.0 9:17.0 10:1.0 11:16.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl
+1 qid:11 1:0.0 2:0.0 3:0.77789885 4:1.0 5:0.0 6:0.0952381 7:0.0 8:0.0 9:42.0 10:1.0 11:42.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.24242425 7:0.0 8:0.0 9:33.0 10:1.0 11:41.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propSpeed.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1632653 7:0.0 8:0.0 9:49.0 10:1.0 11:49.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propTemperature.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.36842105 7:0.0 8:0.0 9:19.0 10:0.0 11:16.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12765957 7:0.0 8:0.0 9:47.0 10:0.0 11:46.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propTime.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2173913 7:0.0 8:0.0 9:23.0 10:2.0 11:23.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl
+1 qid:11 1:0.0 2:0.0 3:2.5771182 4:1.0 5:0.0 6:0.08108108 7:5.0 8:0.0 9:37.0 10:10.0 11:25.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/repr.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11111111 7:0.0 8:0.0 9:27.0 10:0.0 11:5.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataFormat.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03125 7:0.0 8:0.0 9:32.0 10:0.0 11:32.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataModel.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.037037037 7:0.0 8:0.0 9:27.0 10:0.0 11:22.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataProduct.owl
+1 qid:11 1:0.0 2:0.0 3:1.5238019 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:11.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataService.owl
+1 qid:11 1:0.0 2:0.0 3:14.099564 4:1.0 5:0.0 6:0.02 7:0.0 8:0.0 9:50.0 10:0.0 11:30.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataServiceAnalysis.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.071428575 7:0.0 8:0.0 9:28.0 10:0.0 11:18.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataServiceGeospatial.owl
+1 qid:11 1:0.0 2:0.0 3:1.653489 4:1.0 5:0.0 6:0.06666667 7:0.0 8:0.0 9:15.0 10:0.0 11:12.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataServiceReduction.owl
+1 qid:11 1:0.0 2:0.0 3:4.8094378 4:1.0 5:0.0 6:0.04761905 7:0.0 8:0.0 9:21.0 10:0.0 11:18.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataServiceValidation.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09756097 7:0.0 8:0.0 9:41.0 10:0.0 11:40.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMath.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.026666667 7:0.0 8:0.0 9:75.0 10:0.0 11:65.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathFunction.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.071428575 7:0.0 8:0.0 9:14.0 10:0.0 11:12.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathFunctionOrthogonal.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.028571429 7:0.0 8:0.0 9:35.0 10:0.0 11:32.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathGraph.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03076923 7:0.0 8:0.0 9:65.0 10:0.0 11:64.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathOperation.owl
+1 qid:11 1:0.0 2:0.0 3:1.5719702 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:0.0 11:31.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathSolution.owl
+1 qid:11 1:0.0 2:0.0 3:1.5719702 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:19.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathStatistics.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04 7:0.0 8:0.0 9:25.0 10:0.0 11:9.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciComponent.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10526316 7:0.0 8:0.0 9:19.0 10:0.0 11:18.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciFunction.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2631579 7:0.0 8:0.0 9:19.0 10:0.0 11:18.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciLaw.owl
+1 qid:11 1:0.0 2:0.0 3:4.619574 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:22.0 10:0.0 11:19.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciMethodology.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.21428572 7:0.0 8:0.0 9:28.0 10:0.0 11:23.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciModel.owl
+1 qid:11 1:0.0 2:0.0 3:1.5238019 4:1.0 5:0.0 6:0.037037037 7:0.0 8:0.0 9:27.0 10:0.0 11:25.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciProvenance.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.006134969 7:0.0 8:0.0 9:163.0 10:0.0 11:11.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.6666667 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpace.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.023255814 7:0.0 8:0.0 9:43.0 10:0.0 11:11.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceCoordinate.owl
+1 qid:11 1:0.0 2:4.0 3:0.0 4:1.0 5:0.0 6:0.017857144 7:0.0 8:0.0 9:56.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceDirection.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04255319 7:0.0 8:0.0 9:47.0 10:0.0 11:46.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.037037037 7:0.0 8:0.0 9:27.0 10:0.0 11:27.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry3D.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:32.0 10:0.0 11:5.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:18.0 10:0.0 11:13.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprTime.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:16.0 10:0.0 11:14.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeDay.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03846154 7:0.0 8:0.0 9:26.0 10:0.0 11:13.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.04 7:0.0 8:0.0 9:25.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleImpact.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:2.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleRepresentative.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.015873017 7:0.0 8:0.0 9:63.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleTrust.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.022727273 7:0.0 8:0.0 9:44.0 10:0.0 11:2.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSolid.owl
+1 qid:11 1:0.0 2:5.0 3:0.0 4:1.0 5:0.0 6:0.03125 7:0.0 8:0.0 9:32.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpace.owl
+1 qid:11 1:0.0 2:5.0 3:0.0 4:1.0 5:0.0 6:0.0078125 7:0.0 8:0.0 9:128.0 10:0.0 11:14.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpaceConfiguration.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.0952381 7:0.0 8:0.0 9:21.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpaceScale.owl
+1 qid:11 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0 6:0.025974026 7:0.0 8:0.0 9:77.0 10:0.0 11:5.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpectralBand.owl
+1 qid:11 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0 6:0.04 7:0.0 8:0.0 9:25.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpectralLine.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.024390243 7:0.0 8:0.0 9:41.0 10:0.0 11:10.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateStorm.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.0862069 7:0.0 8:0.0 9:58.0 10:0.0 11:12.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateSystem.owl
+1 qid:11 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.16666667 7:0.0 8:0.0 9:24.0 10:0.0 11:1.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateThermodynamic.owl
+1 qid:11 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.18181819 7:0.0 8:0.0 9:44.0 10:0.0 11:13.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateTime.owl
+1 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12 7:0.0 8:0.0 9:25.0 10:0.0 11:24.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeFrequency.owl
+1 qid:11 1:0.0 2:7.0 3:0.0 4:1.0 5:0.0 6:0.0033783785 7:0.0 8:0.0 9:296.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeGeologic.owl
+1 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.115384616 7:0.0 8:0.0 9:26.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateVisibility.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25 7:0.0 8:0.0 9:24.0 10:0.0 11:26.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFloor.owl
+0 qid:11 1:0.0 2:4.0 3:0.0 4:0.0 5:0.0068765767 6:0.0 7:0.0 8:0.0 9:28.0 10:0.0 11:0.0 # query=measurement; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11 7:0.0 8:0.0 9:100.0 10:0.0 11:47.0 # query=measurement; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/attack.owl
+0 qid:11 1:1.0 2:0.0 3:13.978476 4:0.0 5:0.0 6:0.5018982 7:27.0 8:1.0 9:1317.0 10:54.0 11:136.0 # query=measurement; ontology=http://mklab.iti.gr/hackair/ontologies/hackairTBox
+0 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.25757575 7:0.0 8:0.0 9:66.0 10:0.0 11:58.0 # query=measurement; ontology=http://purl.org/NET/ssnext/electricmeters
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2 7:0.0 8:0.0 9:10.0 10:0.0 11:9.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrIndustrial.owl
+0 qid:11 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.20535715 7:1.0 8:0.0 9:448.0 10:2.0 11:428.0 # query=measurement; ontology=http://sensormeasurement.appspot.com/ont/home/homeActivity
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05 7:0.0 8:0.0 9:20.0 10:0.0 11:18.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycleMaterial.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:5.0 10:0.0 11:2.0 # query=measurement; ontology=http://purl.org/NET/ssnext/communication
+0 qid:11 1:0.0 2:9.0 3:4.8051124 4:0.0 5:0.0 6:0.33333334 7:3.0 8:0.0 9:54.0 10:12.0 11:6.0 # query=measurement; ontology=http://sensormeasurement.appspot.com/ont/security/OMS_Ingles.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:44.0 10:0.0 11:39.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl
+0 qid:11 1:0.0 2:0.0 3:0.76190096 4:1.0 5:0.0 6:1.2272727 7:0.0 8:0.0 9:22.0 10:0.0 11:2.0 # query=measurement; ontology=http://portal.bt-hypercat.com/ontologies/hypercat
+0 qid:11 1:0.0 2:0.0 3:1.5238019 4:1.0 5:0.0 6:0.06451613 7:0.0 8:0.0 9:62.0 10:0.0 11:60.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrEquipment.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.008264462 7:0.0 8:0.0 9:242.0 10:0.0 11:2.0 # query=measurement; ontology=http://www.anr-proteus.fr/sites/default/files/download/Ontology/Proteus.owl
+0 qid:11 1:0.0 2:1.0 3:0.76190096 4:1.0 5:0.0 6:1.5 7:0.0 8:0.0 9:204.0 10:0.0 11:24.0 # query=measurement; ontology=http://aemet.linkeddata.es/ontology/aemet/aemet.owl
+0 qid:11 1:0.0 2:1.0 3:14.812598 4:1.0 5:0.0 6:1.8570136 7:2.0 8:0.0 9:1105.0 10:19.0 11:777.0 # query=measurement; ontology=http://www.disit.org/km4city/resource
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.013139696 7:0.0 8:0.0 9:1446.0 10:0.0 11:153.0 # query=measurement; ontology=http://web.tiscali.it/lchkl/ontology/FoodOntology.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.14893617 7:0.0 8:0.0 9:47.0 10:0.0 11:41.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandCoastal.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.078431375 7:0.0 8:0.0 9:51.0 10:0.0 11:50.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrPlant.owl
+0 qid:11 1:1.0 2:2.0 3:0.0 4:1.0 5:0.008825146 6:0.63355595 7:0.0 8:1.0 9:1198.0 10:1.0 11:345.0 # query=measurement; ontology=http://www.geonames.org/ontology
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.0681819 7:0.0 8:0.0 9:44.0 10:0.0 11:39.0 # query=measurement; ontology=http://www.Smart-Homes-owl-ontologies.com/Task_SH__Ontology.owl
+0 qid:11 1:1.0 2:0.0 3:47.075493 4:1.0 5:0.0 6:0.1545239 7:345.0 8:1.0 9:2951.0 10:819.0 11:2963.0 # query=measurement; ontology=http://elite.polito.it/ontologies/dogont.owl
+0 qid:11 1:1.0 2:0.0 3:5.43054 4:0.0 5:0.0 6:0.44186047 7:8.0 8:0.0 9:301.0 10:21.0 11:225.0 # query=measurement; ontology=https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:13.0 10:0.0 11:11.0 # query=measurement; ontology=http://purl.org/NET/ssnext/climate-feature
+0 qid:11 1:0.0 2:0.0 3:2.4469132 4:1.0 5:0.0 6:0.50857145 7:5.0 8:0.0 9:350.0 10:23.0 11:149.0 # query=measurement; ontology=http://purl.org/ifo
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.15789473 7:0.0 8:0.0 9:19.0 10:0.0 11:16.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrParticle.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.2857143 7:0.0 8:0.0 9:35.0 10:0.0 11:28.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/schedule
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1764706 7:0.0 8:0.0 9:17.0 10:0.0 11:17.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanCoastal.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.054054055 7:0.0 8:0.0 9:37.0 10:0.0 11:1.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrElementalMolecule.owl
+0 qid:11 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:2.0833333 7:0.0 8:1.0 9:24.0 10:0.0 11:5.0 # query=measurement; ontology=https://w3id.org/stn/core/operations/http
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008825146 6:0.34615386 7:0.0 8:0.0 9:26.0 10:0.0 11:20.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/knowledge
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:36.0 10:0.0 11:31.0 # query=measurement; ontology=http://www.owl-ontologies.com/Ontology1254773129.owl
+0 qid:11 1:0.0 2:13.0 3:45.4277 4:0.0 5:0.0068765767 6:0.046296295 7:13.0 8:0.0 9:324.0 10:46.0 11:26.0 # query=measurement; ontology=http://www.semanticweb.org/ontologies/2011/7/SA.owl
+0 qid:11 1:1.0 2:2.0 3:0.0 4:0.0 5:0.0 6:0.08695652 7:0.0 8:1.0 9:23.0 10:0.0 11:0.0 # query=measurement; ontology=https://w3id.org/seas/
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.44444445 7:0.0 8:0.0 9:27.0 10:0.0 11:25.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl
+0 qid:11 1:1.0 2:0.0 3:3.0476038 4:1.0 5:0.018129118 6:0.031746034 7:0.0 8:0.0 9:63.0 10:0.0 11:47.0 # query=measurement; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/process.owl
+0 qid:11 1:1.0 2:0.0 3:0.8267445 4:1.0 5:0.0 6:0.087628864 7:0.0 8:0.0 9:194.0 10:2.0 11:84.0 # query=measurement; ontology=http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12195122 7:1.0 8:0.0 9:123.0 10:2.0 11:70.0 # query=measurement; ontology=http://spitfire-project.eu/ontology/ns
+0 qid:11 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:0.0 10:0.0 11:0.0 # query=measurement; ontology=https://www.w3.org/2005/Incubator/ssn/ssnx/meteo/aws
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.028571429 7:0.0 8:0.0 9:35.0 10:0.0 11:32.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/humanCommerce.owl
+0 qid:11 1:0.0 2:0.0 3:11.070307 4:0.0 5:0.0068765767 6:0.4293478 7:0.0 8:0.0 9:184.0 10:0.0 11:141.0 # query=measurement; ontology=http://personal.ee.surrey.ac.uk/Personal/Wei.Wang/ontologies/IoT.est.owl
+0 qid:11 1:1.0 2:2.0 3:0.0 4:0.0 5:0.0127222845 6:0.011111111 7:0.0 8:0.0 9:90.0 10:0.0 11:60.0 # query=measurement; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-meetings
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.5 7:0.0 8:0.0 9:2.0 10:0.0 11:0.0 # query=measurement; ontology=http://www.anr-proteus.fr/sites/default/files/download/Ontology/RoboticOntologyServices.owl
+0 qid:11 1:1.0 2:0.0 3:24.39683 4:1.0 5:0.0068765767 6:0.03445428 7:0.0 8:0.0 9:8475.0 10:2.0 11:8222.0 # query=measurement; ontology=http://www.cs.stir.ac.uk/schemas/call_control.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=measurement; ontology=http://reclamo.inf.um.es/secoman/owl/SupermarketOntology.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25925925 7:0.0 8:0.0 9:27.0 10:0.0 11:1.0 # query=measurement; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/complexAttack.owl
+0 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.0054054055 7:0.0 8:0.0 9:185.0 10:0.0 11:14.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateEnergyFlux.owl
+0 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.021276595 7:0.0 8:0.0 9:47.0 10:2.0 11:16.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirStandards.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.36842105 7:0.0 8:0.0 9:19.0 10:0.0 11:17.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl
+0 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.025 7:0.0 8:0.0 9:40.0 10:0.0 11:10.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleBiological.owl
+0 qid:11 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0 6:7.889102E-4 7:1.0 8:0.0 9:8873.0 10:2.0 11:53.0 # query=measurement; ontology=http://www.sensormeasurement.appspot.com/ont/transport/traffic
+0 qid:11 1:0.0 2:0.0 3:7.073866 4:1.0 5:0.0 6:0.5857143 7:5.0 8:0.0 9:70.0 10:10.0 11:24.0 # query=measurement; ontology=http://purl.oclc.org/NET/UNIS/sao/sao
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.46666667 7:0.0 8:0.0 9:15.0 10:0.0 11:14.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrMineral.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.6363636 7:0.0 8:0.0 9:55.0 10:0.0 11:53.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoCloud.owl
+0 qid:11 1:0.0 2:4.0 3:0.0 4:1.0 5:0.0 6:0.32743362 7:0.0 8:0.0 9:113.0 10:0.0 11:31.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/realmClimateZone.owl
+0 qid:11 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.1764706 7:0.0 8:0.0 9:34.0 10:0.0 11:35.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenStar.owl
+0 qid:11 1:0.0 2:8.0 3:0.0 4:1.0 5:0.0 6:0.19031142 7:2.0 8:0.0 9:289.0 10:6.0 11:49.0 # query=measurement; ontology=http://owlrep.eu01.aws.af.cm/fridge
+0 qid:11 1:0.0 2:0.0 3:0.7859851 4:1.0 5:0.0 6:0.36363637 7:0.0 8:0.0 9:55.0 10:0.0 11:52.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenWave.owl
+0 qid:11 1:1.0 2:0.0 3:2.285703 4:1.0 5:0.0127222845 6:0.19565217 7:0.0 8:0.0 9:92.0 10:0.0 11:14.0 # query=measurement; ontology=http://w3c.github.io/wot/w3c-wot-td-ire.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.0 7:0.0 8:0.0 9:6.0 10:0.0 11:0.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/event
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.06306306 7:0.0 8:0.0 9:222.0 10:0.0 11:234.0 # query=measurement; ontology=http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2692307 7:0.0 8:0.0 9:78.0 10:0.0 11:53.0 # query=measurement; ontology=http://openiot.eu/ontology/ns
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.41666666 7:0.0 8:0.0 9:24.0 10:0.0 11:22.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeol.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.3962264 7:0.0 8:0.0 9:53.0 10:0.0 11:47.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandTectonic.owl
+0 qid:11 1:1.0 2:2.0 3:3.0476038 4:1.0 5:0.0 6:0.10215054 7:0.0 8:0.0 9:558.0 10:2.0 11:519.0 # query=measurement; ontology=http://www.w3.org/ns/ssn
+0 qid:11 1:0.0 2:1.0 3:2.285703 4:1.0 5:0.009799431 6:0.64534885 7:0.0 8:1.0 9:172.0 10:0.0 11:141.0 # query=measurement; ontology=http://www.irit.fr/recherches/MELODI/ontologies/SAN
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:14.0 10:0.0 11:11.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoTransport.owl
+0 qid:11 1:0.0 2:0.0 3:10.325531 4:1.0 5:0.0 6:1.2686567 7:3.0 8:0.0 9:134.0 10:12.0 11:124.0 # query=measurement; ontology=http://purl.oclc.org/NET/UASO/qoi
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04761905 7:0.0 8:0.0 9:42.0 10:0.0 11:41.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrAnimal.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.037383176 7:0.0 8:0.0 9:107.0 10:0.0 11:7.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrCompound.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.39473686 7:0.0 8:0.0 9:38.0 10:0.0 11:37.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrSediment.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.8333333 7:0.0 8:0.0 9:6.0 10:0.0 11:0.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/agent
+0 qid:11 1:0.0 2:0.0 3:0.8751868 4:1.0 5:0.0 6:0.17592593 7:1.0 8:0.0 9:108.0 10:2.0 11:15.0 # query=measurement; ontology=http://www.w3c.org/wot/td
+0 qid:11 1:0.0 2:0.0 3:4.667393 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:1005.0 10:8.0 11:422.0 # query=measurement; ontology=http://webmind.dico.unimi.it/CARE/locont.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.23529412 7:0.0 8:0.0 9:34.0 10:0.0 11:34.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanDynamics.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.009799431 6:0.375 7:0.0 8:0.0 9:184.0 10:0.0 11:10.0 # query=measurement; ontology=http://elite.polito.it/ontologies/poweront.owl
+0 qid:11 1:1.0 2:0.0 3:0.0 4:1.0 5:0.03769597 6:0.036363635 7:0.0 8:0.0 9:55.0 10:0.0 11:24.0 # query=measurement; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/user.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.8636364 7:0.0 8:0.0 9:44.0 10:0.0 11:50.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrRockIgneous.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:35.0 10:0.0 11:0.0 # query=measurement; ontology=http://aemet.linkeddata.es/ontology/geografica.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.02919708 7:0.0 8:0.0 9:137.0 10:0.0 11:21.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrOrganicCompound.owl
+0 qid:11 1:1.0 2:1.0 3:23.683773 4:1.0 5:0.0 6:0.65591395 7:0.0 8:0.0 9:465.0 10:1.0 11:478.0 # query=measurement; ontology=http://securitytoolbox.appspot.com/stac
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.03785288 6:0.7037037 7:0.0 8:0.0 9:27.0 10:0.0 11:15.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/space
+0 qid:11 1:1.0 2:0.0 3:2.431388 4:1.0 5:0.0 6:0.26755852 7:0.0 8:0.0 9:299.0 10:1.0 11:41.0 # query=measurement; ontology=http://vi.uni-klu.ac.at/ontology/DrivingContext.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.22580644 7:0.0 8:0.0 9:31.0 10:0.0 11:0.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/relaTime.owl
+0 qid:11 1:1.0 2:0.0 3:9.9484625 4:1.0 5:0.018567992 6:1.975 7:6.0 8:1.0 9:40.0 10:12.0 11:5.0 # query=measurement; ontology=http://www.opengis.net/ont/geosparql
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:32.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/humanTechReadiness.owl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:191.0 10:0.0 11:158.0 # query=measurement; ontology=http://cmusv/hsl
+0 qid:11 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.041237112 7:0.0 8:0.0 9:97.0 10:0.0 11:21.0 # query=measurement; ontology=http://sweet.jpl.nasa.gov/2.3/matrElement.owl
+0 qid:11 1:1.0 2:0.0 3:40.995644 4:0.0 5:0.0 6:0.034696408 7:25.0 8:1.0 9:807.0 10:59.0 11:422.0 # query=measurement; ontology=http://mmisw.org/ont/univmemphis/sensor
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.023809524 7:0.0 8:0.0 9:42.0 10:0.0 11:7.0 # query=measurement; ontology=http://portal.bt-hypercat.com/ontologies/bt-hypercat
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:1.5454545 7:0.0 8:0.0 9:11.0 10:0.0 11:1.0 # query=measurement; ontology=http://pervasive.semanticweb.org/ont/2004/06/rcc
+0 qid:11 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.37575758 7:0.0 8:0.0 9:330.0 10:0.0 11:166.0 # query=measurement; ontology=http://qallme.itc.it/ontology/qallme-tourism.owl
+4 qid:2 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2222222 7:2.0 8:0.0 9:99.0 10:16.12132 11:55.0 # query=energy; ontology=http://smartcity.linkeddata.es/lcc/ontology/EnergyConsumption
+4 qid:2 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033333335 7:12.0 8:0.0 9:30.0 10:90.36396 11:29.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/matrEnergy.owl
+4 qid:2 1:0.0 2:0.0 3:6.1082625 4:1.0 5:0.0 6:0.027777778 7:22.0 8:0.0 9:36.0 10:163.89949 11:39.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl
+4 qid:2 1:0.0 2:0.0 3:2.406842 4:1.0 5:0.0 6:0.16981132 7:46.0 8:0.0 9:53.0 10:347.1023 11:59.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergy.owl
+4 qid:2 1:0.0 2:1.0 3:0.8124433 4:1.0 5:0.0 6:0.23913044 7:9.0 8:0.0 9:46.0 10:69.01041 11:43.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+4 qid:2 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.0054054055 7:2.0 8:0.0 9:185.0 10:14.0 11:14.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/stateEnergyFlux.owl
+4 qid:2 1:1.0 2:0.0 3:69.05304 4:1.0 5:0.0 6:0.38028845 7:331.0 8:0.0 9:2080.0 10:2450.522 11:1346.0 # query=energy; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl
+1 qid:2 1:1.0 2:0.0 3:4.854335 4:1.0 5:0.009799431 6:0.375 7:1.0 8:0.0 9:184.0 10:8.06066 11:10.0 # query=energy; ontology=http://elite.polito.it/ontologies/poweront.owl
+1 qid:2 1:0.0 2:1.0 3:1.5009114 4:1.0 5:0.0 6:0.25757575 7:0.0 8:0.0 9:66.0 10:0.0 11:58.0 # query=energy; ontology=http://purl.org/NET/ssnext/electricmeters
+1 qid:2 1:0.0 2:3.0 3:7.00383 4:1.0 5:0.0 6:1.25 7:5.0 8:0.0 9:32.0 10:40.3033 11:2.0 # query=energy; ontology=http://vocab.ox.ac.uk/meter
+1 qid:2 1:1.0 2:2.0 3:0.0 4:0.0 5:0.0 6:0.08695652 7:3.0 8:1.0 9:23.0 10:23.474874 11:0.0 # query=energy; ontology=https://w3id.org/seas/
+0 qid:2 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09375 7:1.0 8:0.0 9:32.0 10:8.06066 11:36.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/propQuantity.owl
+0 qid:2 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:2.0833333 7:0.0 8:1.0 9:24.0 10:0.0 11:5.0 # query=energy; ontology=https://w3id.org/stn/core/operations/http
+0 qid:2 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.8 7:0.0 8:0.0 9:10.0 10:0.0 11:2.0 # query=energy; ontology=http://opensensingcity.emse.fr/scans/entity
+0 qid:2 1:1.0 2:0.0 3:1.5434219 4:1.0 5:0.0068765767 6:0.06306306 7:0.0 8:0.0 9:222.0 10:1.0 11:234.0 # query=energy; ontology=http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl
+0 qid:2 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.5354839 7:1.0 8:1.0 9:155.0 10:9.06066 11:131.0 # query=energy; ontology=https://www.irit.fr/recherches/MELODI/ontologies/IoT-O
+0 qid:2 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05263158 7:0.0 8:0.0 9:19.0 10:0.0 11:21.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/propConductivity.owl
+0 qid:2 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03076923 7:0.0 8:0.0 9:65.0 10:0.0 11:64.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathOperation.owl
+0 qid:2 1:1.0 2:0.0 3:1.5740733 4:1.0 5:0.0 6:1.7017543 7:0.0 8:0.0 9:57.0 10:0.0 11:9.0 # query=energy; ontology=http://purl.oclc.org/NET/UNIS/fiware/iot-lite
+0 qid:2 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008338003 6:0.36585367 7:0.0 8:0.0 9:41.0 10:0.0 11:31.0 # query=energy; ontology=http://pervasive.semanticweb.org/ont/2004/06/meeting
+0 qid:2 1:0.0 2:4.0 3:0.0 4:1.0 5:0.0 6:0.32743362 7:0.0 8:0.0 9:113.0 10:0.0 11:31.0 # query=energy; ontology=http://sweet.jpl.nasa.gov/2.3/realmClimateZone.owl
+0 qid:2 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008825146 6:0.34615386 7:0.0 8:0.0 9:26.0 10:0.0 11:20.0 # query=energy; ontology=http://pervasive.semanticweb.org/ont/2004/06/knowledge
+4 qid:20 1:0.0 2:0.0 3:1.5620245 4:1.0 5:0.0 6:0.37575758 7:6.0 8:0.0 9:330.0 10:6.0 11:166.0 # query=tourism; ontology=http://qallme.itc.it/ontology/qallme-tourism.owl
+4 qid:20 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:1.36 7:6.0 8:0.0 9:25.0 10:6.0 11:9.0 # query=tourism; ontology=http://sensormeasurement.appspot.com/ont/m3/tourism
+4 qid:20 1:0.0 2:6.0 3:0.0 4:1.0 5:0.0 6:0.01923077 7:0.0 8:0.0 9:52.0 10:0.0 11:14.0 # query=tourism; ontology=http://taga.umbc.edu/travel.owl
+2 qid:20 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:2.0660377 7:0.0 8:0.0 9:106.0 10:0.0 11:54.0 # query=tourism; ontology=http://www.ontotext.com/proton/protontop
+1 qid:20 1:0.0 2:0.0 3:2.1882722 4:1.0 5:0.0 6:0.09090909 7:2.0 8:0.0 9:22.0 10:2.0 11:9.0 # query=tourism; ontology=http://www.modul.ac.at/ontology/TourismOntology.owl
+1 qid:20 1:1.0 2:2.0 3:9.372147 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:874.0 10:0.0 11:39.0 # query=tourism; ontology=http://www.owl-ontologies.com/OCATIS.owl
+1 qid:20 1:1.0 2:1.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:2315.0 10:0.0 11:102.0 # query=tourism; ontology=http://www.owl-ontologies.com/SunMoonLakeOntology.owl
+0 qid:20 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.025641026 7:0.0 8:0.0 9:39.0 10:0.0 11:0.0 # query=tourism; ontology=http://www.surrey.ac.uk/ccsr/IoT-A/EntityModel.owl
+0 qid:20 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.23529412 7:0.0 8:0.0 9:17.0 10:0.0 11:14.0 # query=tourism; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandAeolian.owl
+0 qid:20 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.06306306 7:0.0 8:0.0 9:222.0 10:0.0 11:234.0 # query=tourism; ontology=http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl
+0 qid:20 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:0.0 # query=tourism; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeFrequency.owl
+0 qid:20 1:0.0 2:5.0 3:0.0 4:1.0 5:0.0 6:0.0078125 7:0.0 8:0.0 9:128.0 10:0.0 11:14.0 # query=tourism; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpaceConfiguration.owl
+0 qid:20 1:1.0 2:0.0 3:2.8790536 4:1.0 5:0.0 6:0.0 7:4.0 8:0.0 9:523.0 10:4.0 11:583.0 # query=tourism; ontology=https://raw.github.com/doroam/planning-do-roam/master/Ontology/tags.owl
+0 qid:20 1:0.0 2:0.0 3:0.0 4:1.0 5:0.019906908 6:0.06849315 7:0.0 8:0.0 9:146.0 10:0.0 11:8.0 # query=tourism; ontology=http://purl.org/ieee1872-owl/cora
+4 qid:9 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.010416667 7:0.0 8:0.0 9:96.0 10:111.414215 11:22.0 # query=light sensor; ontology=http://a.com/ontology
+3 qid:9 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03937008 7:2.1213202 8:0.0 9:762.0 10:1336.3137 11:255.0 # query=light sensor; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+2 qid:9 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1545239 7:19.445436 8:1.0 9:2951.0 10:2202.742 11:2963.0 # query=light sensor; ontology=http://elite.polito.it/ontologies/dogont.owl
+2 qid:9 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.087628864 7:3.535534 8:0.0 9:194.0 10:105.53553 11:84.0 # query=light sensor; ontology=http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl
+2 qid:9 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.70710677 8:0.0 9:1005.0 10:691.07104 11:422.0 # query=light sensor; ontology=http://webmind.dico.unimi.it/CARE/locont.owl
+1 qid:9 1:1.0 2:0.0 3:0.0 4:1.0 5:0.017690243 6:0.18343496 7:16.263456 8:0.0 9:1968.0 10:262.97055 11:984.0 # query=light sensor; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl
+1 qid:9 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.38028845 7:18.031223 8:0.0 9:2080.0 10:2818.8545 11:1346.0 # query=light sensor; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl
+0 qid:9 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04347826 7:0.0 8:0.0 9:23.0 10:0.0 11:22.0 # query=light sensor; ontology=http://sweet.jpl.nasa.gov/2.3/human.owl
+0 qid:9 1:0.0 2:4.0 3:0.0 4:0.0 5:0.0068765767 6:0.0 7:0.35355338 8:0.0 9:28.0 10:0.0 11:0.0 # query=light sensor; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl
+0 qid:9 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04761905 7:0.0 8:0.0 9:21.0 10:0.70710677 11:1.0 # query=light sensor; ontology=http://sweet.jpl.nasa.gov/2.3/stateRealm.owl
+0 qid:9 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.5526316 7:0.35355338 8:0.0 9:114.0 10:79.07107 11:73.0 # query=light sensor; ontology=http://purl.org/vso/ns
+0 qid:9 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.08108108 7:0.0 8:0.0 9:37.0 10:2.0 11:25.0 # query=light sensor; ontology=http://sweet.jpl.nasa.gov/2.3/repr.owl
+0 qid:9 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.0862069 7:0.0 8:0.0 9:58.0 10:7.0 11:12.0 # query=light sensor; ontology=http://sweet.jpl.nasa.gov/2.3/stateSystem.owl
+0 qid:9 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:1.3030303 7:0.0 8:1.0 9:66.0 10:17.889088 11:26.0 # query=light sensor; ontology=http://open-multinet.info/ontology/omn-monitoring-tool
+4 qid:0 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0068765767 6:0.009090909 7:0.0 8:0.0 9:110.0 10:8.707107 11:2.0 # query=activity; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-actions
+4 qid:0 1:1.0 2:2.0 3:0.0 4:0.0 5:0.0127222845 6:0.011111111 7:0.0 8:0.0 9:90.0 10:0.0 11:60.0 # query=activity; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-meetings
+3 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.02517712 6:0.5 7:0.0 8:0.0 9:8.0 10:14.121321 11:0.0 # query=activity; ontology=http://pervasive.semanticweb.org/ont/2004/06/action
+3 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008338003 6:0.36585367 7:0.0 8:0.0 9:41.0 10:0.0 11:31.0 # query=activity; ontology=http://pervasive.semanticweb.org/ont/2004/06/meeting
+3 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.2857143 7:0.0 8:0.0 9:35.0 10:0.0 11:28.0 # query=activity; ontology=http://pervasive.semanticweb.org/ont/2004/06/schedule
+2 qid:0 1:0.0 2:0.0 3:2.2550411 4:1.0 5:0.0 6:0.03937008 7:34.0 8:0.0 9:762.0 10:256.0104 11:255.0 # query=activity; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+1 qid:0 1:0.0 2:0.0 3:8.204301 4:1.0 5:0.0 6:0.032724984 7:1.0 8:0.0 9:14301.0 10:10.828427 11:14394.0 # query=activity; ontology=http://cavoc.org/aao/ns/2
+1 qid:0 1:0.0 2:0.0 3:2.9784958 4:1.0 5:0.0 6:0.50857145 7:27.0 8:0.0 9:350.0 10:165.88908 11:149.0 # query=activity; ontology=http://purl.org/ifo
+1 qid:0 1:1.0 2:1.0 3:2.3118014 4:1.0 5:0.0 6:0.20535715 7:40.0 8:0.0 9:448.0 10:241.06065 11:428.0 # query=activity; ontology=http://sensormeasurement.appspot.com/ont/home/homeActivity
+1 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.028571429 7:2.0 8:0.0 9:35.0 10:22.12132 11:32.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/humanCommerce.owl
+1 qid:0 1:0.0 2:0.0 3:0.77060044 4:1.0 5:0.0 6:0.08571429 7:2.0 8:0.0 9:35.0 10:12.0 11:36.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/humanDecision.owl
+1 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:16.0 8:0.0 9:1005.0 10:108.70711 11:422.0 # query=activity; ontology=http://webmind.dico.unimi.it/CARE/locont.owl
+1 qid:0 1:0.0 2:0.0 3:1.5178986 4:1.0 5:0.0 6:1.0681819 7:0.0 8:0.0 9:44.0 10:0.0 11:39.0 # query=activity; ontology=http://www.Smart-Homes-owl-ontologies.com/Task_SH__Ontology.owl
+1 qid:0 1:0.0 2:0.0 3:18.973732 4:1.0 5:0.0068765767 6:0.08240741 7:0.0 8:0.0 9:2160.0 10:8.707107 11:2022.0 # query=activity; ontology=http://www.cs.stir.ac.uk/schemas/home_care.owl
+1 qid:0 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.070512824 7:0.0 8:0.0 9:156.0 10:12.0 11:107.0 # query=activity; ontology=http://www.demcare.eu/ontologies/home.owl
+1 qid:0 1:0.0 2:0.0 3:3.0824018 4:1.0 5:0.0 6:0.009063444 7:2.0 8:0.0 9:331.0 10:17.414213 11:223.0 # query=activity; ontology=http://www.demcare.eu/ontologies/lab.owl
+1 qid:0 1:1.0 2:0.0 3:0.77060044 4:1.0 5:0.0 6:0.5508021 7:4.0 8:0.0 9:187.0 10:24.0 11:86.0 # query=activity; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Software_Applications_SH_Ontology.owl
+1 qid:0 1:1.0 2:0.0 3:0.77060044 4:1.0 5:0.0 6:0.64912283 7:1.0 8:0.0 9:57.0 10:6.0 11:50.0 # query=activity; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Software_Applications_SH_Ontology_Small.owl
+1 qid:0 1:0.0 2:2.0 3:1.5178986 4:1.0 5:0.0127222845 6:1.382353 7:1.0 8:1.0 9:102.0 10:134.84924 11:76.0 # query=activity; ontology=https://w3id.org/stn/core/operations
+1 qid:0 1:1.0 2:0.0 3:0.77060044 4:1.0 5:0.018129118 6:0.031746034 7:4.0 8:0.0 9:63.0 10:32.24264 11:47.0 # query=activity; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/process.owl
+0 qid:0 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.013139696 7:0.0 8:0.0 9:1446.0 10:4.2426405 11:153.0 # query=activity; ontology=http://web.tiscali.it/lchkl/ontology/FoodOntology.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.64705884 7:0.0 8:0.0 9:17.0 10:0.70710677 11:15.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandGlacial.owl
+0 qid:0 1:0.0 2:7.0 3:0.0 4:1.0 5:0.0 6:0.0033783785 7:0.0 8:0.0 9:296.0 10:0.0 11:0.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeGeologic.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12765957 7:0.0 8:0.0 9:47.0 10:0.0 11:46.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/propTime.owl
+0 qid:0 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2692307 7:0.0 8:0.0 9:78.0 10:2.0 11:53.0 # query=activity; ontology=http://openiot.eu/ontology/ns
+0 qid:0 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.05263158 7:0.0 8:0.0 9:57.0 10:0.0 11:16.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFeature.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:11.0 10:0.0 11:10.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirConservation.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.36842105 7:0.0 8:0.0 9:19.0 10:0.0 11:17.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.102564104 7:0.0 8:0.0 9:39.0 10:2.7071068 11:33.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/matr.owl
+0 qid:0 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.23913044 7:0.0 8:0.0 9:46.0 10:0.0 11:43.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.24752475 7:0.0 8:0.0 9:101.0 10:0.0 11:6.0 # query=activity; ontology=http://www.ibm.com/SCTC/ontology/SIRIBasedTransportation.owl
+0 qid:0 1:1.0 2:0.0 3:0.74542516 4:1.0 5:0.0 6:1.7017543 7:0.0 8:0.0 9:57.0 10:1.0606601 11:9.0 # query=activity; ontology=http://purl.oclc.org/NET/UNIS/fiware/iot-lite
+0 qid:0 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:2.0833333 7:0.0 8:1.0 9:24.0 10:1.4142135 11:5.0 # query=activity; ontology=https://w3id.org/stn/core/operations/http
+0 qid:0 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0127222845 6:0.15277778 7:0.0 8:0.0 9:72.0 10:0.0 11:45.0 # query=activity; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Habitat_SH_Ontology.owl
+0 qid:0 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.008264462 7:0.0 8:0.0 9:242.0 10:0.0 11:2.0 # query=activity; ontology=http://www.anr-proteus.fr/sites/default/files/download/Ontology/Proteus.owl
+0 qid:0 1:0.0 2:3.0 3:0.0 4:0.0 5:0.0068765767 6:0.0066079297 7:0.0 8:0.0 9:454.0 10:0.0 11:280.0 # query=activity; ontology=http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel
+0 qid:0 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.0054054055 7:0.0 8:0.0 9:185.0 10:0.0 11:14.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/stateEnergyFlux.owl
+0 qid:0 1:0.0 2:0.0 3:3.041087 4:1.0 5:0.0 6:0.46 7:1.0 8:0.0 9:50.0 10:8.0 11:49.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoWind.owl
+0 qid:0 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=activity; ontology=http://sweet.jpl.nasa.gov/2.3/phenOcean.owl
+0 qid:0 1:0.0 2:0.0 3:0.74542516 4:1.0 5:0.0 6:2.0660377 7:0.0 8:0.0 9:106.0 10:5.889087 11:54.0 # query=activity; ontology=http://www.ontotext.com/proton/protontop
+4 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12195122 7:0.0 8:0.0 9:123.0 10:39.0 11:70.0 # query=web of things; ontology=http://spitfire-project.eu/ontology/ns
+1 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5555556 7:6.3639607 8:0.0 9:396.0 10:120.15336 11:308.0 # query=web of things; ontology=http://iot.linkeddata.es/def/core
+1 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.47398844 7:4.596194 8:0.0 9:173.0 10:30.153358 11:141.0 # query=web of things; ontology=http://iot.linkeddata.es/def/wot
+1 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:1.3333334 7:0.0 8:0.0 9:138.0 10:0.0 11:59.0 # query=web of things; ontology=http://vcharpenay.github.io/hto/hto.xml
+1 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0127222845 6:0.19565217 7:0.0 8:0.0 9:92.0 10:65.12313 11:14.0 # query=web of things; ontology=http://w3c.github.io/wot/w3c-wot-td-ire.owl
+1 qid:25 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.17592593 7:2.4748738 8:0.0 9:108.0 10:16.345058 11:15.0 # query=web of things; ontology=http://www.w3c.org/wot/td
+1 qid:25 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.44186047 7:1.767767 8:0.0 9:301.0 10:91.11502 11:225.0 # query=web of things; ontology=https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl
+1 qid:25 1:0.0 2:2.0 3:0.0 4:1.0 5:0.017690243 6:1.6363636 7:1.767767 8:1.0 9:66.0 10:10.115019 11:41.0 # query=web of things; ontology=https://w3id.org/stn/core
+1 qid:25 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0127222845 6:1.382353 7:0.70710677 8:1.0 9:102.0 10:2.0383399 11:76.0 # query=web of things; ontology=https://w3id.org/stn/core/operations
+1 qid:25 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:2.0833333 7:0.35355338 8:1.0 9:24.0 10:26.138245 11:5.0 # query=web of things; ontology=https://w3id.org/stn/core/operations/http
+0 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:62.0 10:0.0 11:18.0 # query=web of things; ontology=http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl
+0 qid:25 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2686567 7:0.0 8:0.0 9:134.0 10:32.0 11:124.0 # query=web of things; ontology=http://purl.oclc.org/NET/UASO/qoi
+0 qid:25 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.8 7:0.0 8:0.0 9:10.0 10:0.0 11:2.0 # query=web of things; ontology=http://opensensingcity.emse.fr/scans/entity
+0 qid:25 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.23913044 7:0.0 8:0.0 9:46.0 10:4.0 11:43.0 # query=web of things; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+0 qid:25 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05 7:0.0 8:0.0 9:20.0 10:0.0 11:18.0 # query=web of things; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycleMaterial.owl
+0 qid:25 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.013139696 7:0.0 8:0.0 9:1446.0 10:8.0 11:153.0 # query=web of things; ontology=http://web.tiscali.it/lchkl/ontology/FoodOntology.owl
+0 qid:25 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:11.0 10:0.0 11:10.0 # query=web of things; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirConservation.owl
+0 qid:25 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.52380955 7:0.0 8:1.0 9:63.0 10:0.0 11:11.0 # query=web of things; ontology=http://ns.inria.fr/emoca
+0 qid:25 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10869565 7:0.0 8:0.0 9:46.0 10:0.0 11:40.0 # query=web of things; ontology=http://sweet.jpl.nasa.gov/2.3/phenSystem.owl
+0 qid:25 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.041666668 7:0.0 8:0.0 9:24.0 10:0.0 11:10.0 # query=web of things; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleGeographic.owl
+4 qid:14 1:1.0 2:0.0 3:35.838474 4:1.0 5:0.100370206 6:0.42212188 7:82.0 8:0.0 9:443.0 10:86.949745 11:393.0 # query=sensor; ontology=http://purl.oclc.org/NET/ssnx/ssn
+1 qid:14 1:0.0 2:0.0 3:6.3170633 4:1.0 5:0.0 6:0.010416667 7:0.0 8:0.0 9:96.0 10:0.0 11:22.0 # query=sensor; ontology=http://a.com/ontology
+1 qid:14 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:191.0 10:0.0 11:158.0 # query=sensor; ontology=http://cmusv/hsl
+1 qid:14 1:1.0 2:0.0 3:0.0 4:1.0 5:0.009799431 6:0.375 7:0.0 8:0.0 9:184.0 10:0.0 11:10.0 # query=sensor; ontology=http://elite.polito.it/ontologies/poweront.owl
+1 qid:14 1:0.0 2:20.0 3:0.0 4:1.0 5:0.0 6:0.36915886 7:7.0 8:0.0 9:214.0 10:8.06066 11:143.0 # query=sensor; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+1 qid:14 1:1.0 2:0.0 3:19.759214 4:1.0 5:0.0 6:0.5928571 7:7.0 8:1.0 9:140.0 10:7.3535533 11:42.0 # query=sensor; ontology=http://mmisw.org/ont/mmi/device
+1 qid:14 1:1.0 2:0.0 3:80.28488 4:0.0 5:0.0 6:0.034696408 7:264.0 8:1.0 9:807.0 10:289.68808 11:422.0 # query=sensor; ontology=http://mmisw.org/ont/univmemphis/sensor
+1 qid:14 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0068765767 6:0.4293478 7:4.0 8:0.0 9:184.0 10:4.0 11:141.0 # query=sensor; ontology=http://personal.ee.surrey.ac.uk/Personal/Wei.Wang/ontologies/IoT.est.owl
+1 qid:14 1:0.0 2:0.0 3:3.5635066 4:1.0 5:0.0 6:0.023809524 7:8.0 8:0.0 9:42.0 10:8.0 11:7.0 # query=sensor; ontology=http://portal.bt-hypercat.com/ontologies/bt-hypercat
+1 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:5.0 10:0.0 11:2.0 # query=sensor; ontology=http://purl.org/NET/ssnext/communication
+1 qid:14 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.5 7:0.0 8:0.0 9:2.0 10:0.0 11:1.0 # query=sensor; ontology=http://purl.org/NET/ssnext/heatmeters
+1 qid:14 1:1.0 2:0.0 3:151.9352 4:1.0 5:0.0 6:1.5632353 7:166.0 8:0.0 9:680.0 10:178.59619 11:585.0 # query=sensor; ontology=http://purl.org/iot/ontology/fiesta-iot
+1 qid:14 1:1.0 2:0.0 3:138.5442 4:1.0 5:0.0 6:1.6077058 7:279.0 8:0.0 9:571.0 10:305.24265 11:545.0 # query=sensor; ontology=http://purl.org/iot/vocab/m3-lite
+1 qid:14 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.3125 7:4.0 8:0.0 9:32.0 10:4.0 11:7.0 # query=sensor; ontology=http://purl.org/net/preSense/ns
+1 qid:14 1:1.0 2:0.0 3:7.1598587 4:1.0 5:0.0 6:0.12195122 7:12.0 8:0.0 9:123.0 10:12.353554 11:70.0 # query=sensor; ontology=http://spitfire-project.eu/ontology/ns
+1 qid:14 1:0.0 2:0.0 3:6.341788 4:1.0 5:0.0 6:0.1923077 7:2.0 8:0.0 9:26.0 10:2.7071068 11:23.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/matrInstrument.owl
+1 qid:14 1:0.0 2:3.0 3:10.265228 4:0.0 5:0.0068765767 6:0.0066079297 7:21.0 8:0.0 9:454.0 10:21.0 11:280.0 # query=sensor; ontology=http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel
+1 qid:14 1:0.0 2:0.0 3:8.88845 4:1.0 5:0.0068765767 6:0.058337636 7:51.0 8:0.0 9:1937.0 10:51.0 11:1820.0 # query=sensor; ontology=http://www.cs.stir.ac.uk/schemas/sensor_network.owl
+1 qid:14 1:0.0 2:0.0 3:19.548243 4:1.0 5:0.0 6:0.40462428 7:52.0 8:0.0 9:173.0 10:56.596195 11:97.0 # query=sensor; ontology=http://www.csiro.au/Ontologies/2009/SensorOntology.owl
+1 qid:14 1:1.0 2:0.0 3:5.3452597 4:1.0 5:0.017690243 6:0.18343496 7:95.0 8:0.0 9:1968.0 10:103.35355 11:984.0 # query=sensor; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl
+1 qid:14 1:0.0 2:1.0 3:4.7377977 4:1.0 5:0.009799431 6:0.64534885 7:1.0 8:1.0 9:172.0 10:1.0 11:141.0 # query=sensor; ontology=http://www.irit.fr/recherches/MELODI/ontologies/SAN
+1 qid:14 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0127222845 6:0.0 7:0.0 8:0.0 9:31.0 10:0.0 11:0.0 # query=sensor; ontology=http://www.surrey.ac.uk/ccsr/ontologies/ResourceModel.owl
+1 qid:14 1:0.0 2:4.0 3:0.0 4:0.0 5:0.0068765767 6:0.0 7:10.0 8:0.0 9:28.0 10:10.0 11:0.0 # query=sensor; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl
+1 qid:14 1:0.0 2:5.0 3:3.5635066 4:0.0 5:0.0 6:0.08695652 7:8.0 8:0.0 9:23.0 10:8.0 11:0.0 # query=sensor; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Service.owl
+1 qid:14 1:1.0 2:2.0 3:16.418512 4:1.0 5:0.0 6:1.6885246 7:33.0 8:0.0 9:61.0 10:33.707108 11:0.0 # query=sensor; ontology=http://www.w3.org/ns/sosa
+1 qid:14 1:1.0 2:2.0 3:6.6506414 4:1.0 5:0.0 6:0.10215054 7:13.0 8:0.0 9:558.0 10:13.0 11:519.0 # query=sensor; ontology=http://www.w3.org/ns/ssn
+1 qid:14 1:1.0 2:0.0 3:59.903748 4:1.0 5:0.0 6:0.38028845 7:85.0 8:0.0 9:2080.0 10:86.70711 11:1346.0 # query=sensor; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04 7:0.0 8:0.0 9:25.0 10:0.0 11:17.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirAssessment.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.023723112 6:0.28873238 7:0.0 8:0.0 9:142.0 10:0.0 11:108.0 # query=sensor; ontology=http://pervasive.semanticweb.org/ont/2004/06/person
+0 qid:14 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:62.0 10:0.70710677 11:18.0 # query=sensor; ontology=http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl
+0 qid:14 1:1.0 2:0.0 3:3.3610191 4:1.0 5:0.0 6:1.5526316 7:2.0 8:0.0 9:114.0 10:2.3535533 11:73.0 # query=sensor; ontology=http://purl.org/vso/ns
+0 qid:14 1:1.0 2:1.0 3:0.0 4:1.0 5:0.017690243 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:8.0 # query=sensor; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-geo
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.037037037 7:0.0 8:0.0 9:27.0 10:0.0 11:22.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataProduct.owl
+0 qid:14 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0 6:0.04 7:0.0 8:0.0 9:25.0 10:0.0 11:0.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpectralLine.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:32.0 10:0.0 11:5.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl
+0 qid:14 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:1.5 7:9.0 8:0.0 9:204.0 10:9.0 11:24.0 # query=sensor; ontology=http://aemet.linkeddata.es/ontology/aemet/aemet.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.42857143 7:0.0 8:0.0 9:21.0 10:0.0 11:20.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/realmAtmoWeather.owl
+0 qid:14 1:0.0 2:2.0 3:0.0 4:1.0 5:0.017690243 6:1.6363636 7:0.0 8:1.0 9:66.0 10:0.0 11:41.0 # query=sensor; ontology=https://w3id.org/stn/core
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.41666666 7:0.0 8:0.0 9:24.0 10:0.0 11:22.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeol.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.029928433 7:0.0 8:0.0 9:3074.0 10:0.0 11:1465.0 # query=sensor; ontology=http://linkedgeodata.org/vocabulary
+0 qid:14 1:0.0 2:0.0 3:3.1012547 4:1.0 5:0.0 6:0.09375 7:0.0 8:0.0 9:32.0 10:0.0 11:36.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/propQuantity.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:32.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/humanTechReadiness.owl
+0 qid:14 1:0.0 2:0.0 3:4.7377977 4:1.0 5:0.0 6:0.0 7:18.0 8:0.0 9:1005.0 10:18.0 11:422.0 # query=sensor; ontology=http://webmind.dico.unimi.it/CARE/locont.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.16 7:0.0 8:0.0 9:25.0 10:0.0 11:1.0 # query=sensor; ontology=http://www.surrey.ac.uk/ccsr/ontologies/ServiceModel.owl
+0 qid:14 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11 7:0.0 8:0.0 9:100.0 10:0.0 11:47.0 # query=sensor; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/attack.owl
+0 qid:14 1:0.0 2:0.0 3:9.182798 4:1.0 5:0.0 6:0.0029239766 7:0.0 8:1.0 9:2052.0 10:0.0 11:2037.0 # query=sensor; ontology=http://doe-generated-ontology.com/OntoReaChir
+0 qid:14 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.16 7:0.0 8:0.0 9:25.0 10:0.0 11:6.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/matrIon.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.051903114 7:0.0 8:0.0 9:289.0 10:0.0 11:262.0 # query=sensor; ontology=http://www.semanticweb.org/ontologies/2012/2/Ontology1331186342473.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:19.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathStatistics.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2 7:0.0 8:0.0 9:25.0 10:0.0 11:23.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandOrographic.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/phenOcean.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04347826 7:0.0 8:0.0 9:23.0 10:0.0 11:22.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/human.owl
+0 qid:14 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:21.0 # query=sensor; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandProtected.owl
+0 qid:14 1:0.0 2:13.0 3:11.945738 4:0.0 5:0.0068765767 6:0.046296295 7:47.0 8:0.0 9:324.0 10:47.0 11:26.0 # query=sensor; ontology=http://www.semanticweb.org/ontologies/2011/7/SA.owl
+4 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.8333333 7:0.0 8:0.0 9:6.0 10:0.0 11:0.0 # query=user; ontology=http://pervasive.semanticweb.org/ont/2004/06/agent
+4 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.023723112 6:0.28873238 7:0.0 8:0.0 9:142.0 10:0.0 11:108.0 # query=user; ontology=http://pervasive.semanticweb.org/ont/2004/06/person
+2 qid:22 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.009803922 7:0.0 8:0.0 9:204.0 10:0.0 11:51.0 # query=user; ontology=http://www.owl-ontologies.com/kamer/patient.owl
+1 qid:22 1:1.0 2:0.0 3:0.0 4:1.0 5:0.03769597 6:0.036363635 7:17.0 8:0.0 9:55.0 10:55.596195 11:24.0 # query=user; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/user.owl
+1 qid:22 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.3125 7:0.0 8:0.0 9:32.0 10:0.0 11:7.0 # query=user; ontology=http://purl.org/net/preSense/ns
+1 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04347826 7:0.0 8:0.0 9:23.0 10:0.0 11:22.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/human.owl
+1 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:32.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/humanTechReadiness.owl
+1 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.083333336 7:0.0 8:0.0 9:12.0 10:0.0 11:0.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/relaHuman.owl
+1 qid:22 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.01724138 7:2.0 8:0.0 9:58.0 10:6.7071066 11:5.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/stateRole.owl
+1 qid:22 1:0.0 2:0.0 3:2.441142 4:1.0 5:0.0 6:0.25842696 7:0.0 8:0.0 9:712.0 10:0.0 11:284.0 # query=user; ontology=http://www.Smart-Homes-owl-ontologies.com/Person_SH_Ontology.owl
+1 qid:22 1:0.0 2:0.0 3:0.813714 4:1.0 5:0.0068765767 6:0.08240741 7:12.0 8:0.0 9:2160.0 10:40.24264 11:2022.0 # query=user; ontology=http://www.cs.stir.ac.uk/schemas/home_care.owl
+1 qid:22 1:0.0 2:2.0 3:5.1239133 4:1.0 5:0.017690243 6:1.6363636 7:21.0 8:1.0 9:66.0 10:70.42462 11:41.0 # query=user; ontology=https://w3id.org/stn/core
+1 qid:22 1:1.0 2:0.0 3:5.0465455 4:1.0 5:0.0 6:0.16666667 7:14.0 8:0.0 9:138.0 10:45.535534 11:39.0 # query=user; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl
+0 qid:22 1:0.0 2:0.0 3:0.813714 4:1.0 5:0.0 6:0.44444445 7:0.0 8:0.0 9:27.0 10:0.0 11:25.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl
+0 qid:22 1:0.0 2:2.0 3:1.6381124 4:1.0 5:0.0127222845 6:1.382353 7:39.0 8:1.0 9:102.0 10:126.545944 11:76.0 # query=user; ontology=https://w3id.org/stn/core/operations
+0 qid:22 1:0.0 2:8.0 3:0.0 4:1.0 5:0.0 6:0.3255814 7:0.0 8:0.0 9:43.0 10:0.0 11:12.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/propDimensionlessRatio.owl
+0 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:16.0 10:0.0 11:14.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeDay.owl
+0 qid:22 1:1.0 2:0.0 3:0.85177493 4:1.0 5:0.0068765767 6:0.03445428 7:12.0 8:0.0 9:8475.0 10:40.24264 11:8222.0 # query=user; ontology=http://www.cs.stir.ac.uk/schemas/call_control.owl
+0 qid:22 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0068765767 6:0.10526316 7:0.0 8:0.0 9:38.0 10:0.0 11:28.0 # query=user; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Event_SH_Ontology.owl
+0 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2 7:0.0 8:0.0 9:25.0 10:0.0 11:23.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandOrographic.owl
+0 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.6666667 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpace.owl
+0 qid:22 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:0.0 11:1.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/stateBiological.owl
+0 qid:22 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.033333335 7:2.0 8:0.0 9:90.0 10:6.7071066 11:42.0 # query=user; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl
+0 qid:22 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:1.36 7:0.0 8:0.0 9:25.0 10:0.0 11:9.0 # query=user; ontology=http://sensormeasurement.appspot.com/ont/m3/tourism
+0 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:32.0 10:0.0 11:5.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl
+0 qid:22 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5641026 7:0.0 8:0.0 9:39.0 10:0.0 11:37.0 # query=user; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoFog.owl
+4 qid:12 1:0.0 2:0.0 3:5.1959257 4:1.0 5:0.0153179495 6:0.013953488 7:0.0 8:0.0 9:215.0 10:0.0 11:10.0 # query=robotic; ontology=http://purl.org/ieee1872-owl/corax
+4 qid:12 1:0.0 2:0.0 3:8.537553 4:1.0 5:0.0153179495 6:0.017699115 7:0.0 8:0.0 9:113.0 10:0.0 11:0.0 # query=robotic; ontology=http://purl.org/ieee1872-owl/rparts
+3 qid:12 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0 6:7.889102E-4 7:0.0 8:0.0 9:8873.0 10:0.0 11:53.0 # query=robotic; ontology=http://www.sensormeasurement.appspot.com/ont/transport/traffic
+2 qid:12 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0 6:0.008459214 7:0.0 8:0.0 9:1655.0 10:0.0 11:419.0 # query=robotic; ontology=http://purl.org/ieee1872-owl/pos
+2 qid:12 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.008264462 7:0.0 8:0.0 9:242.0 10:0.0 11:2.0 # query=robotic; ontology=http://www.anr-proteus.fr/sites/default/files/download/Ontology/Proteus.owl
+2 qid:12 1:0.0 2:0.0 3:0.86598766 4:0.0 5:0.0 6:0.5 7:0.0 8:0.0 9:2.0 10:0.0 11:0.0 # query=robotic; ontology=http://www.anr-proteus.fr/sites/default/files/download/Ontology/RoboticOntologyServices.owl
+2 qid:12 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.08580645 7:0.0 8:0.0 9:1550.0 10:0.0 11:1059.0 # query=robotic; ontology=http://www.pr-owl.org/pr-owl.owl
+1 qid:12 1:0.0 2:0.0 3:15.587778 4:1.0 5:0.019906908 6:0.06849315 7:8.0 8:0.0 9:146.0 10:16.0 11:8.0 # query=robotic; ontology=http://purl.org/ieee1872-owl/cora
+0 qid:12 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.026666667 7:0.0 8:0.0 9:75.0 10:0.0 11:65.0 # query=robotic; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathFunction.owl
+0 qid:12 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.078431375 7:0.0 8:0.0 9:51.0 10:0.0 11:50.0 # query=robotic; ontology=http://sweet.jpl.nasa.gov/2.3/matrPlant.owl
+0 qid:12 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:1.6885246 7:0.0 8:0.0 9:61.0 10:5.0 11:0.0 # query=robotic; ontology=http://www.w3.org/ns/sosa
+0 qid:12 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.1764706 7:0.0 8:0.0 9:34.0 10:0.0 11:35.0 # query=robotic; ontology=http://sweet.jpl.nasa.gov/2.3/phenStar.owl
+0 qid:12 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.027777778 7:0.0 8:0.0 9:36.0 10:0.0 11:39.0 # query=robotic; ontology=http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl
+0 qid:12 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033333335 7:0.0 8:0.0 9:30.0 10:0.0 11:29.0 # query=robotic; ontology=http://sweet.jpl.nasa.gov/2.3/matrEnergy.owl
+0 qid:12 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.23076923 7:0.0 8:0.0 9:13.0 10:0.0 11:14.0 # query=robotic; ontology=http://sweet.jpl.nasa.gov/2.3/propDifference.owl
+0 qid:12 1:0.0 2:0.0 3:0.68691957 4:1.0 5:0.0 6:0.50857145 7:0.0 8:0.0 9:350.0 10:0.0 11:149.0 # query=robotic; ontology=http://purl.org/ifo
+4 qid:24 1:0.0 2:0.0 3:9.209246 4:1.0 5:0.0 6:0.0 7:2.0 8:0.0 9:36.0 10:12.0 11:23.0 # query=weather; ontology=http://knoesis.wright.edu/ssw/ont/weather.owl
+2 qid:24 1:0.0 2:0.0 3:3.8099763 4:1.0 5:0.0 6:0.55263156 7:6.0 8:0.0 9:38.0 10:41.596195 11:37.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl
+2 qid:24 1:0.0 2:0.0 3:6.845927 4:1.0 5:0.0 6:0.6363636 7:0.0 8:0.0 9:55.0 10:4.1213202 11:53.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoCloud.owl
+2 qid:24 1:0.0 2:0.0 3:6.7557645 4:1.0 5:0.0 6:0.5641026 7:2.0 8:0.0 9:39.0 10:13.06066 11:37.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoFog.owl
+2 qid:24 1:0.0 2:0.0 3:8.852359 4:1.0 5:0.0 6:0.7037037 7:1.0 8:0.0 9:27.0 10:7.4142137 11:27.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoFront.owl
+2 qid:24 1:0.0 2:0.0 3:0.7354886 4:1.0 5:0.0 6:0.61538464 7:0.0 8:0.0 9:13.0 10:0.0 11:12.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoLightning.owl
+2 qid:24 1:0.0 2:0.0 3:22.682894 4:1.0 5:0.0 6:0.47945204 7:4.0 8:0.0 9:73.0 10:27.474874 11:72.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoPrecipitation.owl
+2 qid:24 1:0.0 2:0.0 3:7.4384074 4:1.0 5:0.0 6:0.44262296 7:2.0 8:0.0 9:61.0 10:20.717514 11:65.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoPressure.owl
+2 qid:24 1:0.0 2:0.0 3:2.260545 4:1.0 5:0.0 6:0.36842105 7:0.0 8:0.0 9:19.0 10:0.70710677 11:17.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl
+2 qid:24 1:0.0 2:0.0 3:5.3401117 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:14.0 10:1.0606601 11:11.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoTransport.owl
+2 qid:24 1:0.0 2:0.0 3:4.5154834 4:1.0 5:0.0 6:0.46 7:2.0 8:0.0 9:50.0 10:13.414213 11:49.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoWind.owl
+2 qid:24 1:0.0 2:0.0 3:39.38489 4:1.0 5:0.0 6:0.8174603 7:8.0 8:0.0 9:126.0 10:59.717514 11:126.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoWindMesoscale.owl
+2 qid:24 1:0.0 2:0.0 3:1.4513414 4:1.0 5:0.0 6:0.083333336 7:0.0 8:0.0 9:36.0 10:0.0 11:34.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenPlanetClimate.owl
+2 qid:24 1:0.0 2:1.0 3:3.0407603 4:1.0 5:0.0 6:0.1764706 7:0.0 8:0.0 9:34.0 10:0.35355338 11:35.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenStar.owl
+2 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10869565 7:0.0 8:0.0 9:46.0 10:0.0 11:40.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenSystem.owl
+2 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.074074075 7:0.0 8:0.0 9:27.0 10:0.0 11:24.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/phenSystemComplexity.owl
+2 qid:24 1:0.0 2:0.0 3:4.4829183 4:1.0 5:0.0 6:0.1632653 7:0.0 8:0.0 9:49.0 10:3.4142137 11:49.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/propTemperature.owl
+2 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.36842105 7:0.0 8:0.0 9:19.0 10:0.0 11:16.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl
+2 qid:24 1:0.0 2:0.0 3:0.7804125 4:1.0 5:0.0 6:0.42857143 7:2.0 8:0.0 9:21.0 10:12.353554 11:20.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/realmAtmoWeather.owl
+2 qid:24 1:0.0 2:4.0 3:30.132666 4:1.0 5:0.0 6:0.32743362 7:0.0 8:0.0 9:113.0 10:2.4142137 11:31.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/realmClimateZone.owl
+2 qid:24 1:0.0 2:0.0 3:2.9185388 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:16.0 10:0.0 11:0.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/relaClimate.owl
+2 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.024390243 7:0.0 8:0.0 9:41.0 10:0.0 11:10.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/stateStorm.owl
+2 qid:24 1:1.0 2:0.0 3:16.548944 4:1.0 5:0.0 6:0.07561728 7:117.0 8:0.0 9:648.0 10:711.1317 11:56.0 # query=weather; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl
+1 qid:24 1:1.0 2:5.0 3:32.495518 4:0.0 5:0.0 6:0.09768379 7:174.0 8:0.0 9:993.0 10:1068.0416 11:39.0 # query=weather; ontology=http://paul.staroch.name/thesis/SmartHomeWeather.owl
+1 qid:24 1:0.0 2:0.0 3:2.9763386 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:13.0 10:0.0 11:11.0 # query=weather; ontology=http://purl.org/NET/ssnext/climate-feature
+1 qid:24 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:0.0 10:0.0 11:0.0 # query=weather; ontology=https://www.w3.org/2005/Incubator/ssn/ssnx/meteo/aws
+0 qid:24 1:1.0 2:1.0 3:1.536456 4:1.0 5:0.0 6:0.65591395 7:0.0 8:0.0 9:465.0 10:1.7071067 11:478.0 # query=weather; ontology=http://securitytoolbox.appspot.com/stac
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.041165058 6:0.14285715 7:0.0 8:0.0 9:126.0 10:0.0 11:49.0 # query=weather; ontology=http://pervasive.semanticweb.org/ont/2004/06/time
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:0.0 11:31.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathSolution.owl
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:32.0 10:0.0 11:5.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl
+0 qid:24 1:0.0 2:0.0 3:20.63194 4:1.0 5:0.0 6:0.0029239766 7:0.0 8:1.0 9:2052.0 10:10.828427 11:2037.0 # query=weather; ontology=http://doe-generated-ontology.com/OntoReaChir
+0 qid:24 1:0.0 2:1.0 3:4.604623 4:1.0 5:0.0 6:0.08928572 7:0.0 8:0.0 9:56.0 10:0.0 11:51.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/matrWater.owl
+0 qid:24 1:1.0 2:0.0 3:3.0697486 4:0.0 5:0.0 6:0.0014164306 7:0.0 8:0.0 9:706.0 10:0.0 11:185.0 # query=weather; ontology=http://www.owl-ontologies.com/HospitalOntology.owl
+0 qid:24 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0127222845 6:0.039076377 7:0.0 8:0.0 9:563.0 10:0.0 11:427.0 # query=weather; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/food.owl
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:11.0 10:0.0 11:3.0 # query=weather; ontology=http://www.w3id.org/semiot/ontologies/hydra/pubsub
+0 qid:24 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.03445428 7:0.0 8:0.0 9:8475.0 10:6.0104074 11:8222.0 # query=weather; ontology=http://www.cs.stir.ac.uk/schemas/call_control.owl
+0 qid:24 1:0.0 2:0.0 3:0.73359865 4:1.0 5:0.0 6:0.12 7:0.0 8:0.0 9:25.0 10:0.0 11:24.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.02631579 7:0.0 8:0.0 9:38.0 10:0.0 11:33.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/propFunction.owl
+0 qid:24 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.5354839 7:0.0 8:1.0 9:155.0 10:1.4142135 11:131.0 # query=weather; ontology=https://www.irit.fr/recherches/MELODI/ontologies/IoT-O
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.025641026 7:0.0 8:0.0 9:39.0 10:0.0 11:0.0 # query=weather; ontology=http://www.surrey.ac.uk/ccsr/IoT-A/EntityModel.owl
+0 qid:24 1:1.0 2:1.0 3:0.0 4:1.0 5:0.017690243 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:8.0 # query=weather; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-geo
+0 qid:24 1:1.0 2:0.0 3:5.222255 4:1.0 5:0.009799431 6:0.375 7:0.0 8:0.0 9:184.0 10:2.4142137 11:10.0 # query=weather; ontology=http://elite.polito.it/ontologies/poweront.owl
+0 qid:24 1:1.0 2:0.0 3:1.536456 4:1.0 5:0.0 6:1.5526316 7:0.0 8:0.0 9:114.0 10:5.596194 11:73.0 # query=weather; ontology=http://purl.org/vso/ns
+0 qid:24 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.7894737 7:0.0 8:1.0 9:57.0 10:0.0 11:23.0 # query=weather; ontology=http://open-multinet.info/ontology/omn-monitoring-data
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.006134969 7:0.0 8:0.0 9:163.0 10:0.0 11:11.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl
+0 qid:24 1:0.0 2:0.0 3:27.314205 4:1.0 5:0.0068765767 6:0.08240741 7:0.0 8:0.0 9:2160.0 10:1.0606601 11:2022.0 # query=weather; ontology=http://www.cs.stir.ac.uk/schemas/home_care.owl
+0 qid:24 1:1.0 2:0.0 3:3.0697486 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:523.0 10:0.0 11:583.0 # query=weather; ontology=https://raw.github.com/doroam/planning-do-roam/master/Ontology/tags.owl
+0 qid:24 1:0.0 2:0.0 3:1.536456 4:1.0 5:0.0 6:0.19354838 7:1.0 8:0.0 9:31.0 10:8.767767 11:28.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandform.owl
+0 qid:24 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.037037037 7:0.0 8:0.0 9:27.0 10:0.0 11:25.0 # query=weather; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciProvenance.owl
+0 qid:24 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0 6:1.25 7:0.0 8:0.0 9:32.0 10:0.0 11:2.0 # query=weather; ontology=http://vocab.ox.ac.uk/meter
+0 qid:24 1:0.0 2:0.0 3:0.76743716 4:0.0 5:0.0068765767 6:1.6363636 7:0.0 8:0.0 9:11.0 10:0.35355338 11:2.0 # query=weather; ontology=http://aemet.linkeddata.es/localizacion.owl
+0 qid:24 1:1.0 2:0.0 3:6.696762 4:1.0 5:0.0068765767 6:1.3333334 7:0.0 8:0.0 9:138.0 10:2.4748738 11:59.0 # query=weather; ontology=http://vcharpenay.github.io/hto/hto.xml
+4 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2686567 7:0.0 8:0.0 9:134.0 10:0.0 11:124.0 # query=smart city; ontology=http://purl.oclc.org/NET/UASO/qoi
+4 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5857143 7:0.0 8:0.0 9:70.0 10:2.0 11:24.0 # query=smart city; ontology=http://purl.oclc.org/NET/UNIS/sao/sao
+4 qid:16 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:1.8570136 7:8.131728 8:0.0 9:1105.0 10:282.03122 11:777.0 # query=smart city; ontology=http://www.disit.org/km4city/resource
+1 qid:16 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.8 7:4.2426405 8:0.0 9:10.0 10:46.767765 11:2.0 # query=smart city; ontology=http://opensensingcity.emse.fr/scans/entity
+1 qid:16 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.06306306 7:1.0606601 8:0.0 9:222.0 10:0.70710677 11:234.0 # query=smart city; ontology=http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl
+1 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.24752475 7:0.0 8:0.0 9:101.0 10:0.0 11:6.0 # query=smart city; ontology=http://www.ibm.com/SCTC/ontology/SIRIBasedTransportation.owl
+1 qid:16 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.8319328 7:0.0 8:1.0 9:238.0 10:0.0 11:46.0 # query=smart city; ontology=http://www.ontologydesignpatterns.org/ont/prisma/ontology.owl
+1 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:119.0 10:37.414215 11:76.0 # query=smart city; ontology=http://www.semanticweb.org/kpark/ontologies/2013/8/untitled-ontology-7
+0 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25 7:0.0 8:0.0 9:24.0 10:0.0 11:26.0 # query=smart city; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFloor.owl
+0 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.48 7:0.0 8:0.0 9:25.0 10:0.0 11:22.0 # query=smart city; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeolTectonic.owl
+0 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:1.0 7:0.0 8:0.0 9:4.0 10:0.0 11:3.0 # query=smart city; ontology=http://pervasive.semanticweb.org/ont/2004/06/location
+0 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.3888889 7:0.0 8:0.0 9:18.0 10:0.0 11:15.0 # query=smart city; ontology=http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl
+0 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.41666666 7:0.0 8:0.0 9:24.0 10:1.0 11:22.0 # query=smart city; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeol.owl
+0 qid:16 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.102564104 7:0.0 8:0.0 9:39.0 10:0.0 11:33.0 # query=smart city; ontology=http://sweet.jpl.nasa.gov/2.3/matr.owl
+0 qid:16 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:14.0 10:0.0 11:11.0 # query=smart city; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoTransport.owl
+0 qid:16 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.25757575 7:0.0 8:0.0 9:66.0 10:0.0 11:58.0 # query=smart city; ontology=http://purl.org/NET/ssnext/electricmeters
+4 qid:3 1:0.0 2:0.0 3:6.0916233 4:1.0 5:0.0 6:0.04 7:6.0 8:0.0 9:25.0 10:12.0 11:17.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirAssessment.owl
+4 qid:3 1:0.0 2:0.0 3:1.5669293 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:11.0 10:0.0 11:10.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirConservation.owl
+4 qid:3 1:0.0 2:0.0 3:1.5302385 4:1.0 5:0.0 6:0.13513513 7:2.0 8:0.0 9:37.0 10:4.0 11:36.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirControl.owl
+4 qid:3 1:0.0 2:1.0 3:7.6511927 4:1.0 5:0.0 6:0.021276595 7:10.0 8:0.0 9:47.0 10:20.0 11:16.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/humanEnvirStandards.owl
+4 qid:3 1:0.0 2:0.0 3:0.7504539 4:0.0 5:0.0 6:0.102564104 7:0.0 8:0.0 9:39.0 10:0.0 11:33.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matr.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.14814815 7:0.0 8:0.0 9:27.0 10:0.0 11:22.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrAerosol.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04761905 7:0.0 8:0.0 9:42.0 10:0.0 11:41.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrAnimal.owl
+4 qid:3 1:0.0 2:0.0 3:1.5801609 4:1.0 5:0.0 6:0.1 7:1.0 8:0.0 9:20.0 10:2.0 11:18.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrBiomass.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.037383176 7:0.0 8:0.0 9:107.0 10:0.0 11:7.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrCompound.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.041237112 7:0.0 8:0.0 9:97.0 10:0.0 11:21.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrElement.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.054054055 7:0.0 8:0.0 9:37.0 10:0.0 11:1.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrElementalMolecule.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2 7:0.0 8:0.0 9:10.0 10:0.0 11:9.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrIndustrial.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.16 7:0.0 8:0.0 9:25.0 10:0.0 11:6.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrIon.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.02 7:0.0 8:0.0 9:50.0 10:0.0 11:10.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrIsotope.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03125 7:0.0 8:0.0 9:32.0 10:0.0 11:31.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrMicrobiota.owl
+4 qid:3 1:0.0 2:0.0 3:0.7504539 4:0.0 5:0.0 6:0.46666667 7:0.0 8:0.0 9:15.0 10:0.0 11:14.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrMineral.owl
+4 qid:3 1:0.0 2:0.0 3:8.98895 4:0.0 5:0.0 6:0.36363637 7:0.0 8:0.0 9:22.0 10:0.0 11:21.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrNaturalResource.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.02919708 7:0.0 8:0.0 9:137.0 10:0.0 11:21.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrOrganicCompound.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.15789473 7:0.0 8:0.0 9:19.0 10:0.0 11:16.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrParticle.owl
+4 qid:3 1:0.0 2:0.0 3:0.74376005 4:1.0 5:0.0 6:0.078431375 7:1.0 8:0.0 9:51.0 10:3.0 11:50.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrPlant.owl
+4 qid:3 1:0.0 2:0.0 3:0.7504539 4:0.0 5:0.0 6:0.54545456 7:0.0 8:0.0 9:22.0 10:0.0 11:23.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrRock.owl
+4 qid:3 1:0.0 2:0.0 3:1.5246922 4:0.0 5:0.0 6:0.8636364 7:0.0 8:0.0 9:44.0 10:0.0 11:50.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrRockIgneous.owl
+4 qid:3 1:0.0 2:0.0 3:0.74376005 4:1.0 5:0.0 6:0.39473686 7:1.0 8:0.0 9:38.0 10:3.0 11:37.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrSediment.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.08928572 7:0.0 8:0.0 9:56.0 10:0.0 11:51.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/matrWater.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.2857143 7:0.0 8:0.0 9:14.0 10:0.0 11:14.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenCryo.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.057142857 7:0.0 8:0.0 9:35.0 10:0.0 11:30.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycle.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05 7:0.0 8:0.0 9:20.0 10:0.0 11:18.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycleMaterial.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.07692308 7:0.0 8:0.0 9:13.0 10:0.0 11:14.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenElecMag.owl
+4 qid:3 1:0.0 2:0.0 3:6.899644 4:1.0 5:0.0 6:0.13725491 7:7.0 8:0.0 9:51.0 10:14.0 11:49.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenEnvirImpact.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.48 7:0.0 8:0.0 9:25.0 10:0.0 11:22.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeolTectonic.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenOcean.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1764706 7:0.0 8:0.0 9:17.0 10:0.0 11:17.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanCoastal.owl
+4 qid:3 1:0.0 2:0.0 3:0.81504166 4:1.0 5:0.0 6:0.23529412 7:0.0 8:0.0 9:34.0 10:0.0 11:34.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanDynamics.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1875 7:0.0 8:0.0 9:64.0 10:0.0 11:53.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenSolid.owl
+4 qid:3 1:0.0 2:0.0 3:0.7504539 4:1.0 5:0.0 6:0.36363637 7:0.0 8:0.0 9:55.0 10:0.0 11:52.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenWave.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.05882353 7:0.0 8:0.0 9:17.0 10:0.0 11:15.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.3 7:0.0 8:0.0 9:30.0 10:1.0 11:25.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realm.owl
+4 qid:3 1:0.0 2:0.0 3:0.74376005 4:1.0 5:0.0 6:0.29545453 7:1.0 8:0.0 9:44.0 10:4.0 11:41.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realmOcean.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.05263158 7:0.0 8:0.0 9:57.0 10:0.0 11:16.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFeature.owl
+4 qid:3 1:0.0 2:0.0 3:0.7504539 4:1.0 5:0.0 6:0.25 7:0.0 8:0.0 9:24.0 10:0.0 11:26.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFloor.owl
+4 qid:3 1:0.0 2:0.0 3:1.5588017 4:1.0 5:0.0 6:0.06818182 7:1.0 8:0.0 9:44.0 10:2.0 11:36.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realmSoil.owl
+4 qid:3 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:0.0 11:1.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateBiological.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.06122449 7:0.0 8:0.0 9:49.0 10:0.0 11:3.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateChemical.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.023255814 7:0.0 8:0.0 9:86.0 10:0.0 11:9.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/statePhysical.owl
+4 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.025 7:0.0 8:0.0 9:40.0 10:0.0 11:10.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleBiological.owl
+4 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033333335 7:0.0 8:0.0 9:30.0 10:0.0 11:1.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleChemical.owl
+4 qid:3 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0 7:4.0 8:0.0 9:252.0 10:8.0 11:194.0 # query=environment; ontology=http://www.owl-ontologies.com/Environment.owl
+3 qid:3 1:0.0 2:1.0 3:1.5438093 4:1.0 5:0.0 6:2.7777777 7:0.0 8:0.0 9:99.0 10:0.0 11:63.0 # query=environment; ontology=http://hxl.humanitarianresponse.info/ns/
+2 qid:3 1:0.0 2:3.0 3:5.850694 4:1.0 5:0.0 6:0.022721598 7:0.0 8:0.0 9:4005.0 10:0.0 11:1851.0 # query=environment; ontology=http://inwatersense.uni-pr.edu/ontologies/inws-core.owl
+2 qid:3 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.08580645 7:0.0 8:0.0 9:1550.0 10:0.0 11:1059.0 # query=environment; ontology=http://www.pr-owl.org/pr-owl.owl
+1 qid:3 1:1.0 2:0.0 3:38.786366 4:0.0 5:0.0 6:0.5018982 7:48.0 8:1.0 9:1317.0 10:96.0 11:136.0 # query=environment; ontology=http://mklab.iti.gr/hackair/ontologies/hackairTBox
+1 qid:3 1:1.0 2:0.0 3:3.060477 4:1.0 5:0.0 6:0.5928571 7:4.0 8:1.0 9:140.0 10:8.0 11:42.0 # query=environment; ontology=http://mmisw.org/ont/mmi/device
+1 qid:3 1:1.0 2:0.0 3:1.5009078 4:1.0 5:0.0068765767 6:0.06306306 7:0.0 8:0.0 9:222.0 10:0.0 11:234.0 # query=environment; ontology=http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl
+1 qid:3 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.1369863 7:0.0 8:0.0 9:73.0 10:0.0 11:71.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.0/geolEarthquake.owl
+1 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.051903114 7:0.0 8:0.0 9:289.0 10:0.0 11:262.0 # query=environment; ontology=http://www.semanticweb.org/ontologies/2012/2/Ontology1331186342473.owl
+0 qid:3 1:1.0 2:2.0 3:2.2266169 4:1.0 5:0.0 6:0.6119403 7:0.0 8:0.0 9:67.0 10:0.0 11:21.0 # query=environment; ontology=http://securitytoolbox.appspot.com/securityMain
+0 qid:3 1:1.0 2:0.0 3:5.1845703 4:1.0 5:0.0 6:1.5526316 7:0.0 8:0.0 9:114.0 10:0.0 11:73.0 # query=environment; ontology=http://purl.org/vso/ns
+0 qid:3 1:0.0 2:6.0 3:0.0 4:1.0 5:0.0 6:0.01923077 7:0.0 8:0.0 9:52.0 10:0.0 11:14.0 # query=environment; ontology=http://taga.umbc.edu/travel.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.75 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=environment; ontology=http://pervasive.semanticweb.org/ont/2004/06/policy
+0 qid:3 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=environment; ontology=http://reclamo.inf.um.es/secoman/owl/SupermarketOntology.owl
+0 qid:3 1:1.0 2:0.0 3:4.532054 4:1.0 5:0.0 6:0.0 7:2.0 8:0.0 9:523.0 10:4.0 11:583.0 # query=environment; ontology=https://raw.github.com/doroam/planning-do-roam/master/Ontology/tags.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:22.0 10:0.0 11:19.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciMethodology.owl
+0 qid:3 1:0.0 2:0.0 3:5.850694 4:1.0 5:0.0 6:0.0029239766 7:0.0 8:1.0 9:2052.0 10:0.0 11:2037.0 # query=environment; ontology=http://doe-generated-ontology.com/OntoReaChir
+0 qid:3 1:1.0 2:0.0 3:15.024051 4:1.0 5:0.0 6:0.009803922 7:12.0 8:0.0 9:204.0 10:24.0 11:51.0 # query=environment; ontology=http://www.owl-ontologies.com/kamer/patient.owl
+0 qid:3 1:0.0 2:0.0 3:13.2256565 4:1.0 5:0.0 6:2.0660377 7:0.0 8:0.0 9:106.0 10:0.0 11:54.0 # query=environment; ontology=http://www.ontotext.com/proton/protontop
+0 qid:3 1:1.0 2:1.0 3:0.729991 4:1.0 5:0.0 6:1.36 7:0.0 8:0.0 9:25.0 10:0.0 11:9.0 # query=environment; ontology=http://sensormeasurement.appspot.com/ont/m3/tourism
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03846154 7:0.0 8:0.0 9:26.0 10:0.0 11:13.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl
+0 qid:3 1:0.0 2:0.0 3:2.2064335 4:1.0 5:0.0 6:0.44262296 7:1.0 8:0.0 9:61.0 10:3.0 11:65.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoPressure.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.50857145 7:0.0 8:0.0 9:350.0 10:0.0 11:149.0 # query=environment; ontology=http://purl.org/ifo
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.1552795 7:0.0 8:0.0 9:161.0 10:0.0 11:117.0 # query=environment; ontology=http://pervasive.semanticweb.org/ont/2004/06/geo-measurement
+0 qid:3 1:0.0 2:0.0 3:5.2040033 4:1.0 5:0.0 6:0.37575758 7:0.0 8:0.0 9:330.0 10:1.0 11:166.0 # query=environment; ontology=http://qallme.itc.it/ontology/qallme-tourism.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.071428575 7:0.0 8:0.0 9:42.0 10:0.0 11:42.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenBiol.owl
+0 qid:3 1:0.0 2:0.0 3:0.7504539 4:1.0 5:0.0 6:0.5641026 7:0.0 8:0.0 9:39.0 10:0.0 11:37.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoFog.owl
+0 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.041666668 7:0.0 8:0.0 9:24.0 10:0.0 11:10.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleGeographic.owl
+0 qid:3 1:1.0 2:2.0 3:20.49582 4:1.0 5:0.008825146 6:0.63355595 7:3.0 8:1.0 9:1198.0 10:18.0 11:345.0 # query=environment; ontology=http://www.geonames.org/ontology
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:11.0 10:0.0 11:3.0 # query=environment; ontology=http://www.w3id.org/semiot/ontologies/hydra/pubsub
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03125 7:0.0 8:0.0 9:32.0 10:0.0 11:32.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataModel.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09090909 7:0.0 8:0.0 9:22.0 10:0.0 11:9.0 # query=environment; ontology=http://www.modul.ac.at/ontology/TourismOntology.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.02517712 6:0.5 7:0.0 8:0.0 9:8.0 10:0.0 11:0.0 # query=environment; ontology=http://pervasive.semanticweb.org/ont/2004/06/action
+0 qid:3 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2692307 7:0.0 8:0.0 9:78.0 10:0.0 11:53.0 # query=environment; ontology=http://openiot.eu/ontology/ns
+0 qid:3 1:1.0 2:0.0 3:7.440423 4:1.0 5:0.0 6:0.013245033 7:4.0 8:0.0 9:151.0 10:8.0 11:46.0 # query=environment; ontology=http://www.owl-ontologies.com/kamer/notificationPolicy.owl
+0 qid:3 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0 6:7.889102E-4 7:0.0 8:0.0 9:8873.0 10:0.0 11:53.0 # query=environment; ontology=http://www.sensormeasurement.appspot.com/ont/transport/traffic
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008338003 6:0.36585367 7:0.0 8:0.0 9:41.0 10:0.0 11:31.0 # query=environment; ontology=http://pervasive.semanticweb.org/ont/2004/06/meeting
+0 qid:3 1:0.0 2:0.0 3:4.8902497 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:16.0 10:0.0 11:0.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/relaClimate.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.05839416 7:0.0 8:0.0 9:137.0 10:0.0 11:58.0 # query=environment; ontology=http://www.semanticweb.org/shohreh/ontologies/2013/6/untitled-ontology-7
+0 qid:3 1:0.0 2:20.0 3:0.7313368 4:1.0 5:0.0 6:0.36915886 7:0.0 8:0.0 9:214.0 10:0.0 11:143.0 # query=environment; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:21.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandProtected.owl
+0 qid:3 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0014164306 7:0.0 8:0.0 9:706.0 10:0.0 11:185.0 # query=environment; ontology=http://www.owl-ontologies.com/HospitalOntology.owl
+0 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.015873017 7:0.0 8:0.0 9:63.0 10:0.0 11:0.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleTrust.owl
+0 qid:3 1:0.0 2:0.0 3:0.7313368 4:1.0 5:0.0 6:0.47945204 7:1.0 8:0.0 9:73.0 10:2.0 11:72.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoPrecipitation.owl
+0 qid:3 1:1.0 2:2.0 3:0.0 4:0.0 5:0.0 6:0.08695652 7:0.0 8:1.0 9:23.0 10:0.0 11:0.0 # query=environment; ontology=https://w3id.org/seas/
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.022727273 7:0.0 8:0.0 9:44.0 10:0.0 11:18.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/realmRegion.owl
+0 qid:3 1:0.0 2:5.0 3:0.0 4:0.0 5:0.0 6:0.08695652 7:0.0 8:0.0 9:23.0 10:0.0 11:0.0 # query=environment; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Service.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:2.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleRepresentative.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:35.0 10:0.0 11:0.0 # query=environment; ontology=http://aemet.linkeddata.es/ontology/geografica.owl
+0 qid:3 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.033333335 7:0.0 8:0.0 9:90.0 10:0.0 11:42.0 # query=environment; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl
+0 qid:3 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.23913044 7:0.0 8:0.0 9:46.0 10:0.0 11:43.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+0 qid:3 1:0.0 2:4.0 3:0.0 4:0.0 5:0.0068765767 6:0.0 7:0.0 8:0.0 9:28.0 10:0.0 11:0.0 # query=environment; ontology=http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl
+0 qid:3 1:1.0 2:0.0 3:0.0 4:1.0 5:0.017690243 6:0.18343496 7:4.0 8:0.0 9:1968.0 10:8.0 11:984.0 # query=environment; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl
+0 qid:3 1:1.0 2:0.0 3:2.9688225 4:1.0 5:0.0 6:0.47398844 7:0.0 8:0.0 9:173.0 10:0.0 11:141.0 # query=environment; ontology=http://iot.linkeddata.es/def/wot
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11111111 7:0.0 8:0.0 9:27.0 10:0.0 11:5.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataFormat.owl
+0 qid:3 1:0.0 2:2.0 3:9.635183 4:1.0 5:0.0 6:0.20232897 7:0.0 8:0.0 9:1374.0 10:0.0 11:752.0 # query=environment; ontology=http://www.ida.liu.se/~iislab/projects/secont/Security.owl
+0 qid:3 1:1.0 2:76.0 3:4.4610057 4:0.0 5:0.0 6:1.5342137 7:40.0 8:0.0 9:833.0 10:80.0 11:388.0 # query=environment; ontology=http://www.w3.org/2007/uwa/context/deliverycontext.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.058337636 7:0.0 8:0.0 9:1937.0 10:0.0 11:1820.0 # query=environment; ontology=http://www.cs.stir.ac.uk/schemas/sensor_network.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:14.0 10:0.0 11:11.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoTransport.owl
+0 qid:3 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0068765767 6:0.10526316 7:0.0 8:0.0 9:38.0 10:0.0 11:28.0 # query=environment; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Event_SH_Ontology.owl
+0 qid:3 1:0.0 2:0.0 3:1.5009078 4:1.0 5:0.0 6:0.17592593 7:0.0 8:0.0 9:108.0 10:0.0 11:15.0 # query=environment; ontology=http://www.w3c.org/wot/td
+0 qid:3 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.008264462 7:0.0 8:0.0 9:242.0 10:0.0 11:2.0 # query=environment; ontology=http://www.anr-proteus.fr/sites/default/files/download/Ontology/Proteus.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.0681819 7:0.0 8:0.0 9:44.0 10:0.0 11:39.0 # query=environment; ontology=http://www.Smart-Homes-owl-ontologies.com/Task_SH__Ontology.owl
+0 qid:3 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.6666667 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=environment; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpace.owl
+4 qid:6 1:1.0 2:0.0 3:9.306934 4:1.0 5:0.0 6:0.013245033 7:4.0 8:0.0 9:151.0 10:8.0 11:46.0 # query=health; ontology=http://www.owl-ontologies.com/kamer/notificationPolicy.owl
+4 qid:6 1:1.0 2:0.0 3:18.789446 4:1.0 5:0.0 6:0.009803922 7:4.0 8:0.0 9:204.0 10:8.0 11:51.0 # query=health; ontology=http://www.owl-ontologies.com/kamer/patient.owl
+3 qid:6 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:36.0 10:0.0 11:31.0 # query=health; ontology=http://www.owl-ontologies.com/Ontology1254773129.owl
+2 qid:6 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:1.28 7:1.0 8:0.0 9:50.0 10:2.0 11:15.0 # query=health; ontology=http://sensormeasurement.appspot.com/naturopathy
+2 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.071428575 7:2.0 8:0.0 9:42.0 10:4.0 11:42.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/phenBiol.owl
+2 qid:6 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:2.0 8:0.0 9:31.0 10:4.0 11:1.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/stateBiological.owl
+2 qid:6 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.070512824 7:0.0 8:0.0 9:156.0 10:0.0 11:107.0 # query=health; ontology=http://www.demcare.eu/ontologies/home.owl
+2 qid:6 1:0.0 2:0.0 3:1.5925583 4:1.0 5:0.0 6:0.009063444 7:4.0 8:0.0 9:331.0 10:8.0 11:223.0 # query=health; ontology=http://www.demcare.eu/ontologies/lab.owl
+1 qid:6 1:0.0 2:0.0 3:3.3743405 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:191.0 10:0.0 11:158.0 # query=health; ontology=http://cmusv/hsl
+1 qid:6 1:0.0 2:0.0 3:44.341198 4:1.0 5:0.0 6:0.0029239766 7:0.0 8:1.0 9:2052.0 10:0.0 11:2037.0 # query=health; ontology=http://doe-generated-ontology.com/OntoReaChir
+1 qid:6 1:0.0 2:0.0 3:1.7865281 4:1.0 5:0.0 6:0.50857145 7:0.0 8:0.0 9:350.0 10:0.0 11:149.0 # query=health; ontology=http://purl.org/ifo
+1 qid:6 1:0.0 2:0.0 3:11.776577 4:1.0 5:0.0 6:0.25842696 7:2.0 8:0.0 9:712.0 10:4.0 11:284.0 # query=health; ontology=http://www.Smart-Homes-owl-ontologies.com/Person_SH_Ontology.owl
+1 qid:6 1:0.0 2:3.0 3:0.0 4:0.0 5:0.0068765767 6:0.0066079297 7:0.0 8:0.0 9:454.0 10:0.0 11:280.0 # query=health; ontology=http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel
+1 qid:6 1:0.0 2:0.0 3:4.9470654 4:1.0 5:0.0068765767 6:0.08240741 7:0.0 8:0.0 9:2160.0 10:0.0 11:2022.0 # query=health; ontology=http://www.cs.stir.ac.uk/schemas/home_care.owl
+1 qid:6 1:1.0 2:0.0 3:7.814275 4:0.0 5:0.0 6:0.0014164306 7:0.0 8:0.0 9:706.0 10:0.0 11:185.0 # query=health; ontology=http://www.owl-ontologies.com/HospitalOntology.owl
+1 qid:6 1:0.0 2:0.0 3:5.061511 4:0.0 5:0.0 6:0.0 7:0.0 8:0.0 9:43.0 10:0.0 11:18.0 # query=health; ontology=http://www.semanticweb.org/bogdan/ontologies/2013/11/cisis
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03846154 7:0.0 8:0.0 9:26.0 10:0.0 11:13.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl
+0 qid:6 1:0.0 2:20.0 3:0.0 4:1.0 5:0.0 6:0.36915886 7:0.0 8:0.0 9:214.0 10:0.0 11:143.0 # query=health; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+0 qid:6 1:0.0 2:0.0 3:5.3446503 4:1.0 5:0.0 6:0.13725491 7:0.0 8:0.0 9:51.0 10:0.0 11:49.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/phenEnvirImpact.owl
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.36363637 7:0.0 8:0.0 9:55.0 10:0.0 11:52.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/phenWave.owl
+0 qid:6 1:0.0 2:0.0 3:4.60402 4:1.0 5:0.0 6:0.03937008 7:0.0 8:0.0 9:762.0 10:0.0 11:255.0 # query=health; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+0 qid:6 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.07561728 7:0.0 8:0.0 9:648.0 10:0.0 11:56.0 # query=health; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl
+0 qid:6 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.16 7:0.0 8:0.0 9:25.0 10:0.0 11:6.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/matrIon.owl
+0 qid:6 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.5 7:0.0 8:0.0 9:2.0 10:0.0 11:1.0 # query=health; ontology=http://purl.org/NET/ssnext/heatmeters
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.024390243 7:0.0 8:0.0 9:41.0 10:0.0 11:10.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/stateStorm.owl
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.42857143 7:0.0 8:0.0 9:21.0 10:0.0 11:20.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/realmAtmoWeather.owl
+0 qid:6 1:1.0 2:0.0 3:13.3854685 4:1.0 5:0.0 6:1.6077058 7:7.0 8:0.0 9:571.0 10:14.0 11:545.0 # query=health; ontology=http://purl.org/iot/vocab/m3-lite
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.29545453 7:0.0 8:0.0 9:44.0 10:0.0 11:41.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/realmOcean.owl
+0 qid:6 1:1.0 2:0.0 3:0.7635215 4:1.0 5:0.0 6:2.8823528 7:0.0 8:0.0 9:17.0 10:0.0 11:5.0 # query=health; ontology=http://ns.inria.fr/prissma/v2
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033333335 7:0.0 8:0.0 9:30.0 10:0.0 11:29.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/matrEnergy.owl
+0 qid:6 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12 7:0.0 8:0.0 9:25.0 10:0.0 11:24.0 # query=health; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl
+0 qid:6 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.5354839 7:0.0 8:1.0 9:155.0 10:0.0 11:131.0 # query=health; ontology=https://www.irit.fr/recherches/MELODI/ontologies/IoT-O
+4 qid:1 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0068765767 6:0.009090909 7:0.0 8:0.0 9:110.0 10:0.0 11:2.0 # query=context; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-actions
+4 qid:1 1:1.0 2:1.0 3:0.0 4:1.0 5:0.017690243 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:8.0 # query=context; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-geo
+4 qid:1 1:1.0 2:2.0 3:0.0 4:0.0 5:0.0127222845 6:0.011111111 7:2.0 8:0.0 9:90.0 10:4.7071066 11:60.0 # query=context; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-meetings
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.010416667 7:1.0 8:0.0 9:96.0 10:5.535534 11:22.0 # query=context; ontology=http://a.com/ontology
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.02517712 6:0.5 7:0.0 8:0.0 9:8.0 10:0.0 11:0.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/action
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.8333333 7:0.0 8:0.0 9:6.0 10:0.0 11:0.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/agent
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0127222845 6:0.1780822 7:0.0 8:0.0 9:73.0 10:0.0 11:41.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/bdi
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.0 7:0.0 8:0.0 9:6.0 10:0.0 11:0.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/event
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.1552795 7:0.0 8:0.0 9:161.0 10:0.0 11:117.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/geo-measurement
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.85714287 7:0.0 8:0.0 9:7.0 10:0.0 11:4.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/img-capture
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008825146 6:0.34615386 7:1.0 8:0.0 9:26.0 10:2.7071068 11:20.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/knowledge
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:1.0 7:7.0 8:0.0 9:4.0 10:15.767767 11:3.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/location
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008338003 6:0.36585367 7:0.0 8:0.0 9:41.0 10:0.0 11:31.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/meeting
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.023723112 6:0.28873238 7:0.0 8:0.0 9:142.0 10:0.0 11:108.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/person
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.75 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/policy
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:1.5454545 7:0.0 8:0.0 9:11.0 10:0.0 11:1.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/rcc
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.2857143 7:0.0 8:0.0 9:35.0 10:0.0 11:28.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/schedule
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.03785288 6:0.7037037 7:0.0 8:0.0 9:27.0 10:0.0 11:15.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/space
+2 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.041165058 6:0.14285715 7:0.0 8:0.0 9:126.0 10:0.0 11:49.0 # query=context; ontology=http://pervasive.semanticweb.org/ont/2004/06/time
+1 qid:1 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.52380955 7:2.0 8:1.0 9:63.0 10:5.4142137 11:11.0 # query=context; ontology=http://ns.inria.fr/emoca
+1 qid:1 1:1.0 2:0.0 3:0.8372441 4:1.0 5:0.0 6:2.8823528 7:12.0 8:0.0 9:17.0 10:38.849243 11:5.0 # query=context; ontology=http://ns.inria.fr/prissma/v2
+1 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:62.0 10:0.0 11:18.0 # query=context; ontology=http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl
+1 qid:1 1:1.0 2:1.0 3:0.8372441 4:1.0 5:0.0 6:0.20535715 7:6.0 8:0.0 9:448.0 10:14.828427 11:428.0 # query=context; ontology=http://sensormeasurement.appspot.com/ont/home/homeActivity
+1 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.016949153 7:0.0 8:0.0 9:59.0 10:0.0 11:54.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/stateDataProcessing.owl
+1 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.26755852 7:21.0 8:0.0 9:299.0 10:53.667263 11:41.0 # query=context; ontology=http://vi.uni-klu.ac.at/ontology/DrivingContext.owl
+1 qid:1 1:0.0 2:0.0 3:8.446037 4:1.0 5:0.0 6:0.40462428 7:0.0 8:0.0 9:173.0 10:2.828427 11:97.0 # query=context; ontology=http://www.csiro.au/Ontologies/2009/SensorOntology.owl
+1 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.070512824 7:0.0 8:0.0 9:156.0 10:0.0 11:107.0 # query=context; ontology=http://www.demcare.eu/ontologies/home.owl
+1 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.009063444 7:2.0 8:0.0 9:331.0 10:4.7071066 11:223.0 # query=context; ontology=http://www.demcare.eu/ontologies/lab.owl
+1 qid:1 1:1.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.0014164306 7:2.0 8:0.0 9:706.0 10:4.7071066 11:185.0 # query=context; ontology=http://www.owl-ontologies.com/HospitalOntology.owl
+1 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:36.0 10:0.0 11:31.0 # query=context; ontology=http://www.owl-ontologies.com/Ontology1254773129.owl
+1 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.009803922 7:2.0 8:0.0 9:204.0 10:4.7071066 11:51.0 # query=context; ontology=http://www.owl-ontologies.com/kamer/patient.owl
+1 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:119.0 10:0.0 11:76.0 # query=context; ontology=http://www.semanticweb.org/kpark/ontologies/2013/8/untitled-ontology-7
+1 qid:1 1:1.0 2:76.0 3:30.210428 4:0.0 5:0.0 6:1.5342137 7:74.0 8:0.0 9:833.0 10:217.65001 11:388.0 # query=context; ontology=http://www.w3.org/2007/uwa/context/deliverycontext.owl
+1 qid:1 1:1.0 2:0.0 3:11.013529 4:0.0 5:0.0 6:0.44186047 7:1.0 8:0.0 9:301.0 10:5.4748735 11:225.0 # query=context; ontology=https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.09375 7:0.0 8:0.0 9:32.0 10:0.35355338 11:36.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/propQuantity.owl
+0 qid:1 1:1.0 2:0.0 3:1.662164 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:523.0 10:0.0 11:583.0 # query=context; ontology=https://raw.github.com/doroam/planning-do-roam/master/Ontology/tags.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12 7:0.0 8:0.0 9:25.0 10:0.0 11:24.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl
+0 qid:1 1:1.0 2:1.0 3:1.6797602 4:1.0 5:0.0 6:0.8319328 7:0.0 8:1.0 9:238.0 10:0.0 11:46.0 # query=context; ontology=http://www.ontologydesignpatterns.org/ont/prisma/ontology.owl
+0 qid:1 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0 6:1.25 7:0.0 8:0.0 9:32.0 10:0.70710677 11:2.0 # query=context; ontology=http://vocab.ox.ac.uk/meter
+0 qid:1 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:0.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeFrequency.owl
+0 qid:1 1:0.0 2:0.0 3:2.5675445 4:0.0 5:0.0 6:0.8 7:0.0 8:0.0 9:10.0 10:0.0 11:2.0 # query=context; ontology=http://opensensingcity.emse.fr/scans/entity
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:32.0 10:0.0 11:5.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl
+0 qid:1 1:0.0 2:0.0 3:2.5396385 4:1.0 5:0.0 6:0.6530612 7:0.0 8:1.0 9:49.0 10:4.2426405 11:11.0 # query=context; ontology=http://open-multinet.info/ontology/omn-monitoring-genericconcepts
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10526316 7:0.0 8:0.0 9:19.0 10:0.0 11:18.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciFunction.owl
+0 qid:1 1:0.0 2:0.0 3:0.8377466 4:1.0 5:0.0 6:0.23529412 7:0.0 8:0.0 9:17.0 10:0.0 11:14.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandAeolian.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.39473686 7:0.0 8:0.0 9:38.0 10:0.0 11:37.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/matrSediment.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1521739 7:0.0 8:1.0 9:138.0 10:1.4142135 11:9.0 # query=context; ontology=http://open-multinet.info/ontology/omn-monitoring
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03846154 7:0.0 8:0.0 9:26.0 10:0.0 11:13.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/phenOcean.owl
+0 qid:1 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0127222845 6:0.0 7:0.0 8:0.0 9:31.0 10:0.0 11:0.0 # query=context; ontology=http://www.surrey.ac.uk/ccsr/ontologies/ResourceModel.owl
+0 qid:1 1:0.0 2:0.0 3:0.8372441 4:1.0 5:0.0068765767 6:0.08240741 7:0.0 8:0.0 9:2160.0 10:4.596194 11:2022.0 # query=context; ontology=http://www.cs.stir.ac.uk/schemas/home_care.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.64705884 7:0.0 8:0.0 9:17.0 10:0.0 11:15.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandGlacial.owl
+0 qid:1 1:0.0 2:5.0 3:0.0 4:1.0 5:0.0 6:0.0078125 7:0.0 8:0.0 9:128.0 10:0.0 11:14.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpaceConfiguration.owl
+0 qid:1 1:0.0 2:0.0 3:2.498974 4:1.0 5:0.0 6:0.41666666 7:0.0 8:0.0 9:24.0 10:0.35355338 11:22.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeol.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.032258064 7:0.0 8:0.0 9:31.0 10:0.0 11:31.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathSolution.owl
+0 qid:1 1:0.0 2:1.0 3:1.7303004 4:1.0 5:0.0 6:0.23913044 7:0.0 8:0.0 9:46.0 10:0.0 11:43.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+0 qid:1 1:0.0 2:0.0 3:3.5007548 4:1.0 5:0.0 6:0.37575758 7:0.0 8:0.0 9:330.0 10:2.767767 11:166.0 # query=context; ontology=http://qallme.itc.it/ontology/qallme-tourism.owl
+0 qid:1 1:1.0 2:0.0 3:8.530517 4:1.0 5:0.0068765767 6:0.03445428 7:2.0 8:0.0 9:8475.0 10:15.667262 11:8222.0 # query=context; ontology=http://www.cs.stir.ac.uk/schemas/call_control.owl
+0 qid:1 1:1.0 2:0.0 3:6.7258587 4:1.0 5:0.0 6:0.47398844 7:1.0 8:0.0 9:173.0 10:4.1213202 11:141.0 # query=context; ontology=http://iot.linkeddata.es/def/wot
+0 qid:1 1:1.0 2:0.0 3:21.623093 4:0.0 5:0.0 6:0.5018982 7:1.0 8:1.0 9:1317.0 10:15.435029 11:136.0 # query=context; ontology=http://mklab.iti.gr/hackair/ontologies/hackairTBox
+0 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.16666667 7:0.0 8:0.0 9:138.0 10:3.535534 11:39.0 # query=context; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl
+0 qid:1 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0068765767 6:0.10526316 7:0.0 8:0.0 9:38.0 10:0.0 11:28.0 # query=context; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Event_SH_Ontology.owl
+0 qid:1 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.25757575 7:0.0 8:0.0 9:66.0 10:0.0 11:58.0 # query=context; ontology=http://purl.org/NET/ssnext/electricmeters
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.07692308 7:0.0 8:0.0 9:13.0 10:0.0 11:14.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/phenElecMag.owl
+0 qid:1 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0127222845 6:0.039076377 7:2.0 8:0.0 9:563.0 10:5.0606604 11:427.0 # query=context; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/food.owl
+0 qid:1 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.022727273 7:0.0 8:0.0 9:44.0 10:0.0 11:18.0 # query=context; ontology=http://sweet.jpl.nasa.gov/2.3/realmRegion.owl
+0 qid:1 1:1.0 2:0.0 3:18.873531 4:1.0 5:0.0 6:1.6077058 7:1.0 8:0.0 9:571.0 10:32.052036 11:545.0 # query=context; ontology=http://purl.org/iot/vocab/m3-lite
+0 qid:1 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2222222 7:0.0 8:0.0 9:99.0 10:0.0 11:55.0 # query=context; ontology=http://smartcity.linkeddata.es/lcc/ontology/EnergyConsumption
+4 qid:21 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.042857144 7:0.0 8:0.0 9:70.0 10:0.0 11:52.0 # query=transportation; ontology=http://localhost/SensorSchema/ontology
+4 qid:21 1:0.0 2:0.0 3:0.7149636 4:1.0 5:0.0 6:0.5857143 7:0.0 8:0.0 9:70.0 10:0.0 11:24.0 # query=transportation; ontology=http://purl.oclc.org/NET/UNIS/sao/sao
+2 qid:21 1:0.0 2:1.0 3:12.356891 4:1.0 5:0.0 6:0.03448276 7:8.0 8:0.0 9:29.0 10:72.82843 11:26.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/humanTransportation.owl
+2 qid:21 1:0.0 2:0.0 3:3.0308733 4:1.0 5:0.0 6:0.06451613 7:2.0 8:0.0 9:62.0 10:16.707108 11:60.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/matrEquipment.owl
+1 qid:21 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.057142857 7:0.0 8:0.0 9:35.0 10:0.70710677 11:25.0 # query=transportation; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/eads.owl
+1 qid:21 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.033333335 7:0.0 8:0.0 9:90.0 10:0.0 11:42.0 # query=transportation; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl
+1 qid:21 1:1.0 2:0.0 3:13.587896 4:1.0 5:0.0 6:1.5526316 7:1.0 8:0.0 9:114.0 10:17.414213 11:73.0 # query=transportation; ontology=http://purl.org/vso/ns
+1 qid:21 1:1.0 2:0.0 3:20.733944 4:1.0 5:0.0 6:0.26755852 7:0.0 8:0.0 9:299.0 10:1.0606601 11:41.0 # query=transportation; ontology=http://vi.uni-klu.ac.at/ontology/DrivingContext.owl
+1 qid:21 1:0.0 2:0.0 3:1.6121117 4:1.0 5:0.0 6:0.24752475 7:2.0 8:0.0 9:101.0 10:16.707108 11:6.0 # query=transportation; ontology=http://www.ibm.com/SCTC/ontology/SIRIBasedTransportation.owl
+1 qid:21 1:0.0 2:0.0 3:1.436398 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:119.0 10:0.0 11:76.0 # query=transportation; ontology=http://www.semanticweb.org/kpark/ontologies/2013/8/untitled-ontology-7
+1 qid:21 1:1.0 2:3.0 3:5.0958376 4:1.0 5:0.0 6:7.889102E-4 7:0.0 8:0.0 9:8873.0 10:2.0 11:53.0 # query=transportation; ontology=http://www.sensormeasurement.appspot.com/ont/transport/traffic
+0 qid:21 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.23913044 7:0.0 8:0.0 9:46.0 10:1.3535534 11:43.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl
+0 qid:21 1:1.0 2:76.0 3:9.558016 4:0.0 5:0.0 6:1.5342137 7:0.0 8:0.0 9:833.0 10:28.606602 11:388.0 # query=transportation; ontology=http://www.w3.org/2007/uwa/context/deliverycontext.owl
+0 qid:21 1:1.0 2:2.0 3:0.0 4:1.0 5:0.0 6:1.6885246 7:0.0 8:0.0 9:61.0 10:0.35355338 11:0.0 # query=transportation; ontology=http://www.w3.org/ns/sosa
+0 qid:21 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.115384616 7:0.0 8:0.0 9:26.0 10:0.0 11:0.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/stateVisibility.owl
+0 qid:21 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0952381 7:0.0 8:0.0 9:42.0 10:0.0 11:42.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl
+0 qid:21 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.023809524 7:0.0 8:0.0 9:42.0 10:0.0 11:7.0 # query=transportation; ontology=http://portal.bt-hypercat.com/ontologies/bt-hypercat
+0 qid:21 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.057142857 7:0.0 8:0.0 9:35.0 10:0.0 11:30.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/phenCycle.owl
+0 qid:21 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.1552795 7:0.0 8:0.0 9:161.0 10:0.0 11:117.0 # query=transportation; ontology=http://pervasive.semanticweb.org/ont/2004/06/geo-measurement
+0 qid:21 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.46666667 7:0.0 8:0.0 9:15.0 10:0.35355338 11:14.0 # query=transportation; ontology=http://sweet.jpl.nasa.gov/2.3/matrMineral.owl
+0 qid:21 1:1.0 2:0.0 3:0.0 4:1.0 5:0.009799431 6:0.375 7:0.0 8:0.0 9:184.0 10:0.0 11:10.0 # query=transportation; ontology=http://elite.polito.it/ontologies/poweront.owl
+0 qid:21 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.16666667 7:0.0 8:0.0 9:138.0 10:3.1819804 11:39.0 # query=transportation; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl
+4 qid:10 1:1.0 2:1.0 3:0.0 4:1.0 5:0.017690243 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:8.0 # query=location; ontology=http://cobra.umbc.edu/ont/2004/05/ebiquity-geo
+3 qid:10 1:0.0 2:0.0 3:99.06261 4:1.0 5:0.0 6:0.029928433 7:12.0 8:0.0 9:3074.0 10:98.0 11:1465.0 # query=location; ontology=http://linkedgeodata.org/vocabulary
+3 qid:10 1:0.0 2:0.0 3:15.751284 4:1.0 5:0.01758649 6:0.1552795 7:3.0 8:0.0 9:161.0 10:12.0 11:117.0 # query=location; ontology=http://pervasive.semanticweb.org/ont/2004/06/geo-measurement
+3 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:1.0 7:9.0 8:0.0 9:4.0 10:36.0 11:3.0 # query=location; ontology=http://pervasive.semanticweb.org/ont/2004/06/location
+3 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.03785288 6:0.7037037 7:0.0 8:0.0 9:27.0 10:6.0 11:15.0 # query=location; ontology=http://pervasive.semanticweb.org/ont/2004/06/space
+2 qid:10 1:1.0 2:0.0 3:0.0 4:1.0 5:0.018567992 6:1.975 7:0.0 8:1.0 9:40.0 10:6.0 11:5.0 # query=location; ontology=http://www.opengis.net/ont/geosparql
+1 qid:10 1:0.0 2:0.0 3:2.9938095 4:0.0 5:0.0068765767 6:1.6363636 7:3.0 8:0.0 9:11.0 10:14.0 11:2.0 # query=location; ontology=http://aemet.linkeddata.es/localizacion.owl
+1 qid:10 1:0.0 2:1.0 3:6.023515 4:1.0 5:0.0 6:1.5 7:5.0 8:0.0 9:204.0 10:20.0 11:24.0 # query=location; ontology=http://aemet.linkeddata.es/ontology/aemet/aemet.owl
+1 qid:10 1:0.0 2:0.0 3:2.3626926 4:1.0 5:0.0 6:0.5714286 7:0.0 8:0.0 9:35.0 10:0.0 11:0.0 # query=location; ontology=http://aemet.linkeddata.es/ontology/geografica.owl
+1 qid:10 1:0.0 2:0.0 3:2.2703598 4:1.0 5:0.0 6:0.6530612 7:12.0 8:1.0 9:49.0 10:52.0 11:11.0 # query=location; ontology=http://open-multinet.info/ontology/omn-monitoring-genericconcepts
+1 qid:10 1:0.0 2:1.0 3:8.994391 4:1.0 5:0.0 6:1.3030303 7:1.0 8:1.0 9:66.0 10:4.0 11:26.0 # query=location; ontology=http://open-multinet.info/ontology/omn-monitoring-tool
+1 qid:10 1:0.0 2:3.0 3:0.725101 4:1.0 5:0.0 6:0.008459214 7:0.0 8:0.0 9:1655.0 10:26.0 11:419.0 # query=location; ontology=http://purl.org/ieee1872-owl/pos
+1 qid:10 1:1.0 2:0.0 3:7.742578 4:1.0 5:0.0 6:0.0 7:2.0 8:0.0 9:62.0 10:18.0 11:18.0 # query=location; ontology=http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl
+1 qid:10 1:0.0 2:0.0 3:8.663206 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:44.0 10:0.0 11:39.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03448276 7:0.0 8:0.0 9:29.0 10:0.0 11:28.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/matrFacility.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.10526316 7:0.0 8:0.0 9:19.0 10:0.0 11:19.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/propSpace.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03448276 7:0.0 8:0.0 9:29.0 10:0.0 11:24.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceDirection.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.06666667 7:4.0 8:0.0 9:15.0 10:18.0 11:13.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceLocation.owl
+1 qid:10 1:0.0 2:0.0 3:1.5126652 4:1.0 5:0.0 6:0.23529412 7:0.0 8:0.0 9:17.0 10:0.0 11:14.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandAeolian.owl
+1 qid:10 1:0.0 2:0.0 3:4.5379953 4:1.0 5:0.0 6:0.14893617 7:0.0 8:0.0 9:47.0 10:1.0 11:41.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandCoastal.owl
+1 qid:10 1:0.0 2:0.0 3:1.5126652 4:1.0 5:0.0 6:0.22857143 7:0.0 8:0.0 9:35.0 10:0.0 11:34.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandFluvial.owl
+1 qid:10 1:0.0 2:0.0 3:2.4530158 4:1.0 5:0.0 6:0.64705884 7:0.0 8:0.0 9:17.0 10:0.0 11:15.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandGlacial.owl
+1 qid:10 1:0.0 2:0.0 3:0.78756416 4:1.0 5:0.0 6:0.2 7:0.0 8:0.0 9:25.0 10:0.0 11:23.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandOrographic.owl
+1 qid:10 1:0.0 2:0.0 3:1.5751283 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:21.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandProtected.owl
+1 qid:10 1:0.0 2:0.0 3:9.64381 4:1.0 5:0.0 6:0.3962264 7:2.0 8:0.0 9:53.0 10:8.0 11:47.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandTectonic.owl
+1 qid:10 1:0.0 2:0.0 3:2.360445 4:1.0 5:0.0 6:0.44444445 7:1.0 8:0.0 9:27.0 10:4.0 11:25.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl
+1 qid:10 1:0.0 2:0.0 3:1.5751283 4:1.0 5:0.0 6:0.19354838 7:1.0 8:0.0 9:31.0 10:4.0 11:28.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmLandform.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.022727273 7:0.0 8:0.0 9:44.0 10:0.0 11:18.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realmRegion.owl
+1 qid:10 1:0.0 2:0.0 3:6.2792673 4:1.0 5:0.0 6:0.013513514 7:2.0 8:0.0 9:74.0 10:8.0 11:0.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/relaSpace.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.6666667 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpace.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.023255814 7:0.0 8:0.0 9:43.0 10:0.0 11:11.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceCoordinate.owl
+1 qid:10 1:0.0 2:4.0 3:0.0 4:1.0 5:0.0 6:0.017857144 7:0.0 8:0.0 9:56.0 10:0.0 11:0.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceDirection.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04255319 7:0.0 8:0.0 9:47.0 10:0.0 11:46.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.037037037 7:0.0 8:0.0 9:27.0 10:0.0 11:27.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry3D.owl
+1 qid:10 1:0.0 2:0.0 3:1.5751283 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:32.0 10:1.0 11:5.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl
+1 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.04761905 7:0.0 8:0.0 9:21.0 10:0.0 11:1.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateRealm.owl
+1 qid:10 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.041666668 7:0.0 8:0.0 9:24.0 10:0.0 11:10.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleGeographic.owl
+1 qid:10 1:0.0 2:5.0 3:0.0 4:1.0 5:0.0 6:0.03125 7:0.0 8:0.0 9:32.0 10:0.0 11:0.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateSpace.owl
+1 qid:10 1:1.0 2:2.0 3:166.32425 4:1.0 5:0.008825146 6:0.63355595 7:3.0 8:1.0 9:1198.0 10:19.0 11:345.0 # query=location; ontology=http://www.geonames.org/ontology
+1 qid:10 1:1.0 2:0.0 3:16.233007 4:1.0 5:0.0 6:0.0 7:2.0 8:0.0 9:523.0 10:8.0 11:583.0 # query=location; ontology=https://raw.github.com/doroam/planning-do-roam/master/Ontology/tags.owl
+0 qid:10 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.3 7:0.0 8:0.0 9:30.0 10:0.0 11:25.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/realm.owl
+0 qid:10 1:1.0 2:0.0 3:24.720757 4:1.0 5:0.0 6:1.5632353 7:11.0 8:0.0 9:680.0 10:58.0 11:585.0 # query=location; ontology=http://purl.org/iot/ontology/fiesta-iot
+0 qid:10 1:1.0 2:0.0 3:32.921246 4:0.0 5:0.0 6:1.1148648 7:0.0 8:0.0 9:296.0 10:19.0 11:249.0 # query=location; ontology=http://qudt.org/schema/qudt
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03125 7:0.0 8:0.0 9:32.0 10:0.0 11:31.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/matrMicrobiota.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.035714287 7:0.0 8:0.0 9:28.0 10:0.0 11:2.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleRepresentative.owl
+0 qid:10 1:0.0 2:0.0 3:6.000673 4:1.0 5:0.0 6:0.03937008 7:42.0 8:0.0 9:762.0 10:174.0 11:255.0 # query=location; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+0 qid:10 1:0.0 2:0.0 3:1.5427729 4:1.0 5:0.0 6:0.36363637 7:0.0 8:0.0 9:55.0 10:1.0 11:52.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/phenWave.owl
+0 qid:10 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.023255814 7:0.0 8:0.0 9:86.0 10:0.0 11:9.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/statePhysical.owl
+0 qid:10 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.04 7:0.0 8:0.0 9:25.0 10:0.0 11:0.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateRoleImpact.owl
+0 qid:10 1:0.0 2:20.0 3:7.053951 4:1.0 5:0.0 6:0.36915886 7:10.0 8:0.0 9:214.0 10:42.0 11:143.0 # query=location; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.0 8:0.0 9:5.0 10:0.0 11:2.0 # query=location; ontology=http://purl.org/NET/ssnext/communication
+0 qid:10 1:1.0 2:0.0 3:1.4827956 4:1.0 5:0.0068765767 6:0.03445428 7:14.0 8:0.0 9:8475.0 10:57.0 11:8222.0 # query=location; ontology=http://www.cs.stir.ac.uk/schemas/call_control.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.008825146 6:0.34615386 7:0.0 8:0.0 9:26.0 10:0.0 11:20.0 # query=location; ontology=http://pervasive.semanticweb.org/ont/2004/06/knowledge
+0 qid:10 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033898305 7:0.0 8:0.0 9:177.0 10:0.0 11:69.0 # query=location; ontology=http://securitytoolbox.appspot.com/MASO
+0 qid:10 1:1.0 2:0.0 3:11.579906 4:1.0 5:0.0 6:0.38028845 7:0.0 8:0.0 9:2080.0 10:4.0 11:1346.0 # query=location; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.5 7:0.0 8:0.0 9:2.0 10:0.0 11:1.0 # query=location; ontology=http://purl.org/NET/ssnext/heatmeters
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.13793103 7:0.0 8:0.0 9:58.0 10:0.0 11:71.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/propFraction.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25 7:0.0 8:0.0 9:4.0 10:0.0 11:5.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/propBinary.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.01758649 6:0.75 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=location; ontology=http://pervasive.semanticweb.org/ont/2004/06/policy
+0 qid:10 1:0.0 2:0.0 3:0.7634567 4:1.0 5:0.0 6:0.39473686 7:0.0 8:0.0 9:38.0 10:1.0 11:37.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/matrSediment.owl
+0 qid:10 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25925925 7:0.0 8:0.0 9:27.0 10:0.0 11:1.0 # query=location; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/complexAttack.owl
+0 qid:10 1:0.0 2:0.0 3:3.1020417 4:1.0 5:0.0 6:0.5641026 7:0.0 8:0.0 9:39.0 10:0.0 11:37.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/phenAtmoFog.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.102564104 7:0.0 8:0.0 9:39.0 10:0.0 11:33.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/matr.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.026666667 7:0.0 8:0.0 9:75.0 10:0.0 11:65.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathFunction.owl
+0 qid:10 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:0.16666667 7:0.0 8:0.0 9:24.0 10:0.0 11:1.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateThermodynamic.owl
+0 qid:10 1:1.0 2:0.0 3:1.5751283 4:1.0 5:0.03769597 6:0.036363635 7:0.0 8:0.0 9:55.0 10:0.0 11:24.0 # query=location; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/user.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03846154 7:0.0 8:0.0 9:26.0 10:0.0 11:13.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl
+0 qid:10 1:0.0 2:3.0 3:1.4827956 4:0.0 5:0.0068765767 6:0.0066079297 7:4.0 8:0.0 9:454.0 10:16.0 11:280.0 # query=location; ontology=http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1521739 7:0.0 8:1.0 9:138.0 10:0.0 11:9.0 # query=location; ontology=http://open-multinet.info/ontology/omn-monitoring
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:3.2631578 7:0.0 8:0.0 9:38.0 10:0.0 11:0.0 # query=location; ontology=http://aemet.linkeddata.es/describevar.owl
+0 qid:10 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0068765767 6:0.10526316 7:0.0 8:0.0 9:38.0 10:0.0 11:28.0 # query=location; ontology=http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Event_SH_Ontology.owl
+0 qid:10 1:0.0 2:6.0 3:0.0 4:1.0 5:0.0 6:0.01923077 7:0.0 8:0.0 9:52.0 10:0.0 11:14.0 # query=location; ontology=http://taga.umbc.edu/travel.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.045454547 7:0.0 8:0.0 9:22.0 10:0.0 11:11.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataService.owl
+0 qid:10 1:0.0 2:0.0 3:0.725101 4:0.0 5:0.0 6:0.1369863 7:0.0 8:0.0 9:73.0 10:1.0 11:71.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.0/geolEarthquake.owl
+0 qid:10 1:0.0 2:0.0 3:0.725101 4:1.0 5:0.0 6:0.1764706 7:0.0 8:0.0 9:17.0 10:0.0 11:17.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanCoastal.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.054054055 7:0.0 8:0.0 9:37.0 10:0.0 11:1.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/matrElementalMolecule.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:16.0 10:0.0 11:14.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeDay.owl
+0 qid:10 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.115384616 7:0.0 8:0.0 9:26.0 10:0.0 11:0.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/stateVisibility.owl
+0 qid:10 1:0.0 2:0.0 3:0.81767195 4:1.0 5:0.0 6:0.06451613 7:0.0 8:0.0 9:62.0 10:0.0 11:60.0 # query=location; ontology=http://sweet.jpl.nasa.gov/2.3/matrEquipment.owl
+0 qid:10 1:0.0 2:0.0 3:0.0 4:1.0 5:0.02517712 6:0.5 7:2.0 8:0.0 9:8.0 10:8.0 11:0.0 # query=location; ontology=http://pervasive.semanticweb.org/ont/2004/06/action
+4 qid:13 1:1.0 2:2.0 3:2.531593 4:1.0 5:0.0 6:0.6119403 7:26.0 8:0.0 9:67.0 10:249.55635 11:21.0 # query=security; ontology=http://securitytoolbox.appspot.com/securityMain
+4 qid:13 1:0.0 2:2.0 3:6.4629664 4:1.0 5:0.0 6:0.20232897 7:45.0 8:0.0 9:1374.0 10:509.19595 11:752.0 # query=security; ontology=http://www.ida.liu.se/~iislab/projects/secont/Security.owl
+3 qid:13 1:1.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.65591395 7:167.0 8:0.0 9:465.0 10:1579.8927 11:478.0 # query=security; ontology=http://securitytoolbox.appspot.com/stac
+2 qid:13 1:0.0 2:0.0 3:0.0 4:0.0 5:0.0 6:0.05839416 7:0.0 8:0.0 9:137.0 10:0.70710677 11:58.0 # query=security; ontology=http://www.semanticweb.org/shohreh/ontologies/2013/6/untitled-ontology-7
+1 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11 7:0.0 8:0.0 9:100.0 10:0.70710677 11:47.0 # query=security; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/attack.owl
+1 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.25925925 7:0.0 8:0.0 9:27.0 10:0.0 11:1.0 # query=security; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/complexAttack.owl
+1 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.07751938 7:0.0 8:0.0 9:129.0 10:0.0 11:18.0 # query=security; ontology=http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/traffic.owl
+1 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:2.8823528 7:0.0 8:0.0 9:17.0 10:0.0 11:5.0 # query=security; ontology=http://ns.inria.fr/prissma/v2
+1 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.033898305 7:0.0 8:0.0 9:177.0 10:2.0 11:69.0 # query=security; ontology=http://securitytoolbox.appspot.com/MASO
+1 qid:13 1:0.0 2:9.0 3:0.0 4:0.0 5:0.0 6:0.33333334 7:5.0 8:0.0 9:54.0 10:55.960155 11:6.0 # query=security; ontology=http://sensormeasurement.appspot.com/ont/security/OMS_Ingles.owl
+1 qid:13 1:0.0 2:2.0 3:0.0 4:1.0 5:0.0 6:2.705348 7:236.0 8:0.0 9:991.0 10:2363.475 11:347.0 # query=security; ontology=http://www-usr.inf.ufsm.br/~brunomozza/iotsec
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.13793103 7:0.0 8:0.0 9:58.0 10:1.0606601 11:71.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/propFraction.owl
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.22222222 7:0.0 8:0.0 9:18.0 10:0.0 11:19.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl
+0 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.100370206 6:0.42212188 7:0.0 8:0.0 9:443.0 10:20.506096 11:393.0 # query=security; ontology=http://purl.oclc.org/NET/ssnx/ssn
+0 qid:13 1:1.0 2:0.0 3:0.0 4:1.0 5:0.009799431 6:0.375 7:0.0 8:0.0 9:184.0 10:0.0 11:10.0 # query=security; ontology=http://elite.polito.it/ontologies/poweront.owl
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.029411765 7:0.0 8:0.0 9:34.0 10:0.0 11:32.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/humanTechReadiness.owl
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:18.0 10:0.0 11:13.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/reprTime.owl
+0 qid:13 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.033333335 7:0.0 8:0.0 9:90.0 10:0.0 11:42.0 # query=security; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.3888889 7:0.0 8:0.0 9:18.0 10:1.0606601 11:15.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0625 7:0.0 8:0.0 9:16.0 10:0.0 11:0.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/relaClimate.owl
+0 qid:13 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.2686567 7:4.0 8:0.0 9:134.0 10:45.13173 11:124.0 # query=security; ontology=http://purl.oclc.org/NET/UASO/qoi
+0 qid:13 1:0.0 2:1.0 3:0.0 4:1.0 5:0.0 6:0.08928572 7:0.0 8:0.0 9:56.0 10:0.0 11:51.0 # query=security; ontology=http://sweet.jpl.nasa.gov/2.3/matrWater.owl
+4 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.010416667 7:0.70710677 8:0.0 9:96.0 10:2.0 11:22.0 # query=humidity sensor; ontology=http://a.com/ontology
+3 qid:7 1:0.0 2:20.0 3:0.0 4:1.0 5:0.0 6:0.36915886 7:2.4748738 8:0.0 9:214.0 10:0.0 11:143.0 # query=humidity sensor; ontology=http://knoesis.wright.edu/ssw/ont/sensor-observation.owl
+3 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.03937008 7:3.8890872 8:0.0 9:762.0 10:11.0 11:255.0 # query=humidity sensor; ontology=http://users.abo.fi/ndiaz/public/HumanActivity.owl
+2 qid:7 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.1545239 7:16.970562 8:1.0 9:2951.0 10:36.0 11:2963.0 # query=humidity sensor; ontology=http://elite.polito.it/ontologies/dogont.owl
+2 qid:7 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.087628864 7:4.2426405 8:0.0 9:194.0 10:2.0 11:84.0 # query=humidity sensor; ontology=http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl
+2 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:0.70710677 8:0.0 9:1005.0 10:4.0 11:422.0 # query=humidity sensor; ontology=http://webmind.dico.unimi.it/CARE/locont.owl
+2 qid:7 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.009803922 7:2.1213202 8:0.0 9:204.0 10:8.0 11:51.0 # query=humidity sensor; ontology=http://www.owl-ontologies.com/kamer/patient.owl
+1 qid:7 1:1.0 2:5.0 3:0.0 4:0.0 5:0.0 6:0.09768379 7:5.656854 8:0.0 9:993.0 10:13.0 11:39.0 # query=humidity sensor; ontology=http://paul.staroch.name/thesis/SmartHomeWeather.owl
+1 qid:7 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.38028845 7:12.020815 8:0.0 9:2080.0 10:32.0 11:1346.0 # query=humidity sensor; ontology=https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl
+0 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.0 7:1.4142135 8:0.0 9:13.0 10:4.0 11:11.0 # query=humidity sensor; ontology=http://purl.org/NET/ssnext/climate-feature
+0 qid:7 1:0.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:2.0833333 7:0.0 8:1.0 9:24.0 10:0.0 11:5.0 # query=humidity sensor; ontology=https://w3id.org/stn/core/operations/http
+0 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.44047618 7:1.4142135 8:1.0 9:84.0 10:0.0 11:68.0 # query=humidity sensor; ontology=http://open-multinet.info/ontology/omn-monitoring-metric
+0 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0153179495 6:0.017699115 7:0.0 8:0.0 9:113.0 10:0.0 11:0.0 # query=humidity sensor; ontology=http://purl.org/ieee1872-owl/rparts
+0 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.11111111 7:0.0 8:0.0 9:27.0 10:0.0 11:5.0 # query=humidity sensor; ontology=http://sweet.jpl.nasa.gov/2.3/reprDataFormat.owl
+0 qid:7 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.02 7:0.0 8:0.0 9:50.0 10:0.0 11:10.0 # query=humidity sensor; ontology=http://sweet.jpl.nasa.gov/2.3/matrIsotope.owl
+0 qid:7 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.12195122 7:4.2426405 8:0.0 9:123.0 10:0.0 11:70.0 # query=humidity sensor; ontology=http://spitfire-project.eu/ontology/ns
+0 qid:7 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0 6:1.7017543 7:3.535534 8:0.0 9:57.0 10:0.0 11:9.0 # query=humidity sensor; ontology=http://purl.oclc.org/NET/UNIS/fiware/iot-lite
+0 qid:7 1:0.0 2:3.0 3:0.0 4:0.0 5:0.0068765767 6:0.0066079297 7:2.4748738 8:0.0 9:454.0 10:2.0 11:280.0 # query=humidity sensor; ontology=http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel
+4 qid:19 1:0.0 2:0.0 3:11.58595 4:1.0 5:0.041165058 6:0.14285715 7:9.0 8:0.0 9:126.0 10:136.06065 11:49.0 # query=time; ontology=http://pervasive.semanticweb.org/ont/2004/06/time
+1 qid:19 1:0.0 2:1.0 3:14.549118 4:1.0 5:0.0 6:1.3030303 7:2.0 8:1.0 9:66.0 10:31.707108 11:26.0 # query=time; ontology=http://open-multinet.info/ontology/omn-monitoring-tool
+1 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.12765957 7:31.0 8:0.0 9:47.0 10:470.3033 11:46.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/propTime.owl
+1 qid:19 1:0.0 2:0.0 3:3.6479023 4:1.0 5:0.0 6:0.2173913 7:3.0 8:0.0 9:23.0 10:45.707108 11:23.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl
+1 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.22580644 7:14.0 8:0.0 9:31.0 10:210.0 11:0.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/relaTime.owl
+1 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.33333334 7:17.0 8:0.0 9:18.0 10:258.18198 11:13.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/reprTime.owl
+1 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.0625 7:6.0 8:0.0 9:16.0 10:90.0 11:14.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeDay.owl
+1 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.03846154 7:2.0 8:0.0 9:26.0 10:30.0 11:13.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl
+1 qid:19 1:0.0 2:2.0 3:2.7353356 4:1.0 5:0.0 6:0.18181819 7:8.0 8:0.0 9:44.0 10:120.70711 11:13.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/stateTime.owl
+1 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.12 7:2.0 8:0.0 9:25.0 10:30.0 11:24.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl
+1 qid:19 1:0.0 2:1.0 3:2.7353356 4:1.0 5:0.0 6:0.029411765 7:2.0 8:0.0 9:34.0 10:30.0 11:0.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeFrequency.owl
+1 qid:19 1:0.0 2:7.0 3:168.67903 4:1.0 5:0.0 6:0.0033783785 7:2.0 8:0.0 9:296.0 10:30.0 11:0.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/stateTimeGeologic.owl
+0 qid:19 1:0.0 2:0.0 3:0.9117785 4:1.0 5:0.01758649 6:0.75 7:0.0 8:0.0 9:16.0 10:0.0 11:2.0 # query=time; ontology=http://pervasive.semanticweb.org/ont/2004/06/policy
+0 qid:19 1:0.0 2:0.0 3:8.11838 4:1.0 5:0.0 6:0.48 7:1.0 8:0.0 9:25.0 10:15.353554 11:22.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/phenGeolTectonic.owl
+0 qid:19 1:0.0 2:1.0 3:2.7353356 4:1.0 5:0.0 6:0.1764706 7:2.0 8:0.0 9:34.0 10:31.414213 11:35.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/phenStar.owl
+0 qid:19 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:3.2631578 7:0.0 8:0.0 9:38.0 10:0.0 11:0.0 # query=time; ontology=http://aemet.linkeddata.es/describevar.owl
+0 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.11764706 7:0.0 8:0.0 9:17.0 10:0.0 11:16.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl
+0 qid:19 1:0.0 2:3.0 3:873.4673 4:1.0 5:0.0 6:0.008459214 7:1.0 8:0.0 9:1655.0 10:15.353554 11:419.0 # query=time; ontology=http://purl.org/ieee1872-owl/pos
+0 qid:19 1:0.0 2:0.0 3:11.7219925 4:1.0 5:0.0 6:0.026666667 7:0.0 8:0.0 9:75.0 10:0.0 11:65.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/reprMathFunction.owl
+0 qid:19 1:0.0 2:0.0 3:1.823557 4:1.0 5:0.0 6:0.17592593 7:2.0 8:0.0 9:108.0 10:30.707108 11:15.0 # query=time; ontology=http://www.w3c.org/wot/td
+0 qid:19 1:0.0 2:1.0 3:2.7353356 4:1.0 5:0.0 6:0.08928572 7:1.0 8:0.0 9:56.0 10:15.353554 11:51.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/matrWater.owl
+0 qid:19 1:0.0 2:0.0 3:2.7353356 4:1.0 5:0.0 6:0.09090909 7:2.0 8:0.0 9:22.0 10:30.0 11:19.0 # query=time; ontology=http://sweet.jpl.nasa.gov/2.3/reprSciMethodology.owl
+0 qid:19 1:1.0 2:1.0 3:1.823557 4:1.0 5:0.0127222845 6:0.039076377 7:6.0 8:0.0 9:563.0 10:90.70711 11:427.0 # query=time; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/food.owl
+0 qid:19 1:1.0 2:0.0 3:1.7745277 4:1.0 5:0.0 6:0.033898305 7:0.0 8:0.0 9:177.0 10:0.0 11:69.0 # query=time; ontology=http://securitytoolbox.appspot.com/MASO
+4 qid:23 1:0.0 2:1.0 3:6.761312 4:1.0 5:0.0 6:0.08928572 7:34.0 8:0.0 9:56.0 10:361.2132 11:51.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/matrWater.owl
+4 qid:23 1:0.0 2:0.0 3:2.9812226 4:1.0 5:0.0 6:0.33333334 7:0.0 8:0.0 9:3.0 10:0.0 11:2.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/phenOcean.owl
+4 qid:23 1:0.0 2:0.0 3:4.471834 4:1.0 5:0.0 6:0.1764706 7:1.0 8:0.0 9:17.0 10:11.06066 11:17.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanCoastal.owl
+4 qid:23 1:0.0 2:0.0 3:11.1795845 4:1.0 5:0.0 6:0.23529412 7:4.0 8:0.0 9:34.0 10:44.24264 11:34.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/phenOceanDynamics.owl
+4 qid:23 1:0.0 2:0.0 3:12.65829 4:1.0 5:0.0 6:0.29545453 7:11.0 8:0.0 9:44.0 10:122.37437 11:41.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/realmOcean.owl
+4 qid:23 1:0.0 2:1.0 3:19.377947 4:1.0 5:0.0 6:0.05263158 7:0.0 8:0.0 9:57.0 10:0.0 11:16.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFeature.owl
+4 qid:23 1:0.0 2:0.0 3:13.51281 4:1.0 5:0.0 6:0.25 7:4.0 8:0.0 9:24.0 10:44.24264 11:26.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/realmOceanFloor.owl
+1 qid:23 1:0.0 2:3.0 3:3.0246327 4:1.0 5:0.0 6:0.022721598 7:40.0 8:0.0 9:4005.0 10:410.6066 11:1851.0 # query=water; ontology=http://inwatersense.uni-pr.edu/ontologies/inws-core.owl
+0 qid:23 1:1.0 2:0.0 3:18.275976 4:1.0 5:0.0 6:0.1545239 7:54.0 8:1.0 9:2951.0 10:589.4559 11:2963.0 # query=water; ontology=http://elite.polito.it/ontologies/dogont.owl
+0 qid:23 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.24242425 7:0.0 8:0.0 9:33.0 10:14.0 11:41.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/propSpeed.owl
+0 qid:23 1:0.0 2:1.0 3:0.0 4:1.0 5:0.009799431 6:0.64534885 7:0.0 8:1.0 9:172.0 10:0.35355338 11:141.0 # query=water; ontology=http://www.irit.fr/recherches/MELODI/ontologies/SAN
+0 qid:23 1:0.0 2:0.0 3:0.0 4:1.0 5:0.0 6:0.08163265 7:0.0 8:0.0 9:49.0 10:0.0 11:50.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl
+0 qid:23 1:1.0 2:0.0 3:0.0 4:1.0 5:0.0068765767 6:0.03445428 7:0.0 8:0.0 9:8475.0 10:3.535534 11:8222.0 # query=water; ontology=http://www.cs.stir.ac.uk/schemas/call_control.owl
+0 qid:23 1:1.0 2:3.0 3:0.0 4:1.0 5:0.0068765767 6:0.033333335 7:0.0 8:0.0 9:90.0 10:0.0 11:42.0 # query=water; ontology=http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl
+0 qid:23 1:0.0 2:1.0 3:90.35335 4:1.0 5:0.0 6:1.8570136 7:65.0 8:0.0 9:1105.0 10:746.97235 11:777.0 # query=water; ontology=http://www.disit.org/km4city/resource
+0 qid:23 1:0.0 2:0.0 3:7.8582425 4:0.0 5:0.0 6:0.36363637 7:4.0 8:0.0 9:22.0 10:42.828426 11:21.0 # query=water; ontology=http://sweet.jpl.nasa.gov/2.3/matrNaturalResource.owl

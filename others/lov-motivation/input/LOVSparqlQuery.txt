@@ -1,0 +1,14 @@
+LOV endpoint: https://lov.linkeddata.es/dataset/lov/sparql
+
+# Query to retrieve number of reuses for all ontologies in LOV
+PREFIX vann:<http://purl.org/vocab/vann/>
+PREFIX voaf:<http://purl.org/vocommons/voaf#>
+SELECT DISTINCT ?keyword (SUM(?reused) as ?cntReused) (COUNT(?vocabURI) as ?cntTotal) {
+ 	GRAPH <https://lov.linkeddata.es/dataset/lov>{
+ 	?vocabURI a voaf:Vocabulary.
+ 	?vocabURI <http://www.w3.org/ns/dcat#keyword> ?keyword.
+    ?vocabURI <http://purl.org/vocommons/voaf#reusedByDatasets> ?reusedByDatasets.
+    bind( if(?reusedByDatasets > 0,1,0) as ?reused ) .
+}}
+group by ?keyword
+ORDER BY DESC(?cntReused)

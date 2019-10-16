@@ -1,0 +1,120 @@
+ontology,query
+http://a.com/ontology,humidity sensor
+http://a.com/ontology,light sensor
+http://a.com/ontology,pressure sensor
+http://a.com/ontology,sound sensor
+http://a.com/ontology,thermometer
+http://elite.polito.it/ontologies/dogont.owl,humidity sensor
+http://elite.polito.it/ontologies/dogont.owl,light sensor
+http://elite.polito.it/ontologies/dogont.owl,thermometer
+http://elite.polito.it/ontologies/dogont.owl,co2 sensor
+http://elite.polito.it/ontologies/dogont.owl,door
+http://elite.polito.it/ontologies/dogont.owl,gas detector
+http://elite.polito.it/ontologies/dogont.owl,occupancy detector
+http://elite.polito.it/ontologies/dogont.owl,smoke detector
+http://elite.polito.it/ontologies/dogont.owl,window
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,humidity sensor
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,thermometer
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,athmosperic pressure sensor
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,precipitation sensor
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,visibility sensor
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,wind speed sensor
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,humidity sensor
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,light sensor
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,sound sensor
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,thermometer
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,co2 sensor
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,athmospheric pressure sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,humidity sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,thermometer
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,precipitation sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,wind speed sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,athmospheric pressure sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,cloud cover sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,sun position direction sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,sun position elevation sensor
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,wind direction sensor
+http://purl.oclc.org/NET/UNIS/sao/sao,speed sensor
+http://purl.oclc.org/NET/UNIS/sao/sao,vehicle count sensor
+http://purl.org/NET/ssnext/electricmeters,electric meter
+http://purl.org/NET/ssnext/heatmeters,heat meter
+http://purl.org/ontology/mo,CD
+http://sensormeasurement.appspot.com/ont/home/homeActivity,pressure sensor
+http://sensormeasurement.appspot.com/ont/home/homeActivity,occupancy detector
+http://sensormeasurement.appspot.com/ont/home/homeActivity,TV
+http://sensormeasurement.appspot.com/ont/home/homeActivity,bed
+http://sensormeasurement.appspot.com/ont/home/homeActivity,book
+http://sensormeasurement.appspot.com/ont/home/homeActivity,broom
+http://sensormeasurement.appspot.com/ont/home/homeActivity,coffee machine
+http://sensormeasurement.appspot.com/ont/home/homeActivity,computer
+http://sensormeasurement.appspot.com/ont/home/homeActivity,fridge
+http://sensormeasurement.appspot.com/ont/home/homeActivity,gyroscope sensor
+http://sensormeasurement.appspot.com/ont/home/homeActivity,lavatory
+http://sensormeasurement.appspot.com/ont/home/homeActivity,magnetometer
+http://sensormeasurement.appspot.com/ont/home/homeActivity,mop
+http://sensormeasurement.appspot.com/ont/home/homeActivity,shower
+http://sensormeasurement.appspot.com/ont/home/homeActivity,sink
+http://sensormeasurement.appspot.com/ont/home/homeActivity,ultrasonic sensor
+http://sensormeasurement.appspot.com/ont/home/homeActivity,water flow
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,humidity sensor
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,light sensor
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,pressure sensor
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,sound sensor
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,thermometer
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,thermometer
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,speed sensor
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,distance sensor
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,gps sensor
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,road surface thermometer
+http://webmind.dico.unimi.it/CARE/locont.owl,humidity sensor
+http://webmind.dico.unimi.it/CARE/locont.owl,light sensor
+http://webmind.dico.unimi.it/CARE/locont.owl,sound sensor
+http://webmind.dico.unimi.it/CARE/locont.owl,thermometer
+http://webmind.dico.unimi.it/CARE/locont.owl,athmospheric pressure sensor
+http://webmind.dico.unimi.it/CARE/locont.owl,accelerometer
+http://webmind.dico.unimi.it/CARE/locont.owl,blood pressure sensor
+http://webmind.dico.unimi.it/CARE/locont.owl,heart beat sensor
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,pressure sensor
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,door
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,occupancy detector
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,smoke detector
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,TV
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,telephone
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,light sensor
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,thermometer
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,door
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,gas detector
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,window
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,accelerometer
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,blood pressure
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,body thermometer
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,cupboard
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,drawer
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,fall detector
+http://www.kanzaki.com/ns/music,CD
+http://www.owl-ontologies.com/SunMoonLakeOntology.owl,cloud cover sensor
+http://www.owl-ontologies.com/SunMoonLakeOntology.owl,sun position elevation sensor
+http://www.owl-ontologies.com/SunMoonLakeOntology.owl,solar radiation sensor
+http://www.owl-ontologies.com/kamer/patient.owl,humidity sensor
+http://www.owl-ontologies.com/kamer/patient.owl,thermometer
+http://www.owl-ontologies.com/kamer/patient.owl,gas detector
+http://www.owl-ontologies.com/kamer/patient.owl,smoke detector
+http://www.owl-ontologies.com/kamer/patient.owl,blood pressure sensor
+http://www.owl-ontologies.com/kamer/patient.owl,heart beat sensor
+http://www.owl-ontologies.com/kamer/patient.owl,body thermometer
+http://www.owl-ontologies.com/kamer/patient.owl,pulse oxymeter
+http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl,thermometer
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,humidity sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,light sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,thermometer
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,occupancy detector
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,window
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,precipitation sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,wind speed sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,cloud cover sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,solar radiation sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,air pollutant sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,dishwasher
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,heating
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,ventilation
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,washing machine

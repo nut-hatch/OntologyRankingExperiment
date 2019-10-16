@@ -1,0 +1,4062 @@
+[
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/provenance/ns#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Provenance Vocabulary Core Ontology provides the main classes and properties required to describe provenance of data on the Web."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "17"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/vocab/changeset/schema"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary defines a set of terms for describing changes to resource descriptions."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://guava.iis.sinica.edu.tw/r4r"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "R4R is a light-weight ontology for representing general relationships of resource for publication and reusing. It asserts that a certain reusing context occurred and determined by its two basic relations, namely, isPackagedWith and isCitedBy. The isPackagedWith relation declares the resource is ready to be reused by incorporating License and Provenance information. The Cites relation is an exceptional to isCitedBy which occurs only two related objects cite each other at the same time. Five resource objects including article, data, code, provenance and license are major class concepts to represent in this ontology. \n\nThe namespace for all R4R terms is http://guava.iis.sinica.edu.tw/r4r/"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://semwebquality.org/ontologies/dq-constraints"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This RDF document contains a library of data quality constraints represented as SPARQL query templates based on the SPARQL Inferencing Framework (SPIN). The data quality constraint templates are especially useful for the identification of data quality problems during data entry and for periodic quality checks during data usage."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.ontologydesignpatterns.org/ont/web/irw.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology is an evolution of IRE ontology. It describes identification of resources on the Web, through the definition of relationships between resources and their representations on the Web. The requirement is to describe what can be identified by URIs and how this is handled e.g. in form of HTTP requests and reponds."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/provenance/types#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Extends the Provenance Vocabulary by defining subclasses of the types of provenance elements introduced in the core ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://inference-web.org/2.0/pml-provenance.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The provenance part of PML2 ontology. It is a fundamental component of PML2 ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "12"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/dqv"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Data Quality Vocabulary (DQV) is seen as an extension to DCAT to cover the quality of the data, how frequently is it updated, whether it accepts user corrections, persistence commitments etc. When used by publishers, this vocabulary will foster trust in the data amongst developers."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary defines terms used in SHACL, the W3C Shapes Constraint Language."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://bmake.th-brandenburg.de/spv"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The ontology is aimed at the support of research groups in the field of Business Modeling and Knowledge Engineering (BMaKE) in their collaborative work for qualitatively analyzing scholarly papers as well as sharing the results of that analyses and judgements."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://reference.data.gov.au/def/ont/iso19160-1-address"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology is a version of the ISO TC211, Group for Ontology Management (GOM)'s OWL ontology interpretation of the ISO19160-1:2015 \"Addressing -- Part 1: Conceptual model\" standard (see https://www.iso.org/standard/61710.html) taken from that ontology's source code, published at https://github.com/ISO-TC211/GOM/tree/master/isotc211_GOM_harmonizedOntology/19160-1/2015."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GDPRov"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Quality"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "GDPRov is an OWL2 ontology to express provenance metadata of consent and data lifecycles towards documenting compliance for GDPR."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.ordnancesurvey.co.uk/ontology/spatialrelations/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An ontology describing basic spatial relations."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "19"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.ordnancesurvey.co.uk/ontology/geometry/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A provisional small geometry vocabulary used by Ordnance Survey vocabularies and datasets. Likely to change when some standard way of representing geometries in RDF is agreed."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdfs.co/juso/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Juso Ontology is a Web vocabulary for describing geographical addresses and features."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://geovocab.org/geometry"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for specifying geographical regions in RDF"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://geovocab.org/spatial"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for describing topological relations between features"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/cartCoord#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Ontology for representation of cartesian co-ordinates"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdfs.co/juso/kr/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "South Korea Extension to Juso Ontology is a Web vocabulary that extends Juso Ontology to describe geographical addresses and features in South Korea."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/locn"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The ISA Programme Location Core Vocabulary provides a minimum set of classes and properties for describing any place in terms of its name, address or geometry. The vocabulary is specifically designed to aid the publication of data that is interoperable with EU INSPIRE Directive."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://theme-e.adaptcentre.ie/dave/dave.ttl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Data Value Vocabulary (DaVe) is an extensible core vocabulary that allows user to use custom data value dimensions and metrics to characterise data value in a specific context. This flexibility allows for the comprehensive modelling of data value. As a data value model, DaVe allows users to monitor data value as it occurs within a data exploitation or value creation process (data value chain)"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/tsn#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This RDF ontology allows describing any Territorial Statistical Nomenclature (TSN) (i.e., partition of the territory) used as a support to socio-economic data (statistical data that describe territory in terms of population, unemployement rate, transport access, etc.)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/tsnchange#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The TSN-Change ontology aims at describing changes that occured from one version of a Territorial Statistical Nomenclature (TSN) (i.e., partition of the territory) and its subsequent (e.g., change in territorial units boundaries to reflect an administrative reorganisation)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.arpenteur.org/ontology/Arpenteur.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Arpenteur ontology is dedicated to photogrammetry, archeology and oceanology communities \n\t in order to perform tasks such as image processing, photogrammetry and modelling."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://data.nasa.gov/ontologies/atmonto/general#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geometry"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Defines temporal / spatial concepts and general-purpose datastructures"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/dc/elements/1.1/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Dublin Core Metadata Element Set is a vocabulary of fifteen properties for use in resource description. The name \"Dublin\" is due to its origin at a 1995 invitational workshop in Dublin, Ohio; \"core\" because its elements are broad and generic, usable for describing a wide range of resources."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "178"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/dc/terms/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "an up-to-date specification of all metadata terms maintained by the Dublin Core Metadata Initiative, including properties, vocabulary encoding schemes, syntax encoding schemes, and classes."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "327"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://creativecommons.org/ns"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Creative Commons Rights Expression Language (CC REL) lets you describe copyright licenses in RDF"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "21"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.demcare.eu/ontologies/contextdescriptor.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "OWL pattern for describing activity models as abstract dependencies among classes."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/odrl/2/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Open Digital Rights Language (ODRL) provides flexible and interoperable mechanisms to support transparent and innovative use of digital content in publishing, distribution, and consumption of of digital media across all sectors and communities. The ODRL Policy model is broad enough to support traditional rights expressions for commercial transaction, open access expressions for publicly distributed content, and privacy expressions for social media."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/vocab/vann/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for annotating descriptions of vocabularies with examples and usage notes."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "19"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/vocommons/voaf"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "fr",
+          "value": "Un vocabulaire de description des vocabulaires RDF et de leurs relations mutuelles"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/vocommons/voaf"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary to describe linked data vocabularies and their relations"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.deri.ie/void"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Vocabulary of Interlinked Datasets (VoID) is an RDF Schema vocabulary for expressing metadata about RDF datasets."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "77"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2003/06/sw-vocab-status/ns"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An RDF vocabulary for relating SW vocabulary terms to their status."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "11"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.loc.gov/mads/rdf/v1"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "MADS/RDF (Metadata Authority Description Schema in RDF) is a knowledge organization system (KOS) designed for use with controlled values for names (personal, corporate, geographic, etc.), thesauri, taxonomies, subject heading systems, and other controlled value lists"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdvocab.info/RDARelationshipsWEMI"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary defining a large variety of specific relationships between the various levels of the FRBR pile."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.cybershare.utep.edu/ELSEWeb/elseweb-data.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The ELSEWeb Data ontology provides simple classes for describing datasets. This project provides foundational support for the ELSEWeb project(http://elseweb.cybershare.utep.edu/).\nwebsite: http://elseweb.cybershare.utep.edu/ontologies\nemail: nvillanuevarosales@utep.edu"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/wf4ever/ro"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology shows how AO and ORE ontologies can be used together to define a ResearchObject. This ontology is further customized by the wf4ever ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://comicmeta.org/cbo/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A metadata vocabulary for describing comic books and comic book collections."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://onto.dm2e.eu/schemas/dm2e"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The DM2E model is a specialisation of the Europeana Data Model (EDM) and can be used for the description of manuscripts in the cultural heritage domain."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.ics.forth.gr/isl/oae/core"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Open NEE Model defines an extension of the Open Annotation Data Model (http://www.openannotation.org/spec/core) that allows describing in RDF the result of a Named Entity Extraction (NEE) process, enabling thereby an application to run advanced (SPARQL) queries over the annotated data. The model also exploits the Open NEE Configuration Model (http://www.ics.forth.gr/isl/oncm) for relating the output of a NEE process with an applied configuration (serving provenance information to the output of the entire NEE process)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.opendiscoveryspace.eu/lom_ontology_ods.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An ontology and vocabulary used for exposing IEEE LOM, a metadata standard for educational contents, as Linked Data. \nIt is intended as a bridge for linkage of educational metadata into Linked Open Data (LOD). In this ontology, we designed a mapping of IEEE LOM elements to RDF based on Linked Data principles."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://iflastandards.info/ns/isbd/elements/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This is a registration of classes and properties from International Standard Bibliographic Description (ISBD), consolidated edition, published by De Gruyter Saur in July 2011 (ISBN 978-3-11-026379-4)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ndl.go.jp/dcndl/terms/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "RDF Schema declaration for Japan NDL Metadata Terms"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/adms"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "ADMS is a profile of DCAT, used to describe semantic assets (or just 'Assets'), defined as highly reusable metadata (e.g. xml schemata, generic data models) and reference data (e.g. code lists, taxonomies, dictionaries, vocabularies) that are used for eGovernment system development."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdvocab.info/ElementsGr2"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The second group of metadata elements defined by RDA"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdvocab.info/Elements"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This is the provisional registration of the RDA Group 1 Element Vocabulary, managed by the DCMI/RDA Task Group."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://lsq.aksw.org/vocab"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Linked SPARQL Queries Vocabulary (LSQ(V)), defined using RDF(S) and OWL, provides a machine readable vocabulary to help describe queries in SPARQL logs and their statistics. The vocabulary builds upon the SPIN vocabulary and the Service Description vocabulary."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dataid.dbpedia.org/ns/core#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "DBpedia Data ID is an ontology with the goal of describing LOD datasets via RDF files in a uniform way. Established vocabularies like DCAT, VoID, Prov-O and SPARQL Service Description are used for maximum compatibility."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.deri.ie/orca"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "orca, the Ontology of Reasoning, Certainty and Attribution, is an ontology for characterizing the certainty of information, how it is known, and its source"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://d-nb.info/standards/elementset/dnb"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The DNB RDF Vocabulary (dnb:) is a collection of classes, properties and datatypes used within the DNB's linked data service.It complements the GND Ontology (gndo:) which is specifically geared towards authority data from the Integrated Authority File (GND), whereas this vocabulary is more general-purpose."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://d-nb.info/standards/elementset/dnb"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "de",
+          "value": "Das DNB RDF-Vokabular (dnb:) ist eine Sammlung von Klassen, Properties und Datentypen, die im Rahmen des LinkedData-Dienstes der DNB verwendung finden. Es ist ein Komplement zur GND-Ontologie (gndo:), die besonders für die Representation der Daten aus der Gemeinsamen Normdatei (GND) konstruiert wurde. Das DNB-Vokabular dagegen hat einen allgemeineren Scope."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/tsnchange#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The TSN-Change ontology aims at describing changes that occured from one version of a Territorial Statistical Nomenclature (TSN) (i.e., partition of the territory) and its subsequent (e.g., change in territorial units boundaries to reflect an administrative reorganisation)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://reference.data.gov.au/def/ont/dataset"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The data.gov.au Dataset Ontology is an OWL ontology designed to describe the characteristics of datasets published on data.gov.au.\n\nThe ontology contains elements which describe the publication, update, origin, governance, spatial and temporal coverage and other contextual information about the dataset. The ontology also covers aspects of organisational custodianship and governance.\n \nBy using this ontology to describe datasets on data.gov.au publishers increase discoverability and enable the consumption of this information in other applications/systems as Linked Data. It further enables decentralised publishing of catalogs and facilitates federated dataset search across sites, e.g. in datasets that are published by the States.\n \nOther publishers of Linked Data may make assertions about data published using this ontology, e.g. they may publish information about the use of the dataset in other applications."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://privatealpha.com/ontology/content-inventory/1#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary defines a number of concepts peculiar to content strategy which are not accounted for by other vocabularies."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GDPRtEXT"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Metadata"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The General Data Protection Regulation (GDPR) is comprised of several articles, each with points that refer to specific concepts. The general convention of referring to these points and concepts is to quote the specific article or point using a human-readable reference. This ontology provides a way to refer to the points within the GDPR using the EurLex ontology published by the European Publication Office. It also defines the concepts defined, mentioned, and requried by the GDPR using the Simple Knowledge Organization System (SKOS) ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://d-nb.info/standards/elementset/gnd#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "GND stands for \"Gemeinsame Normdatei\" (Integrated Authority File) and offers a broad range of elements to describe authorities. The GND originates from the German library community and aims to solve the name ambiguity problem in the library world."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/library/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Experimental \"library\" extension vocabulary for use with Schema.org"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/ontology/bibo/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Bibliographic Ontology Specification provides main concepts and properties for describing citations and bibliographic references (i.e. quotes, books, articles, etc) on the Semantic Web."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "43"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://lsdis.cs.uga.edu/projects/semdis/opus#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This file specifies in RDF Schema format the classes and properties for SwetoDblp.     These classes and properties are based on the internal LSDIS Library portal engine."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.cybershare.utep.edu/ELSEWeb/elseweb-edac.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The ELSEWeb EDAC ontology describes datasets published by EDAC. This project provides foundational support for the ELSEWeb project(http://elseweb.cybershare.utep.edu/).\nwebsite: http://elseweb.cybershare.utep.edu/ontologies\nemail: nvillanuevarosales@utep.edu"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.europeana.eu/schemas/edm/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Europeana Data Model (EDM) is aimed at being an integration medium for collecting, connecting and enriching the descriptions provided by Europeana data providers."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "10"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.openarchives.org/ore/terms/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Open Archives Initiative Object Reuse and Exchange (OAI-ORE) defines standards for the description and exchange of aggregations of Web resources."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "10"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/ontology/holding"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary to express (library) holdings in RDF"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://iflastandards.info/ns/isbd/elements/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This is a registration of classes and properties from International Standard Bibliographic Description (ISBD), consolidated edition, published by De Gruyter Saur in July 2011 (ISBN 978-3-11-026379-4)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/qb4olap/cubes"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary allows to publish and operate with OLAP cubes in RDF"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://eprints.org/ontology/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Describes the main classes and properties which EPrints adds to voID, DC, BIBO and SKOS etc"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://lod.nl.go.kr/ontology/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This specification describes National Library of Korea Ontology vocaburaries using W3C's RDF and OWL technology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dati.isprambiente.it/ontology/core#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "it",
+          "value": "L'ontologia ISPRA nasce dall'esigenza di pubblicazione dei dataset LOD ed è finalizzata alla descrizione dei processi e delle attività dell'Istituto negli ambiti circoscritti dai primi dataset pubblicati. Al momento sono descritte in modo analitico le classi e le proprietà che insistono sul dominio specifico della rete ondametrica nazionale, della rete mareografica, del consumo del suolo e degli interventi di dissesto idrogeologico, ma l'obiettivo è di estenderla parallelamente alla pubblicazione di nuovi dataset."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dati.isprambiente.it/ontology/core#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "ISPRA ontology aims at the description of the processes and activities of the Institute in the areas circumscribed by the first published datasets."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dati.san.beniculturali.it/SAN/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "SAN Ontology"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://swa.cefriel.it/ontologies/botdcat-ap"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Catalogs"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary to describe data sources in a way they can be easily reused and accessed by chatbots."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/linked-data/sdmx"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary extends the data cube vocabulary to support publication of statistical data in RDF, using an information model based on SDMX"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/linked-data/sdmx/2009/dimension"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Defines dimensions for the statistical \"cubes\" defined by SDMX"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "9"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.resc.info/incident"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary to describe the response to a incident by emergency services.\nThis is NOT intended to describe the incident itself, it describes the response"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.telegraphis.net/ontology/measurement/measurement#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Measurement Ontology is an ontology in which measurements may be rendered"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontologi.es/doap-deps#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An extension to DOAP for describing a project's requirements"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontologi.es/doap-bugs#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An extension of DOAP for the description of bugs"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.ics.forth.gr/isl/oncm/core"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Open NEE Configuration Model defines a Linked Data-based model for describing a configuration supported by a Named Entity Extraction (NEE) service. It is based on the model proposed in \"Configuring Named Entity Extraction through Real-Time Exploitation of Linked Data\" (http://dl.acm.org/citation.cfm?doid=2611040.2611085) for configuring such services, and allows a NEE service to describe and publish as Linked Data its entity mining capabilities, but also to be dynamically configured."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://linked.opendata.cz/ontology/ldvm/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary for Linked Data Visualization Model (LDVM) serves for description and configuration of components and pipelines according to LDVM"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/reco#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The RECO ontology defines the vocabulary for representing preferences-as-constraints and preferences-as-ratings as RDF graphs. This lightweight vocabulary provides domain-independent means to describe user profiles in a coherent and context-aware way. RECO has been designed as an extension of both Friend-Of-A-Friend (FOAF) and Who Am I! (WAI) ontologies."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/linked-data/cube"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary allows multi-dimensional data, such as statistics, to be published in RDF."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "25"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://mex.aksw.org/mex-algo"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "pt",
+          "value": "MEX e um vocabulario modelado para facilitar a interoperabilidade entre resultados de experimentos de aprendizado de maquinas publicados na Web. A camada mex-algo representa informacaos de algoritmos existentes em um experimento de aprendizado de maquina."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://mex.aksw.org/mex-algo"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "MEX is an RDF vocabulary designed to facilitate interoperability between published machine learning experiments results on the Web. The mex-algo layer represents the algorithm information existing into a basic machine learning experiment."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://mex.aksw.org/mex-core"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "MEX is an RDF vocabulary designed to facilitate interoperability between published machine learning experiments results on the Web. The mex-core layer represents the core information gathered from a basic machine learning experiment design."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://mex.aksw.org/mex-core"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "pt",
+          "value": "MEX e um vocabulario modelado para facilitar a interoperabilidade entre resultados de experimentos de aprendizado de maquinas publicados na Web. A camada mex-core representa a principal informacao obtida de um experimento de aprendizado de maquina."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://mex.aksw.org/mex-perf"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "MEX is an RDF vocabulary designed to facilitate interoperability between published machine learning experiments results on the Web. The mex-perf layer is the 3rd level of the MEX for representing the machine learning algorithm's performances."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://mex.aksw.org/mex-perf"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "pt",
+          "value": "MEX e um vocabulario modelado para facilitar a interoperabilidade entre resultados de experimentos de aprendizado de maquinas publicados na Web. A camada mex-perf e o 3o. nivel na abordagem MEX para representar performances de algoritmos de aprendizado de maquinas"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.deri.ie/scovo"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for representing statistical data on the Web. Note :The SCOVO vocabulary is deprecated. We strongly advise to use the Data Cube Vocabulary instead."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "18"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/ipo/core"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary for describing issues (or problems) and corresponding symptoms and solutions to a broad variety of contexts. It is intended to provide a generic, reusable core ontology that can be extended or specialized for use in domain-specific situations, aimed at supporting linked data publishing. The solutions are represented by procedures, which are possible workflows for solving corresponding issues."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/dio"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The scope of the DIO is the domain of design intent or design rationale that needs to be documented while undertaking the design of any artifact"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://delicias.dia.fi.upm.es/ontologies/ObjectWithStates.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Ontology including the content ontology design pattern for modelling objects with states."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.cybershare.utep.edu/dbowl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Primitive ontology for database to Semantic Web mapping which subsumes classes that represent mappings to explicit OWL constructs, such as OWL class, object property, data property, etc. Classes in this ontology are populated by individuals representing components of the database schema being mapped."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/mls"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "ML-Schema is a collaborative, community effort with a mission to develop, maintain, and promote standard schemas for data mining and machine learning algorithms, datasets, and experiments"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/pep/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The process execution ontology is a proposal for a simple extension of both the [W3C Semantic Sensor Network](https://www.w3.org/TR/vocab-ssn/) and the [Semantic Actuator Network](https://www.irit.fr/recherches/MELODI/ontologies/SAN.owl) ontology cores."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/seas/EvaluationOntology"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Evaluation ontology describes evaluation of [`seas:Property`ies](https://w3id.org/seas/Property). There may be:\n\n- direct evaluations, or\n- qualified evaluations."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/seas/StatisticsOntology"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology defines common evaluation interpretation concepts for statistics."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ns.inria.fr/nrv"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An OWL vocabulary for describing normative requirements."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.data-knowledge.org/dk/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "de",
+          "value": "Das Data-Knowledge-Vokabular erlaubt die verständliche Beschreibung von Datengütern und dem Datenmanagement in Unternehmen. Es deckt Bereiche der Geschäftsdatendefinition, des Datenqualitätsmanagement, der Daten-Governance, der technischen Infrastruktur und viele weitere Aspekte des Datenmanagements in Unternehmen ab. Das Vokabular repräsentiert eine Linked-Data-Implementierung des Datenwissen-Modells, welches ein Resultat umfassender angewandter Forschung ist."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.data-knowledge.org/dk/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Data Knowledge Vocabulary allows for a comprehensive description of data assets and enterprise data management. It covers a business data dictionary, data quality management, data governance, the technical infrastructure and many other aspects of enterprise data management. The vocabulary represents a linked data implementation of the Data Knowledge Model which resulted from extensive applied research."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/SemSur/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Methods"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "SemSur, the Semantic Survey Ontology, is a core ontology for describing individual research problems, approaches, implementations and evaluations in a structured, comparable way."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.aktors.org/ontology/portal"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The AKT Reference Ontology has been designed to support the AKT-2 demonstrator (\"AKTive Portal\"), and subsequent activities. The ontology, designed by the AKT-2 group and codified by Enrico Motta, extends Version 1."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "40"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/openorg/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary provides supplementary terms for organisations wishing to publish open data about themselves."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "19"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.semanticweb.org/ns/swc/ontology"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Semantic Web Conference ontology (SWC) is an ontology for describing academic conferences"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "4"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://semweb.mmlab.be/ns/stoptimes#Ontology"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology provides the predicates necessary to describe an arrival of a transit vehicle and its departure at a certain Stop."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://w3id.org/charta77/jup"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The vocabulary of building accessibility was created within the project Maps without Barriers realized under Charta 77 Foundation – Barriers Account. It is based on the Object Accessibility Categorization Methodology, however, it is completed with entities arising from the needs of the project. This vocabulary is also part of a diploma thesis entitled Ontology of Building Accessibility. The project is co-financed from resources provided by the European Union and European Regional Development Fund."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://w3id.org/charta77/jup"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "cs",
+          "value": "Slovnik prisupnosti budov vznikl v ramci projektu Mapy bez barier, ktery realizuje Nadace Charty 77 - Konto Bariery. Vychazi z Metodiky kategorizace pristupnosti objektu, je vsak doplnen i o entity vyplyvajici z pozadavku projektu. Tento slovnik je i tematem diplomove prace Ontologie pristupnosti budov. Projekt je spolufinancovan z prostredku Evropske unie, Evropskeho fondu pro regionalni rozvoj."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdfs.org/sioc/types#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Extends the SIOC Core Ontology (Semantically-Interlinked Online Communities) by defining subclasses and subproperties of SIOC terms."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdfs.org/sioc/ns#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "SIOC is an ontology for describing the information in online communities."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "18"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://usefulinc.com/ns/doap#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Description of a Project (DOAP) vocabulary, described using W3C RDF Schema and the Web Ontology Language."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "23"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.resc.info/communication"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary is intended to describe all the aspects which are needed to communicate incident related information for fire department services"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://open-multinet.info/ontology/omn-federation"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology defines concepts related to federation of internet infrastructures."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.eil.utoronto.ca/ISO37120.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "ISO 37120 – Sustainable Development and Resilience of Communities – Indicators for City Services and Quality of Life (under TC268)\n\nhttp://ontology.eil.utoronto.ca/ISO37120.html\n\nThis OWL file defines a class for each indicator defined in the ISO 37120 standard.  Names for each indicator are provided.  Text definitions are provided only for Economy, Education and Energy indicators, due to copyright restrictions imposed by ISO.  This file is meant to provide a single URI for each indicator.\n\nAn ontology for representing an indicator's supporting data plus meta information such as provenance, validity and trust can be found in:\nhttp://ontology.eil.utoronto.ca/GCI/Foundation/GCI-Foundation.owl\n\nDocumentation of the ontology can be found in:\nhttp://eil.utoronto.ca/smartcities/papers/GCI-Foundation-Ontology.pdf"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.eil.utoronto.ca/GCI/Foundation/GCI-Foundation.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Global City Indicator Foundation Ontology developed by the Information Engineering Group, Mechanical & Industrial Engineering, University of Toronto. Contains the foundation ontologies required to represent ISO 37120 city indicators, including Placenames, Time, Measurement, Provenance, Statistics, Validity and Trust. See: Fox, M.S., (2013), \"A Foundation Ontology for Global City Indicators\", Global City Institute Working Paper, Vol. 1, No.4, pp. 1-45. Global Cities Institute, University of Toronto. Updated 24 June 2014: http://www.eil. Based on the Global City Indicators Facility, University of Toronto: http://www.cityindicators.org/Deliverables/Core%20and%20Supporting%20Indicators%20Table%20SEPTEMBER%202011.pdf.\n\nContact: Mark S. Fox, msf@eil.utoronto.ca"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://gov.genealogy.net/ontology.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Genealogisches Orts-Verzeichnis (GOV) contains information about current and historical political, ecclesiastical and legal administrative affiliations of settlements and administrative units. In addition several time-dependent values (such as names, population numbers, postal codes etc.) are given."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.disit.org/km4city/schema"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A Knowledge Model to describe a smart city, that interconnect data from infomobility service, Open Data and other source"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdf.muninn-project.org/ontologies/military"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Muninn Military Ontology marks up information about military people, organizations and events."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/regorg"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Registered Organization Vocabulary is a profile of the Organization Ontology for describing organizations that have gained legal entity status through a formal registration process, typically in a national or regional register."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/regorg"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "fr",
+          "value": "Le vocabulaire des organisations enregistrées est un profil de l'ontologie des organisations pour décrire les organisations ayant acquis un statut légal au travers d'un processus d'inscription formel, typiquement dans un registre national ou régional."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.eil.utoronto.ca/open311.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Open 311 Ontology\n\nThis ontology generalizes the concepts that appear in 311 open data files published by several cities (Toronto, New York, Chicago, Vancouver) across North America.  It provides a generis representation of 311 data that other cities can map their data onto and be used as a means of achieving interoperability."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://linked.earth/ontology#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Linked Earth Ontology aims to provide a common vocabulary for annotating paleoclimatology data"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/duv"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Dataset Usage Vocabulary (DUV) is used to describe consumer experiences, citations, and feedback about datasets from the human perspective."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://sparql.cwrc.ca/ontologies/cwrc"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The CWRC Ontology is the ontology of the Canadian Writing Research Collaboratory."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://sparql.cwrc.ca/ontologies/cwrc"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "fr",
+          "value": "L'Ontologie CWRC est l'ontologie du Collaboratoire scientifique des écrits du Canada."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/seas/BuildingOntology"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The SEAS Building ontology describes a taxonomy of buildings, building spaces, and rooms.\n\nSome categorizations are based on the energy efficiency related to their insulation etc., although the actual values for classes depend the country specific regulations and geographical locations.\n\nOther categorizations are based on occupancy and activities. There is no single accepted categorization available. This taxonomy uses some types selected from:\n\n- International building occupancy based categories (USA)\n- The Classification of Types of Constructions (EU)\n- Finnish building categorization VTJ2000 (Finland)\n- Wikipedia category page for Rooms: https://en.wikipedia.org/wiki/Category:Rooms"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.vlaanderen.be/ns/persoon"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Person ontology in Dutch"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://privatealpha.com/ontology/ibis/1#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This document specifies a vocabulary for describing an IBIS (issue-based information system)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GConsent"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "GConsent provides concepts and relationships for defining consent and its associated information or metadata with a view towards GDPR compliance. It is the outcome of an analysis of consent and requirements associated with obtaining, using, and changes in consent as per the GDPR. The ontology also provides an approach to using its terms in various scenarios and use-cases (see more information in the documentation) which is intended to assist in its adoption."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GDPRtEXT"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The General Data Protection Regulation (GDPR) is comprised of several articles, each with points that refer to specific concepts. The general convention of referring to these points and concepts is to quote the specific article or point using a human-readable reference. This ontology provides a way to refer to the points within the GDPR using the EurLex ontology published by the European Publication Office. It also defines the concepts defined, mentioned, and requried by the GDPR using the Simple Knowledge Organization System (SKOS) ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GDPRov"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Society"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "GDPRov is an OWL2 ontology to express provenance metadata of consent and data lifecycles towards documenting compliance for GDPR."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://open.vocab.org/terms"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "OpenVocab is a community maintained vocabulary intended for use on the Semantic Web, ideal for properties and classes that don't warrant the effort of creating or maintaining a full schema. OpenVocab allows anyone to create and modify vocabulary terms using their web browser."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "20"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/dc/dcmitype/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The DCMI Type Vocabulary provides a general, cross-domain list of approved terms that may be used as values for the Resource Type element to identify the genre of a resource."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "13"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/dc/dcam/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An abstract model for Dublin Core metadata"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.eurocris.org/ontologies/cerif/1.3"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Common European Research Information Format (CERIF) Ontology Specification provides basic concepts and properties for describing research information as semantic data."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://erlangen-crm.org/current/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Erlangen CRM / OWL - An OWL DL 1.0 implementation of the CIDOC Conceptual Reference Model, based on: Nick Crofts, Martin Doerr, Tony Gill, Stephen Stead, Matthew Stiff (eds.): Definition of the CIDOC Conceptual Reference Model (http://cidoc-crm.org/).\nThis implementation has been originally created by Bernhard Schiemann, Martin Oischinger and Günther Görz at the Friedrich-Alexander-University of Erlangen-Nuremberg, Department of Computer Science, Chair of Computer Science 8 (Artificial Intelligence) in cooperation with the Department of Museum Informatics of the Germanisches Nationalmuseum Nuremberg and the Department of Biodiversity Informatics of the Zoologisches Forschungsmuseum Alexander Koenig Bonn.\nThe Erlangen CRM / OWL implementation of the CIDOC Conceptual Reference Model is licensed under a Creative Commons Attribution-ShareAlike 3.0 Unported License."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.eil.utoronto.ca/ISO37120.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "ISO 37120 – Sustainable Development and Resilience of Communities – Indicators for City Services and Quality of Life (under TC268)\n\nhttp://ontology.eil.utoronto.ca/ISO37120.html\n\nThis OWL file defines a class for each indicator defined in the ISO 37120 standard.  Names for each indicator are provided.  Text definitions are provided only for Economy, Education and Energy indicators, due to copyright restrictions imposed by ISO.  This file is meant to provide a single URI for each indicator.\n\nAn ontology for representing an indicator's supporting data plus meta information such as provenance, validity and trust can be found in:\nhttp://ontology.eil.utoronto.ca/GCI/Foundation/GCI-Foundation.owl\n\nDocumentation of the ontology can be found in:\nhttp://eil.utoronto.ca/smartcities/papers/GCI-Foundation-Ontology.pdf"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://schema.org/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Search engines including Bing, Google, Yahoo! and Yandex rely on schema.org markup to improve the display of search results, making it easier for people to find the right web pages."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "12"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://umbel.org/umbel"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "UMBEL provides a general vocabulary of classes and predicates for describing domain ontologies, with the specific aim of promoting interoperability with external datasets and domains."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.oclc.org/NET/muo/ucum/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The instances of this ontology have been automatically\n         generated from the UCUM (The Unified Code for Units of Measure).\n         See http://aurora.rg.iupui.edu/UCUM/ for more details\n         on UCUM. The members of the MyMobileWeb consortium\n         explicitly acknowledge the copyright of the data from\n         the UCUM ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dbpedia.org/ontology/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The DBpedia ontology provides the classes and properties used in the DBpedia data set."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "15"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://theme-e.adaptcentre.ie/dave/dave.ttl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "General & Upper"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Data Value Vocabulary (DaVe) is an extensible core vocabulary that allows user to use custom data value dimensions and metrics to characterise data value in a specific context. This flexibility allows for the comprehensive modelling of data value. As a data value model, DaVe allows users to monitor data value as it occurs within a data exploitation or value creation process (data value chain)"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2004/02/skos/core"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Simple Knowledge Organization System (SKOS) is a common data model for sharing and linking knowledge organization systems via the Semantic Web."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "152"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2008/05/skos-xl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "SKOS-XL defines an extension for the Simple Knowledge Organization System, providing additional support for describing and linking lexical entities."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "5"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/01/rdf-schema#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "RDF Schema provides a data-modelling vocabulary for RDF data. RDF Schema is an extension of the basic RDF vocabulary."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "452"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/prov#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The namespace name http://www.w3.org/ns/prov# is intended for use with the PROV family of documents that support the interchange of provenance on the web."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "39"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/csvw#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This document describes the RDFS vocabulary description used in the Metadata Vocabulary for Tabular Data along with the default JSON-LD Context."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/org#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary for describing organizational structures, specializable to a broad variety of types of organization."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "7"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/linked-data/cube"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary allows multi-dimensional data, such as statistics, to be published in RDF."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "25"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This is the RDF Schema for the RDF vocabulary terms in the RDF Namespace, defined in RDF 1.1 Concepts."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "504"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2002/07/owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology partially describes the built-in classes and   properties that together form the basis of the RDF/XML syntax of OWL 2."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "280"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/sparql-service-description"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for describing SPARQL services made available via the SPARQL 1.1 Protocol for RDF.  These descriptions provide a mechanism by which a client or end user can discover information about the SPARQL service such as supported extension functions and details about the available dataset."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/sparql-service-description"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "fr",
+          "value": "Un vocabulaire pour décrire des services SPARQL publiés via le protocole SPARQL 1.1 pour RDF. Ces descriptions fournissent un mécanisme par lequel un client ou un utilisateur final peuvent obtenir des informations sur le service SPARQL, telles que les extensions de fonctions supportées ou les détails à propos des jeux de données disponibles."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/shacl#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "W3C Rec"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This vocabulary defines terms used in SHACL, the W3C Shapes Constraint Language."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://xmlns.com/foaf/0.1/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "FOAF is a project devoted to linking people and information using the Web. Regardless of whether information is in people's heads, in physical or digital documents, or in the form of factual data, it can be linked."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "249"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/vocab/relationship/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for describing relationships between people"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/vocab/bio/0.1/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for describing biographical information about people, both living and dead."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "6"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.kanzaki.com/ns/whois"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary to describe a person's profile and history"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2006/vcard/ns"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology models and represents vCards in RDF using current best practices"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "13"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dati.cdec.it/lod/shoah/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The ontology describing the Shoah domain, proposed here in beta version, aims to formally describe concepts and relationships that characterize the process of persecution and deportation of Jews in Italy between 1943 and 1945."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://dati.cdec.it/lod/shoah/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "it",
+          "value": "L'ontologia sul dominio \"Shoah\", proposta qui in versione beta, ha l'obiettivo di descrivere in maniera formale i concetti e le relazioni che caratterizzano e specificano il processo di persecuzione e deportazione degli ebrei dall'Italia fra il 1943 e il 1945."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://ontology.eil.utoronto.ca/icontact.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology provides basic classes and more detailed properties for  representating international street addresses, phone numbers and emails.  Rather than using existing ontologies, such as vcard, it was decided to create a new one as the vcard and foaf ignore the details of international addresses, phone numbers, etc."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/soron"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Social Relationships ONtology (SORON) attempts to describe the different types of social relationships in society (both objective and subjective). Current version focuses on inter-personal 1:1 relationships (except family relationships). Other types of relationships may be covered in later versions. It complements FOAF and RELATIONSHIP ontologies."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2000/10/swap/pim/contact"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Utility concepts for everyday life"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "16"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://cedric.cnam.fr/isid/ontologies/PersonLink.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A Multilingual and Multicultural Ontology Representing Family Relationships."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://cedric.cnam.fr/isid/ontologies/PersonLink.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "fr",
+          "value": "Un vocabulaire multilingue et multiculturel pour représenter les relations familiale."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/duv"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Dataset Usage Vocabulary (DUV) is used to describe consumer experiences, citations, and feedback about datasets from the human perspective."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://sparql.cwrc.ca/ontologies/cwrc"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The CWRC Ontology is the ontology of the Canadian Writing Research Collaboratory."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://sparql.cwrc.ca/ontologies/cwrc"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "fr",
+          "value": "L'Ontologie CWRC est l'ontologie du Collaboratoire scientifique des écrits du Canada."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.vlaanderen.be/ns/persoon"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Person ontology in Dutch"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://privatealpha.com/ontology/ibis/1#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This document specifies a vocabulary for describing an IBIS (issue-based information system)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GConsent"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "GConsent provides concepts and relationships for defining consent and its associated information or metadata with a view towards GDPR compliance. It is the outcome of an analysis of consent and requirements associated with obtaining, using, and changes in consent as per the GDPR. The ontology also provides an approach to using its terms in various scenarios and use-cases (see more information in the documentation) which is intended to assist in its adoption."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GDPRtEXT"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The General Data Protection Regulation (GDPR) is comprised of several articles, each with points that refer to specific concepts. The general convention of referring to these points and concepts is to quote the specific article or point using a human-readable reference. This ontology provides a way to refer to the points within the GDPR using the EurLex ontology published by the European Publication Office. It also defines the concepts defined, mentioned, and requried by the GDPR using the Simple Knowledge Organization System (SKOS) ontology."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://w3id.org/GDPRov"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "People"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "GDPRov is an OWL2 ontology to express provenance metadata of consent and data lifecycles towards documenting compliance for GDPR."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.ordnancesurvey.co.uk/ontology/admingeo/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An ontology describing the administrative and voting area geography of Great Britain"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://data.ordnancesurvey.co.uk/ontology/postcode/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An ontology describing the postcode geography in Great Britain."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdfs.co/juso/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Juso Ontology is a Web vocabulary for describing geographical addresses and features."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.geonames.org/ontology"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Geonames ontology provides elements of description for geographical features defined in the geonames.org data base"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "14"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/2003/01/geo/wgs84_pos"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A vocabulary for representing latitude, longitude and   altitude information in the WGS84 geodetic reference datum."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "49"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://streamreasoning.org/ontologies/frappe#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "FraPPE is a vocabulary to enable Visual Analytics operations on geo-spatial time varying data. By enabling Visual Analytics instruments FraPPE ease the capture, correlation and comparison operations on geo-spatial data from different sources evolving over time"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/cartCoord#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Ontology for representation of cartesian co-ordinates"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://aims.fao.org/aos/geopolitical.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "FAO's geopolitical ontology version 1.1 was populated with FAO, UN and internationally recognized data sources."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "3"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://rdfs.co/juso/kr/"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "South Korea Extension to Juso Ontology is a Web vocabulary that extends Juso Ontology to describe geographical addresses and features in South Korea."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.w3.org/ns/locn"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The ISA Programme Location Core Vocabulary provides a minimum set of classes and properties for describing any place in terms of its name, address or geometry. The vocabulary is specifically designed to aid the publication of data that is interoperable with EU INSPIRE Directive."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "2"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.lenka.no/geo-deling"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary describing the administrative subdivision of Norway"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.lenka.no/geo-deling"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "no",
+          "value": "Dette er et vokabular for administrativ inndeling av Norge, matrikkelen, steder og andre geografiske ting."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "1"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/step"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A lightweight ontology for representing semantic trajectories and contextual elements in terms of features of interests and episodes."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://def.seegrid.csiro.au/ontology/om/om-lite"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "An OWL representation of the Observation Schema described in clauses 7-8 of ISO 19156:2011 Geographic Information - Observations and Measurements / OGC Abstract Specification - Topic 20."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://def.seegrid.csiro.au/ontology/om/sam-lite"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A simple OWL representation of the Sampling Features Schema described in clauses 9-11 of ISO 19156:2011 Geographic Information - Observations and Measurements"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://vocab.deri.ie/rooms"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "A simple vocabulary for describing the rooms in a building."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://biohackathon.org/resource/faldo"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Used to describe a location that consists of a number of Regions but where the order is not known. e.g. the oddly named order() keyword in a INSDC file."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/tsn#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This RDF ontology allows describing any Territorial Statistical Nomenclature (TSN) (i.e., partition of the territory) used as a support to socio-economic data (statistical data that describe territory in terms of population, unemployement rate, transport access, etc.)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://purl.org/net/tsnchange#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The TSN-Change ontology aims at describing changes that occured from one version of a Territorial Statistical Nomenclature (TSN) (i.e., partition of the territory) and its subsequent (e.g., change in territorial units boundaries to reflect an administrative reorganisation)."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://reference.data.gov.au/def/ont/iso19160-1-address"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "This ontology is a version of the ISO TC211, Group for Ontology Management (GOM)'s OWL ontology interpretation of the ISO19160-1:2015 \"Addressing -- Part 1: Conceptual model\" standard (see https://www.iso.org/standard/61710.html) taken from that ontology's source code, published at https://github.com/ISO-TC211/GOM/tree/master/isotc211_GOM_harmonizedOntology/19160-1/2015."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://www.arpenteur.org/ontology/Arpenteur.owl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Arpenteur ontology is dedicated to photogrammetry, archeology and oceanology communities \n\t in order to perform tasks such as image processing, photogrammetry and modelling."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://brk.basisregistraties.overheid.nl/def/brk"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary for the Dutch key register of the cadastre (BRK)"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://brk.basisregistraties.overheid.nl/def/brk"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "nl",
+          "value": "Basisregistratie Kadaster (BRK) vocabulaire"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://brt.basisregistraties.overheid.nl/def/top10nl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "nl",
+          "value": "Basisregistratie Topografie (BRT) vocabulaire"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://brt.basisregistraties.overheid.nl/def/top10nl"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary for the Dutch key register of topography (BRT)"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "https://data.nasa.gov/ontologies/atmonto/general#"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Defines temporal / spatial concepts and general-purpose datastructures"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://cookingbigdata.com/linkeddata/ccregions"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Ontology for the definition of regions and zones of availability on CloudComputing platforms and services. This ontology allows to define model of regions used in large cloud computing providers such as Amazon, Azure, etc."
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://betalinkeddata.cbs.nl/def/cbs"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Vocabulary for datasets from the Netherlands' National Statistics Office"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      },
+      {
+        "uri": {
+          "type": "uri",
+          "value": "http://betalinkeddata.cbs.nl/def/cbs"
+        },
+        "keyword": {
+          "type": "literal",
+          "value": "Geography"
+        },
+        "description": {
+          "type": "literal",
+          "xml:lang": "nl",
+          "value": "Ontologie voor datasets van het CBS"
+        },
+        "reusedByDatasets": {
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "type": "typed-literal",
+          "value": "0"
+        }
+      }
+    ]

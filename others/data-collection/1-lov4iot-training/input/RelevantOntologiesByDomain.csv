@@ -1,0 +1,604 @@
+ontology,query
+http://a.com/ontology,context
+http://a.com/ontology,sensor
+http://a.com/ontology,smart home
+http://aemet.linkeddata.es/describevar.owl,measurement
+http://aemet.linkeddata.es/localizacion.owl,location
+http://aemet.linkeddata.es/ontology/aemet/aemet.owl,location
+http://aemet.linkeddata.es/ontology/geografica.owl,location
+http://cavoc.org/aao/ns/2,activity
+http://cavoc.org/aao/ns/2,agriculture
+http://childhealthservicemodels.eu/asthma,asthma
+http://childhealthservicemodels.eu/asthma,health
+http://cmusv/hsl,sensor
+http://cmusv/hsl,smart home
+http://cmusv/hsl,health
+http://cobra.umbc.edu/ont/2004/05/ebiquity-actions,context
+http://cobra.umbc.edu/ont/2004/05/ebiquity-actions,activity
+http://cobra.umbc.edu/ont/2004/05/ebiquity-geo,context
+http://cobra.umbc.edu/ont/2004/05/ebiquity-geo,location
+http://cobra.umbc.edu/ont/2004/05/ebiquity-meetings,context
+http://cobra.umbc.edu/ont/2004/05/ebiquity-meetings,activity
+http://data.ordnancesurvey.co.uk/ontology/spatialrelations,location
+http://doe-generated-ontology.com/OntoReaChir,health
+http://ebiquity.umbc.edu/ontologies/cybersecurity/ids/v2.2/IDSOntology.owl,security
+http://elite.polito.it/ontologies/dogont.owl,smart home
+http://elite.polito.it/ontologies/poweront.owl,sensor
+http://elite.polito.it/ontologies/poweront.owl,actuator
+http://elite.polito.it/ontologies/poweront.owl,energy
+http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/attack.owl,security
+http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/complexAttack.owl,security
+http://faculty.kutztown.edu/frye/res/onto/reason/tridso_v1/traffic.owl,security
+http://geovocab.org/spatial,location
+http://hxl.humanitarianresponse.info/ns/,environment
+http://imash.leeds.ac.uk/ontologies/atu/GroundOntology.owl,location
+http://imash.leeds.ac.uk/ontologies/atu/GroundOntology.owl,smart city
+http://imash.leeds.ac.uk/ontologies/atu/PipeOntology.owl,smart city
+http://imash.leeds.ac.uk/ontologies/atu/RoadOntology.owl,smart city
+http://imash.leeds.ac.uk/ontologies/atu/RoadOntology.owl,transportation
+http://inwatersense.uni-pr.edu/ontologies/inws-core.owl,environment
+http://inwatersense.uni-pr.edu/ontologies/inws-core.owl,water
+http://iot.linkeddata.es/def/core,internet of things
+http://iot.linkeddata.es/def/core,web of things
+http://iot.linkeddata.es/def/wot,internet of things
+http://iot.linkeddata.es/def/wot,web of things
+http://ipvs.uni-stuttgart.de/SitOPT/seint,sensor
+http://itrc.ac.ir/ontologies/IncidentReportOntology,security
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/eads.owl,transportation
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/eads.owl,aircraft
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl,transportation
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/fiat.owl,vehicle
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/food.owl,food
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/food_nutritions.owl,food
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/food_taxonomy.owl,food
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/generic.owl,product
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/product.owl,product
+http://kmi.open.ac.uk/projects/smartproducts/ontologies/user.owl,user
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,sensor
+http://knoesis.wright.edu/ssw/ont/sensor-observation.owl,measurement
+http://knoesis.wright.edu/ssw/ont/weather.owl,weather
+http://linkedgeodata.org/vocabulary,location
+http://localhost/SensorSchema/ontology,transportation
+http://lpis.csd.auth.gr/ontologies/bonsai/BOnSAI.owl,smart home
+http://mklab.iti.gr/hackair/ontologies/hackairTBox,environment
+http://mklab.iti.gr/hackair/ontologies/hackairTBox,air quality
+http://mmisw.org/ont/mmi/device,sensor
+http://mmisw.org/ont/mmi/device,environment
+http://mmisw.org/ont/univmemphis/sensor,sensor
+http://ns.inria.fr/emoca,context
+http://ns.inria.fr/emoca,emotion
+http://ns.inria.fr/prissma/v2,context
+http://ns.inria.fr/prissma/v2,security
+http://open-multinet.info/ontology/omn-monitoring,measurement
+http://open-multinet.info/ontology/omn-monitoring-data,measurement
+http://open-multinet.info/ontology/omn-monitoring-genericconcepts,measurement
+http://open-multinet.info/ontology/omn-monitoring-genericconcepts,location
+http://open-multinet.info/ontology/omn-monitoring-metric,measurement
+http://open-multinet.info/ontology/omn-monitoring-tool,measurement
+http://open-multinet.info/ontology/omn-monitoring-tool,location
+http://open-multinet.info/ontology/omn-monitoring-tool,time
+http://open-multinet.info/ontology/omn-monitoring-unit,unit
+http://openiot.eu/ontology/ns,internet of things
+http://opensensingcity.emse.fr/ontologies/bikesharing,smart city
+http://opensensingcity.emse.fr/ontologies/bikesharing,transportation
+http://opensensingcity.emse.fr/ontologies/weather,smart city
+http://opensensingcity.emse.fr/ontologies/weather,weather
+http://opensensingcity.emse.fr/scans/entity,smart city
+http://owlrep.eu01.aws.af.cm/fridge,food
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,smart home
+http://paul.staroch.name/thesis/SmartHomeWeather.owl,weather
+http://personal.ee.surrey.ac.uk/Personal/Wei.Wang/ontologies/IoT.est.owl,sensor
+http://personal.ee.surrey.ac.uk/Personal/Wei.Wang/ontologies/IoT.est.owl,internet of things
+http://pervasive.semanticweb.org/ont/2004/06/action,context
+http://pervasive.semanticweb.org/ont/2004/06/action,activity
+http://pervasive.semanticweb.org/ont/2004/06/agent,context
+http://pervasive.semanticweb.org/ont/2004/06/agent,user
+http://pervasive.semanticweb.org/ont/2004/06/bdi,context
+http://pervasive.semanticweb.org/ont/2004/06/bdi,behaviour
+http://pervasive.semanticweb.org/ont/2004/06/device,product
+http://pervasive.semanticweb.org/ont/2004/06/digital-doc,document
+http://pervasive.semanticweb.org/ont/2004/06/document,document
+http://pervasive.semanticweb.org/ont/2004/06/event,context
+http://pervasive.semanticweb.org/ont/2004/06/event,event
+http://pervasive.semanticweb.org/ont/2004/06/geo-measurement,context
+http://pervasive.semanticweb.org/ont/2004/06/geo-measurement,measurement
+http://pervasive.semanticweb.org/ont/2004/06/geo-measurement,location
+http://pervasive.semanticweb.org/ont/2004/06/img-capture,context
+http://pervasive.semanticweb.org/ont/2004/06/knowledge,context
+http://pervasive.semanticweb.org/ont/2004/06/location,context
+http://pervasive.semanticweb.org/ont/2004/06/location,location
+http://pervasive.semanticweb.org/ont/2004/06/meeting,context
+http://pervasive.semanticweb.org/ont/2004/06/meeting,activity
+http://pervasive.semanticweb.org/ont/2004/06/person,context
+http://pervasive.semanticweb.org/ont/2004/06/person,user
+http://pervasive.semanticweb.org/ont/2004/06/policy,context
+http://pervasive.semanticweb.org/ont/2004/06/policy,policy
+http://pervasive.semanticweb.org/ont/2004/06/rcc,context
+http://pervasive.semanticweb.org/ont/2004/06/schedule,context
+http://pervasive.semanticweb.org/ont/2004/06/schedule,activity
+http://pervasive.semanticweb.org/ont/2004/06/space,context
+http://pervasive.semanticweb.org/ont/2004/06/space,location
+http://pervasive.semanticweb.org/ont/2004/06/time,context
+http://pervasive.semanticweb.org/ont/2004/06/time,time
+http://portal.bt-hypercat.com/ontologies/bt-hypercat,sensor
+http://portal.bt-hypercat.com/ontologies/bt-hypercat,internet of things
+http://portal.bt-hypercat.com/ontologies/bt-hypercat,stream
+http://portal.bt-hypercat.com/ontologies/hypercat,internet of things
+http://purl.obolibrary.org/obo/MFOEM,emotion
+http://purl.oclc.org/NET/UASO/qoi,smart city
+http://purl.oclc.org/NET/UASO/qoi,internet of things
+http://purl.oclc.org/NET/UNIS/fiware/iot-lite,internet of things
+http://purl.oclc.org/NET/UNIS/sao/sao,smart city
+http://purl.oclc.org/NET/UNIS/sao/sao,transportation
+http://purl.oclc.org/NET/UNIS/sao/sao,internet of things
+http://purl.oclc.org/NET/ssnx/cf/cf-property,weather
+http://purl.oclc.org/NET/ssnx/qu/qu-rec20,unit
+http://purl.oclc.org/NET/ssnx/ssn,sensor
+http://purl.oclc.org/NET/ssnx/ssn,internet of things
+http://purl.org/IoT/iot,internet of things
+http://purl.org/IoT/iot,web of things
+http://purl.org/NET/ssnext/climate-feature,weather
+http://purl.org/NET/ssnext/communication,sensor
+http://purl.org/NET/ssnext/electricmeters,energy
+http://purl.org/NET/ssnext/heatmeters,sensor
+http://purl.org/NET/ssnext/machinetools,product
+http://purl.org/foodontology,food
+http://purl.org/foodontology,product
+http://purl.org/ieee1872-owl/cora,robotic
+http://purl.org/ieee1872-owl/corax,robotic
+http://purl.org/ieee1872-owl/pos,location
+http://purl.org/ieee1872-owl/pos,robotic
+http://purl.org/ieee1872-owl/rparts,robotic
+http://purl.org/ifo,activity
+http://purl.org/ifo,health
+http://purl.org/ifo,fitness
+http://purl.org/ifo,wearable
+http://purl.org/iot/ontology/fiesta-iot,sensor
+http://purl.org/iot/ontology/fiesta-iot,internet of things
+http://purl.org/iot/vocab/m3-lite,sensor
+http://purl.org/iot/vocab/m3-lite,internet of things
+http://purl.org/net/preSense/ns,sensor
+http://purl.org/net/preSense/ns,user
+http://purl.org/ontology/mo,music
+http://purl.org/vso/ns,transportation
+http://purl.org/vso/ns,vehicle
+http://qallme.itc.it/ontology/qallme-tourism.owl,tourism
+http://qudt.org/schema/qudt,measurement
+http://qudt.org/schema/qudt,unit
+http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl,context
+http://reclamo.inf.um.es/secoman/owl/LocationOntology.owl,location
+http://reclamo.inf.um.es/secoman/owl/SupermarketOntology.owl,food
+http://rhizomik.net/ontologies/2008/05/emotionsonto.owl,emotion
+http://securitytoolbox.appspot.com/MASO,security
+http://securitytoolbox.appspot.com/securityMain,security
+http://securitytoolbox.appspot.com/stac,security
+http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl,environment
+http://semrob-ontology.mpi.aass.oru.se/OntoCity.owl,smart city
+http://sensormeasurement.appspot.com/naturopathy,health
+http://sensormeasurement.appspot.com/naturopathy,food
+http://sensormeasurement.appspot.com/ont/home/homeActivity,context
+http://sensormeasurement.appspot.com/ont/home/homeActivity,smart home
+http://sensormeasurement.appspot.com/ont/home/homeActivity,activity
+http://sensormeasurement.appspot.com/ont/m3/tourism,tourism
+http://sensormeasurement.appspot.com/ont/security/OMS_Ingles.owl,smart home
+http://sensormeasurement.appspot.com/ont/security/OMS_Ingles.owl,security
+http://sisinflab.poliba.it/owl/mafalda-ap,web of things
+http://sisinflab.poliba.it/owl/mafalda-nr,web of things
+http://smartcity.linkeddata.es/lcc/ontology/EnergyConsumption,energy
+http://spitfire-project.eu/ontology/ns,sensor
+http://spitfire-project.eu/ontology/ns,web of things
+http://sweet.jpl.nasa.gov/2.0/geolEarthquake.owl,environment
+http://sweet.jpl.nasa.gov/2.0/geolEarthquake.owl,earthquake
+http://sweet.jpl.nasa.gov/2.3/human.owl,user
+http://sweet.jpl.nasa.gov/2.3/humanAgriculture.owl,agriculture
+http://sweet.jpl.nasa.gov/2.3/humanCommerce.owl,activity
+http://sweet.jpl.nasa.gov/2.3/humanDecision.owl,activity
+http://sweet.jpl.nasa.gov/2.3/humanEnvirAssessment.owl,environment
+http://sweet.jpl.nasa.gov/2.3/humanEnvirConservation.owl,environment
+http://sweet.jpl.nasa.gov/2.3/humanEnvirControl.owl,environment
+http://sweet.jpl.nasa.gov/2.3/humanEnvirStandards.owl,environment
+http://sweet.jpl.nasa.gov/2.3/humanJurisdiction.owl,location
+http://sweet.jpl.nasa.gov/2.3/humanKnowledgeDomain.owl,domain
+http://sweet.jpl.nasa.gov/2.3/humanResearch.owl,research
+http://sweet.jpl.nasa.gov/2.3/humanTechReadiness.owl,user
+http://sweet.jpl.nasa.gov/2.3/humanTransportation.owl,transportation
+http://sweet.jpl.nasa.gov/2.3/matr.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrAerosol.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrAnimal.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrBiomass.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrCompound.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrElement.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrElementalMolecule.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrEnergy.owl,energy
+http://sweet.jpl.nasa.gov/2.3/matrEquipment.owl,transportation
+http://sweet.jpl.nasa.gov/2.3/matrEquipment.owl,equipment
+http://sweet.jpl.nasa.gov/2.3/matrFacility.owl,location
+http://sweet.jpl.nasa.gov/2.3/matrIndustrial.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrInstrument.owl,sensor
+http://sweet.jpl.nasa.gov/2.3/matrIon.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrIsotope.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrMicrobiota.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrMineral.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrNaturalResource.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrOrganicCompound.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrParticle.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrPlant.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrRock.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrRockIgneous.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrSediment.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrWater.owl,environment
+http://sweet.jpl.nasa.gov/2.3/matrWater.owl,water
+http://sweet.jpl.nasa.gov/2.3/phen.owl,event
+http://sweet.jpl.nasa.gov/2.3/phenAtmo.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoCloud.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoFog.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoFront.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoLightning.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoPrecipitation.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoPressure.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoSky.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoTransport.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoWind.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoWind.owl,wind
+http://sweet.jpl.nasa.gov/2.3/phenAtmoWindMesoscale.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenAtmoWindMesoscale.owl,wind
+http://sweet.jpl.nasa.gov/2.3/phenBiol.owl,health
+http://sweet.jpl.nasa.gov/2.3/phenCryo.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenCycle.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenCycleMaterial.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenElecMag.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenEnergy.owl,energy
+http://sweet.jpl.nasa.gov/2.3/phenEnvirImpact.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenGeol.owl,event
+http://sweet.jpl.nasa.gov/2.3/phenGeolSeismicity.owl,earthquake
+http://sweet.jpl.nasa.gov/2.3/phenGeolTectonic.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenGeolVolcano.owl,volcano
+http://sweet.jpl.nasa.gov/2.3/phenOcean.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenOcean.owl,water
+http://sweet.jpl.nasa.gov/2.3/phenOceanCoastal.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenOceanCoastal.owl,water
+http://sweet.jpl.nasa.gov/2.3/phenOceanDynamics.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenOceanDynamics.owl,water
+http://sweet.jpl.nasa.gov/2.3/phenPlanetClimate.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenReaction.owl,event
+http://sweet.jpl.nasa.gov/2.3/phenSolid.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenSolid.owl,acitivity
+http://sweet.jpl.nasa.gov/2.3/phenStar.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenSystem.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenSystem.owl,event
+http://sweet.jpl.nasa.gov/2.3/phenSystemComplexity.owl,weather
+http://sweet.jpl.nasa.gov/2.3/phenSystemComplexity.owl,event
+http://sweet.jpl.nasa.gov/2.3/phenWave.owl,environment
+http://sweet.jpl.nasa.gov/2.3/phenWaveNoise.owl,environment
+http://sweet.jpl.nasa.gov/2.3/proc.owl,process
+http://sweet.jpl.nasa.gov/2.3/procChemical.owl,process
+http://sweet.jpl.nasa.gov/2.3/procPhysical.owl,process
+http://sweet.jpl.nasa.gov/2.3/procStateChange.owl,process
+http://sweet.jpl.nasa.gov/2.3/procWave.owl,process
+http://sweet.jpl.nasa.gov/2.3/prop.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propBinary.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propCapacity.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propCategorical.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propCharge.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propChemical.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propConductivity.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propCount.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propDifference.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propDiffusivity.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propDimensionlessRatio.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propEnergy.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propEnergy.owl,energy
+http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propEnergyFlux.owl,energy
+http://sweet.jpl.nasa.gov/2.3/propFraction.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propFunction.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propIndex.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propMass.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propMassFlux.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propOrdinal.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propPressure.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propQuantity.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propRotation.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpace.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpace.owl,location
+http://sweet.jpl.nasa.gov/2.3/propSpaceDirection.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpaceDirection.owl,location
+http://sweet.jpl.nasa.gov/2.3/propSpaceDistance.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpaceLocation.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpaceLocation.owl,location
+http://sweet.jpl.nasa.gov/2.3/propSpaceMultidimensional.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpaceThickness.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propSpeed.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propTemperature.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propTemperature.owl,weather
+http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propTemperatureGradient.owl,weather
+http://sweet.jpl.nasa.gov/2.3/propTime.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propTime.owl,time
+http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/propTimeFrequency.owl,time
+http://sweet.jpl.nasa.gov/2.3/realm.owl,environment
+http://sweet.jpl.nasa.gov/2.3/realmAtmoWeather.owl,weather
+http://sweet.jpl.nasa.gov/2.3/realmClimateZone.owl,weather
+http://sweet.jpl.nasa.gov/2.3/realmLandAeolian.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandCoastal.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandFluvial.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandGlacial.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandOrographic.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandProtected.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandTectonic.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandVolcanic.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmLandform.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmOcean.owl,environment
+http://sweet.jpl.nasa.gov/2.3/realmOcean.owl,water
+http://sweet.jpl.nasa.gov/2.3/realmOceanFeature.owl,environment
+http://sweet.jpl.nasa.gov/2.3/realmOceanFeature.owl,water
+http://sweet.jpl.nasa.gov/2.3/realmOceanFloor.owl,environment
+http://sweet.jpl.nasa.gov/2.3/realmOceanFloor.owl,water
+http://sweet.jpl.nasa.gov/2.3/realmRegion.owl,location
+http://sweet.jpl.nasa.gov/2.3/realmSoil.owl,environment
+http://sweet.jpl.nasa.gov/2.3/relaClimate.owl,weather
+http://sweet.jpl.nasa.gov/2.3/relaHuman.owl,user
+http://sweet.jpl.nasa.gov/2.3/relaSpace.owl,location
+http://sweet.jpl.nasa.gov/2.3/relaTime.owl,time
+http://sweet.jpl.nasa.gov/2.3/repr.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataFormat.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataModel.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataProduct.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataProduct.owl,product
+http://sweet.jpl.nasa.gov/2.3/reprDataService.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataService.owl,service
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceAnalysis.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceAnalysis.owl,service
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceGeospatial.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceGeospatial.owl,service
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceReduction.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceReduction.owl,service
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceValidation.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprDataServiceValidation.owl,service
+http://sweet.jpl.nasa.gov/2.3/reprMath.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprMathFunction.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprMathFunctionOrthogonal.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprMathGraph.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprMathOperation.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprMathSolution.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprMathStatistics.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciComponent.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciFunction.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciLaw.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciMethodology.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciModel.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciProvenance.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSciUnits.owl,unit
+http://sweet.jpl.nasa.gov/2.3/reprSpace.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSpace.owl,location
+http://sweet.jpl.nasa.gov/2.3/reprSpaceCoordinate.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSpaceCoordinate.owl,location
+http://sweet.jpl.nasa.gov/2.3/reprSpaceDirection.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSpaceDirection.owl,location
+http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry.owl,location
+http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry3D.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSpaceGeometry3D.owl,location
+http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprSpaceReferenceSystem.owl,location
+http://sweet.jpl.nasa.gov/2.3/reprTime.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprTime.owl,time
+http://sweet.jpl.nasa.gov/2.3/reprTimeDay.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprTimeDay.owl,time
+http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/reprTimeSeason.owl,time
+http://sweet.jpl.nasa.gov/2.3/stateBiological.owl,health
+http://sweet.jpl.nasa.gov/2.3/stateBiological.owl,environment
+http://sweet.jpl.nasa.gov/2.3/stateChemical.owl,environment
+http://sweet.jpl.nasa.gov/2.3/stateDataProcessing.owl,context
+http://sweet.jpl.nasa.gov/2.3/stateEnergyFlux.owl,energy
+http://sweet.jpl.nasa.gov/2.3/statePhysical.owl,environment
+http://sweet.jpl.nasa.gov/2.3/stateRealm.owl,location
+http://sweet.jpl.nasa.gov/2.3/stateRole.owl,user
+http://sweet.jpl.nasa.gov/2.3/stateRoleBiological.owl,environment
+http://sweet.jpl.nasa.gov/2.3/stateRoleChemical.owl,environment
+http://sweet.jpl.nasa.gov/2.3/stateRoleGeographic.owl,location
+http://sweet.jpl.nasa.gov/2.3/stateRoleImpact.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateRoleRepresentative.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateRoleTrust.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateSolid.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateSpace.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateSpace.owl,location
+http://sweet.jpl.nasa.gov/2.3/stateSpaceConfiguration.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateSpaceScale.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateSpectralBand.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateSpectralLine.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateStorm.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateStorm.owl,weather
+http://sweet.jpl.nasa.gov/2.3/stateSystem.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateThermodynamic.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateTime.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateTime.owl,time
+http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateTimeCycle.owl,time
+http://sweet.jpl.nasa.gov/2.3/stateTimeFrequency.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateTimeFrequency.owl,time
+http://sweet.jpl.nasa.gov/2.3/stateTimeGeologic.owl,measurement
+http://sweet.jpl.nasa.gov/2.3/stateTimeGeologic.owl,time
+http://sweet.jpl.nasa.gov/2.3/stateVisibility.owl,measurement
+http://taga.umbc.edu/travel.owl,tourism
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,smart home
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,activity
+http://users.abo.fi/ndiaz/public/HumanActivity.owl,behaviour
+http://vcharpenay.github.io/hto/hto.xml,web of things
+http://vcharpenay.github.io/hto/hto.xml,"smart home,sensor"
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,context
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,transportation
+http://vi.uni-klu.ac.at/ontology/DrivingContext.owl,vehicle
+http://vital-iot.eu/ontology/ns,smart city
+http://vital-iot.eu/ontology/ns,internet of things
+http://vocab.lodum.de/limap,location
+http://vocab.ox.ac.uk/meter,energy
+http://w3c.github.io/wot/w3c-wot-td-ire.owl,smart home
+http://w3c.github.io/wot/w3c-wot-td-ire.owl,web of things
+http://w3id.org/semiot/ontologies/proto,prototype
+http://web.tiscali.it/lchkl/ontology/FoodOntology.owl,food
+http://webmind.dico.unimi.it/CARE/locont.owl,smart home
+http://webmind.dico.unimi.it/CARE/locont.owl,activity
+http://websemantic.net/2013/FoodKB,food
+http://www-usr.inf.ufsm.br/~brunomozza/iotsec,security
+http://www-usr.inf.ufsm.br/~brunomozza/iotsec,internet of things
+http://www.Smart-Homes-owl-ontologies.com/Behaviour_SH_Ontology.owl,smart home
+http://www.Smart-Homes-owl-ontologies.com/Behaviour_SH_Ontology.owl,behaviour
+http://www.Smart-Homes-owl-ontologies.com/Person_SH_Ontology.owl,smart home
+http://www.Smart-Homes-owl-ontologies.com/Person_SH_Ontology.owl,health
+http://www.Smart-Homes-owl-ontologies.com/Person_SH_Ontology.owl,user
+http://www.Smart-Homes-owl-ontologies.com/Task_SH__Ontology.owl,smart home
+http://www.Smart-Homes-owl-ontologies.com/Task_SH__Ontology.owl,activity
+http://www.anr-proteus.fr/sites/default/files/download/Ontology/Proteus.owl,robotic
+http://www.anr-proteus.fr/sites/default/files/download/Ontology/RoboticOntologyServices.owl,robotic
+http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel,sensor
+http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel,smart home
+http://www.cmusv.edu/SmartCommunity/CombinedModel/5.0/CoreSCModel,health
+http://www.cs.stir.ac.uk/schemas/call_control.owl,smart home
+http://www.cs.stir.ac.uk/schemas/call_control.owl,call
+http://www.cs.stir.ac.uk/schemas/genpol.owl,smart home
+http://www.cs.stir.ac.uk/schemas/genpol.owl,policy
+http://www.cs.stir.ac.uk/schemas/home_care.owl,smart home
+http://www.cs.stir.ac.uk/schemas/home_care.owl,activity
+http://www.cs.stir.ac.uk/schemas/home_care.owl,health
+http://www.cs.stir.ac.uk/schemas/home_care.owl,user
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,sensor
+http://www.cs.stir.ac.uk/schemas/sensor_network.owl,smart home
+http://www.cs.stir.ac.uk/schemas/wizpol.owl,smart home
+http://www.cs.stir.ac.uk/schemas/wizpol.owl,policy
+http://www.csiro.au/Ontologies/2009/SensorOntology.owl,context
+http://www.csiro.au/Ontologies/2009/SensorOntology.owl,sensor
+http://www.demcare.eu/ontologies/event.owl,smart home
+http://www.demcare.eu/ontologies/event.owl,event
+http://www.demcare.eu/ontologies/home.owl,context
+http://www.demcare.eu/ontologies/home.owl,smart home
+http://www.demcare.eu/ontologies/home.owl,activity
+http://www.demcare.eu/ontologies/home.owl,health
+http://www.demcare.eu/ontologies/lab.owl,context
+http://www.demcare.eu/ontologies/lab.owl,smart home
+http://www.demcare.eu/ontologies/lab.owl,activity
+http://www.demcare.eu/ontologies/lab.owl,health
+http://www.disit.org/km4city/resource,smart city
+http://www.disit.org/km4city/resource,service
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,sensor
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Equipment_SH_Ontology.owl,smart home
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Event_SH_Ontology.owl,smart home
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Habitat_SH_Ontology.owl,smart home
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Habitat_SH_Ontology.owl,room
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Software_Applications_SH_Ontology.owl,smart home
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Software_Applications_SH_Ontology.owl,activity
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Software_Applications_SH_Ontology_Small.owl,smart home
+http://www.gdst.uqam.ca/Documents/Ontologies/HIT/Software_Applications_SH_Ontology_Small.owl,activity
+http://www.geonames.org/ontology,location
+http://www.gsi.dit.upm.es/ontologies/onyx/ns,emotion
+http://www.ibm.com/SCTC/ontology/CoreSpatioTemporalDataSensorOntology.owl,location
+http://www.ibm.com/SCTC/ontology/CoreSpatioTemporalDataSensorOntology.owl,smart city
+http://www.ibm.com/SCTC/ontology/SIRIBasedTransportation.owl,smart city
+http://www.ibm.com/SCTC/ontology/SIRIBasedTransportation.owl,transportation
+http://www.ibm.com/SCTC/ontology/TravelTimeOntology.owl,transportation
+http://www.ibm.com/SCTC/ontology/TravelTimeOntology.owl,time
+http://www.ibm.com/SCTC/ontology/WeatherOntology/WeatherOntology.owl,weather
+http://www.ida.liu.se/~iislab/projects/secont/Security.owl,security
+http://www.irit.fr/recherches/MELODI/ontologies/SAN,sensor
+http://www.irit.fr/recherches/MELODI/ontologies/SAN,actuator
+http://www.kanzaki.com/ns/music,music
+http://www.livewiredg.myby.co.uk/rdf/geo-layers/Tourism/tourism-uk.owl,tourism
+http://www.ll.mit.edu/2008/extras.owl,weather
+http://www.ll.mit.edu/2008/llSci.owl,measurement
+http://www.ll.mit.edu/2008/precipitation.owl,weather
+http://www.ll.mit.edu/2008/wind.owl,weather
+http://www.ll.mit.edu/2008/wind.owl,wind
+http://www.ll.mit.edu/ontologies/2008/measurement.owl,measurement
+http://www.modul.ac.at/ontology/TourismOntology.owl,tourism
+http://www.onem2m.org/ontology/Base_Ontology/base_ontology,internet of things
+http://www.ontologydesignpatterns.org/ont/dul/DUL.owl,location
+http://www.ontologydesignpatterns.org/ont/prisma/ontology.owl,smart city
+http://www.ontologydesignpatterns.org/ont/prisma/ontology.owl,internet of things
+http://www.ontotext.com/proton/protontop,tourism
+http://www.opengis.net/ont/geosparql,location
+http://www.owl-ontologies.com/Environment.owl,smart home
+http://www.owl-ontologies.com/Environment.owl,environment
+http://www.owl-ontologies.com/HospitalOntology.owl,context
+http://www.owl-ontologies.com/HospitalOntology.owl,health
+http://www.owl-ontologies.com/OCATIS.owl,tourism
+http://www.owl-ontologies.com/Ontology1254773129.owl,context
+http://www.owl-ontologies.com/Ontology1254773129.owl,health
+http://www.owl-ontologies.com/SunMoonLakeOntology.owl,tourism
+http://www.owl-ontologies.com/kamer/notificationPolicy.owl,health
+http://www.owl-ontologies.com/kamer/notificationPolicy.owl,policy
+http://www.owl-ontologies.com/kamer/patient.owl,context
+http://www.owl-ontologies.com/kamer/patient.owl,smart home
+http://www.owl-ontologies.com/kamer/patient.owl,health
+http://www.owl-ontologies.com/kamer/patient.owl,user
+http://www.pr-owl.org/pr-owl.owl,environment
+http://www.pr-owl.org/pr-owl.owl,robotic
+http://www.semanticweb.org/bogdan/ontologies/2013/11/cisis,health
+http://www.semanticweb.org/david/ontologies/2012/10/EarthquakePrediction,environment
+http://www.semanticweb.org/david/ontologies/2012/10/EarthquakePrediction,earthquake
+http://www.semanticweb.org/kpark/ontologies/2013/8/untitled-ontology-7,context
+http://www.semanticweb.org/kpark/ontologies/2013/8/untitled-ontology-7,smart city
+http://www.semanticweb.org/kpark/ontologies/2013/8/untitled-ontology-7,transportation
+http://www.semanticweb.org/morignot/ontologies/2013/1/perception,measurement
+http://www.semanticweb.org/morignot/ontologies/2013/1/perception,transportation
+http://www.semanticweb.org/nicolas/ontologies/2014/9/Smart_City,smart city
+http://www.semanticweb.org/ontologies/2008/9/Ontology_fruits_tropical.owl,food
+http://www.semanticweb.org/ontologies/2011/0/Ontology1296481820777.owl,sensor
+http://www.semanticweb.org/ontologies/2011/0/Ontology1296481820777.owl,security
+http://www.semanticweb.org/ontologies/2011/7/SA.owl,internet of things
+http://www.semanticweb.org/ontologies/2012/2/Ontology1331186342473.owl,environment
+http://www.semanticweb.org/ontologies/2012/2/Ontology1331186342473.owl,earthquake
+http://www.semanticweb.org/ontologies/2013/2/KinectOntology.owl,smart home
+http://www.semanticweb.org/ontologies/2013/2/KinectOntology.owl,activity
+http://www.semanticweb.org/ontologies/2013/2/Measurement_Ontology.owl,health
+http://www.semanticweb.org/philippemorignot/ontologies/2012/5/cas6,transportation
+http://www.semanticweb.org/shohreh/ontologies/2013/6/untitled-ontology-7,security
+http://www.sensormeasurement.appspot.com/ont/transport/traffic,transportation
+http://www.sensormeasurement.appspot.com/ont/transport/traffic,robotic
+http://www.surrey.ac.uk/ccsr/IoT-A/EntityModel.owl,internet of things
+http://www.surrey.ac.uk/ccsr/ontologies/ResourceModel.owl,sensor
+http://www.surrey.ac.uk/ccsr/ontologies/ResourceModel.owl,actuator
+http://www.surrey.ac.uk/ccsr/ontologies/ServiceModel.owl,internet of things
+http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Resource.owl,sensor
+http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Service.owl,sensor
+http://www.surrey.ac.uk/ccsr/ontologies/U38_Temp_Sensor_Service.owl,service
+http://www.tele.pw.edu.pl/~sims-onto/ConnectivityType.owl,security
+http://www.w3.org/2003/01/geo/wgs84_pos,location
+http://www.w3.org/2007/uwa/context/deliverycontext.owl,context
+http://www.w3.org/ns/sosa,sensor
+http://www.w3.org/ns/sosa,actuator
+http://www.w3.org/ns/sosa,internet of things
+http://www.w3.org/ns/ssn,sensor
+http://www.w3.org/ns/ssn,internet of things
+http://www.w3c.org/wot/td,smart home
+http://www.w3c.org/wot/td,internet of things
+http://www.w3c.org/wot/td,web of things
+http://www.w3id.org/semiot/ontologies/hydra/pubsub,service
+https://brickschema.org/schema/1.0.3/BrickFrame,smart home
+https://raw.github.com/doroam/planning-do-roam/master/Ontology/tags.owl,location
+https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl,context
+https://raw.githubusercontent.com/minelabwot/SWoT/master/swot-o.owl,web of things
+https://w3id.org/saref,"smart home,internet of things"
+https://w3id.org/seas/,energy
+https://w3id.org/stn/core,web of things
+https://w3id.org/stn/core,user
+https://w3id.org/stn/core/operations,activity
+https://w3id.org/stn/core/operations,web of things
+https://w3id.org/stn/core/operations/http,web of things
+https://w3id.org/stn/core/operations/http,service
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl,smart home
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ActorOntology.owl,user
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/BuildingOntology.owl,building
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,sensor
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/EnergyResourceOntology.owl,energy
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/ProcessOntology.owl,process
+https://www.auto.tuwien.ac.at/downloads/thinkhome/ontology/WeatherOntology.owl,weather
+https://www.irit.fr/recherches/MELODI/ontologies/IoT-O,smart home
+https://www.irit.fr/recherches/MELODI/ontologies/IoT-O,internet of things
+https://www.w3.org/2005/Incubator/ssn/ssnx/meteo/aws,weather
+ttp://kmi.open.ac.uk/projects/smartproducts/ontologies/process.owl,activity
+ttp://opensensingcity.emse.fr/ontologies/parking,smart city
+ttp://opensensingcity.emse.fr/ontologies/parking,transportation
